@@ -989,25 +989,11 @@ flex: 1 1 auto;" class="form-control">
             <div class="col-lg-3 col-md-6 footer-contact">
               <img src="sitepackage/img/banner//logo.png" alt="" width="100%">
 
-              <p>Shop no 2, Anthony's school suchitra, sri Durga estates Hyderabad, Telangana 500055</p>
-              <p>Plot no 30A ghandi Rd , kavankrai, puzhal, channai tamilnadu 600066
-              </p>
-              <p>Sai deep apartment balkum naka near fire bridge St thane west mumbai 400608
-              </p>
-              <p>
-                Plot no 17A Jai Mangal murti housing society Sai nagar wadi nagpur - 440023
-              </p>
-              <p>No. 02.k no . 41/6 vittasandra Begur banglore 560100
-              </p>
-              <p>Sector 5 lakshman chowk old railway road gurugram</p>
-              <p>Shop No. 06, Gate No . 65, Near Marere
-                House , Borhadewad Moshi , Pune - 41210</p>
+              <p>Address: Pocket-H, First Floor, 48, 2, Sector Alpha Rd, Greater Noida, Uttar Pradesh 201307</p>
 
-              <strong>Email:</strong> <a href="mailto:">nationalpackersandmoversinfo@gmail.com</a><br>
-              <strong>Mobile:</strong> <a href="tel:+919043798129">+91 9043798129</a>, <a
-                href="tel:+919043798129">9043798129</a><br>
-              <strong> Gst In :</strong> 33IAQPK3437R1ZU
-              </p>
+              <strong>Email:</strong> <a href="mailto:">Oncallpackers@gmail.com</a><br>
+              <strong>Mobile:</strong> <a href="tel:+918448574563">+91 98448574563</a>
+              </p>  
 
 
             </div>
@@ -1020,11 +1006,10 @@ flex: 1 1 auto;" class="form-control">
                 <li><i class="bx bx-chevron-right"></i> <a href="car-transportation.html">Car Transportation</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="bike-transportation.html">Bike Transportation</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="warehousing-services.html">Warehousing</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="pet.html">Pet Relocation</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="truck-on-rent-for-shifting.html">Truck/Tempo on
-                    Rent</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="luggage-transport-services-in-india.html">Luggage
-                    Transport</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="local-shifting.html">Local Shifting</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="commercial-shifting.html">Commercial Shifting</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="corporate-moving.html">Corporate Moving</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="international-moving.html">International Moving</a></li>
 
                 <!-- <li><i class="bx bx-chevron-right"></i> <a href="#">Pest Control</a></li> -->
 
@@ -1064,15 +1049,13 @@ flex: 1 1 auto;" class="form-control">
               <h4 class="text-left">Help Us Spread the Word</h4>
               <p class="text-left">Like, Follow, Tweet or Share. We Just Love Interacting With You.</p>
               <div class="social-links text-left">
-                <a href="https://x.com/?lang=en" class="twitter"><i class="bx bxl-twitter"></i><span>Twitter</span></a>
-                <a href="https://www.facebook.com/" class="facebook"><i
+                <a href="https://www.youtube.com/@OnCallPackers" class="twitter"><i class="bx bxl-twitter"></i><span>Twitter</span></a>
+                <a href="https://www.facebook.com/profile.php?id=100091494346789" class="facebook"><i
                     class="bx bxl-facebook"></i><span>Facebook</span></a>
                 <a href="https://www.instagram.com/" class="instagram"><i
                     class="bx bxl-instagram"></i><span>instagram</span></a>
-                <a href="https://www.youtube.com/" class="google-plus"><i
+                <a href="https://www.youtube.com/@OnCallPackers" class="google-plus"><i
                     class="bx bxl-youtube"></i><span>Youtube</span></a>
-                <a href="https://www.linkedin.com/" class="linkedin"><i
-                    class="bx bxl-linkedin"></i><span>Linkedin</span></a>
               </div>
 
             </div>
@@ -1084,47 +1067,28 @@ flex: 1 1 auto;" class="form-control">
         <div class="container">
           <div class="row">
             <div class="col-lg-3 col-md-6 footer-contact">
-              <h3>National packers and Mover</h3>
+              <h3>On Call Packers and Mover</h3>
 
 
-              <p>Shop no 2, Anthony's school suchitra, sri Durga estates Hyderabad, Telangana 500055</p>
-              <p>Plot no 30A ghandi Rd , kavankrai, puzhal, channai tamilnadu 600066
-              </p>
-              <p>Sai deep apartment balkum naka near fire bridge St thane west mumbai 400608
-              </p>
-              <p>
-                Plot no 17A Jai Mangal murti housing society Sai nagar wadi nagpur - 440023
-              </p>
-              <p>No. 02.k no . 41/6 vittasandra Begur banglore 560100
-              </p>
-              <p>Sector 5 lakshman chowk old railway road gurugram</p>
-              <p>Shop No. 06, Gate No . 65, Near Marere
-                House , Borhadewad Moshi , Pune - 41210</p>
+              <p>Address: Pocket-H, First Floor, 48, 2, Sector Alpha Rd, Greater Noida, Uttar Pradesh 201307</p>
               <strong>Email:</strong> <a
-                href="mailto:nationalpackersandmoversinfo@gmail.com">nationalpackersandmoversinfo@gmail.com</a><br>
-              <strong>Mobile:</strong> <a href="tel:+919043798129">+91-9043798129</a>, <a
-                href="tel:+919043798129">9043798129</a><br>
-              <strong> Gst In :</strong> 33IAQPK3437R1ZU
-
-
+                href="mailto:Oncallpackers@gmail.com">Oncallpackers@gmail.com</a><br>
+              <strong>Mobile:</strong> <a href="tel:+9198448574563">+91-98448574563</a>
               <br>
               </p>
-
 
             </div>
             <div class="col-lg-3 col-md-6 text-center">
               <h4 class="text-left">Help Us Spread the Word</h4>
               <p class="text-left">Like, Follow, Tweet or Share. We Just Love Interacting With You.</p>
               <div class="social-links text-left">
-                <a href="https://x.com/?lang=en" class="twitter"><i class="bx bxl-twitter"></i><span>Twitter</span></a>
-                <a href="https://www.facebook.com/" class="facebook"><i
+                <a href="https://www.youtube.com/@OnCallPackers" class="twitter"><i class="bx bxl-twitter"></i><span>Twitter</span></a>
+                <a href="https://www.facebook.com/profile.php?id=100091494346789" class="facebook"><i
                     class="bx bxl-facebook"></i><span>Facebook</span></a>
                 <a href="https://www.instagram.com/" class="instagram"><i
                     class="bx bxl-instagram"></i><span>instagram</span></a>
-                <a href="https://www.youtube.com/" class="google-plus"><i
+                <a href="https://www.youtube.com/@OnCallPackers" class="google-plus"><i
                     class="bx bxl-youtube"></i><span>Youtube</span></a>
-                <a href="https://www.linkedin.com/" class="linkedin"><i
-                    class="bx bxl-linkedin"></i><span>Linkedin</span></a>
               </div>
 
             </div>
@@ -1138,18 +1102,14 @@ flex: 1 1 auto;" class="form-control">
                   <div id="content-list-7" class="collapse" data-parent=".content-list">
                     <div class="footer-links">
                       <ul>
-                        <li><i class="bx bx-chevron-right"></i> <a href="residential-relocation.html">Relocation
-                            Services</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="car-transportation.html">Car Transportation</a>
-                        </li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="bike-transportation.html">Bike
-                            Transportation</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="residential-relocation.html">Relocation Services</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="car-transportation.html">Car Transportation</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="bike-transportation.html">Bike Transportation</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="warehousing-services.html">Warehousing</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="pet.html">Pet Relocation</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="truck-on-rent-for-shifting.html">Truck/Tempo on
-                            Rent</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a
-                            href="luggage-transport-services-in-india.html">Luggage Transport</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="local-shifting.html">Local Shifting</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="commercial-shifting.html">Commercial Shifting</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="corporate-moving.html">Corporate Moving</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="international-moving.html">International Moving</a></li>
                         <!-- <li><i class="bx bx-chevron-right"></i> <a href="pe">Pest Control</a></li> -->
 
 
@@ -1212,38 +1172,20 @@ flex: 1 1 auto;" class="form-control">
 
         <div class="mr-md-auto text-center text-md-left">
           <div class="copyright">
-            &copy; All rights reserved 2022 <a href="index.html">National packers and Mover</a>
+            &copy; All rights reserved 2025 <a href="rnpitsolution.com">RNP IT SOLUTION</a>
           </div>
-          <!-- <div class="credits">
-          <p class="text-justify"> <strong>Disclaimer:</strong> We only provide references for professional packers and  movers in India. Before finalizing any packers and movers or any related  vendor, you are advised to verify their credentials on your own. Get everything  (quotations) in writing. Don&rsquo;t forget to get the final bill receipt before  allowing the movers to handle your move. We won&rsquo;t be responsible for any kind  of loss, damage, or mishap.<br><br></p>
-
-        </div> -->
         </div>
       </div>
     </footer>
+
+
+
     <div class="fixedbar">
       <div class="boxfloat">
         <ul id="tips">
-          <li class="pl-0 float-right"><span id="whatsapp"><a href="https://wa.me/919043798129?text=Hi"></a></span></li>
+          <li class="pl-0 float-right"><span id="whatsapp"><a href="https://wa.me/918448574563?text=Hi"></a></span></li>
           <li><a href="contact-us.html" class="btn btn-info quotes">Get Quotes</a></li>
-          <li><select id="mySelect1" onchange="myFunction(this.value)" name="city-search"
-              class="form-control mobile-search-city">
-              <option value="#" selected disabled>Change City...</option>
-              <option value='agra'>Agra</option>
-
-
-              <option value='pilkhuwa'>Pilkhuwa</option>
-
-              <option value='sonbhadra'>Sonbhadra</option>
-              <option value='sonipat'>Sonipat</option>
-              <option value='surat'>Surat</option>
-              <option value='thane'>Thane</option>
-              <option value='udaipur'>Udaipur</option>
-              <option value='vadodara'>Vadodara</option>
-              <option value='varanasi'>Varanasi</option>
-              <option value='zirakpur'>Zirakpur</option>
-            </select>
-          </li>
+          
         </ul>
 
       </div>
@@ -1308,6 +1250,7 @@ flex: 1 1 auto;" class="form-control">
     <script src="sitepackage/js/venobox.min.js"></script>
     <script src="sitepackage/js/jquery.waypoints.min.js"></script>
     <script src="sitepackage/js/counterup.min.js"></script>
+    <script src="sitepackage/js/owl.carousel.min.js"></script>
     <script src="sitepackage/js/bootstrap-datepicker.min.js"></script>
     <script src="sitepackage/js/main.js"></script>
     <script>
@@ -1328,11 +1271,11 @@ flex: 1 1 auto;" class="form-control">
     <script>
       function myFunction(x) {
         if (x == 'mumbai') {
-          window.location = "https://www.National packers and mover /packers-and-movers-" + x + ".html";
+          window.location = "#" + x + ".html";
         } else if (x == 'bangalore') {
-          window.location = "https://www.National packers and mover /packers-and-movers-" + x + ".html";
+          window.location = "#" + x + ".html";
         } else {
-          window.location = "https://www.National packers and mover /packers-and-movers-in-" + x + ".html";
+          window.location = "#" + x + ".html";
         }
       }
     </script>
@@ -1354,12 +1297,15 @@ flex: 1 1 auto;" class="form-control">
         });
       });
     </script>
+
+
+
     <script type="application/ld+json">
  { "@context": "https://schema.org",
  "@type": "Organization",
- "name": "National packers and mover ",
- "url": "https://www.National packers and mover ",
- "logo": "https://www.National packers and mover /https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/ca0878f5-1bbc-4f38-371a-37783c4de600/logo",
+ "name": "National packers and Mover",
+ "url": "https://www.nationalpackersandmover & Moves",
+ "logo": "https://www.nationalpackersandmover & Moves/https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/ca0878f5-1bbc-4f38-371a-37783c4de600/logo",
  "foundingDate": "2014",
  "founders": [
  {
@@ -1377,16 +1323,38 @@ flex: 1 1 auto;" class="form-control">
  "@type": "ContactPoint",
  "contactType": "customer support",
  "telephone": "[+91-9911-91-5845]",
- "email": "enquiry@National packers and mover "
+ "email": "enquiry@nationalpackersandmover & Moves"
  },
  "sameAs": [ 
  "https://www.facebook.com/movingsolutionss/",
  "https://twitter.com/movingsolution6/",
- "https://www.instagram.com/National packers and mover /",
+ "https://www.instagram.com/nationalpackersandmover & Moves/",
  "https://www.youtube.com/movingsolutions/",
  "https://www.linkedin.com/company/movingsolutions"
  ]}
 </script>
+    <script>
+      $('.owl-carousel').owlCarousel({
+        loop: true,
+        margin: 10,
+        dots: false,
+        nav: true,
+        autoplay: true,
+        smartSpeed: 3000,
+        autoplayTimeout: 7000,
+        responsive: {
+          0: {
+            items: 1
+          },
+          600: {
+            items: 2
+          },
+          1000: {
+            items: 3
+          }
+        }
+      })
+    </script>
 
   </body>
 

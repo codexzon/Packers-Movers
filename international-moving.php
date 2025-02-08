@@ -1,20 +1,19 @@
 <!DOCTYPE html>
 <html itemtype="http://schema.org/WebPage" lang="en">
 
-
   <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>Hire Truck for shifting – Book Truck on rent at affordable price</title>
+    <title>Luggage Transport | Baggage &amp; Luggage Delivery | Luggage Shifting Services India</title>
     <meta name="description"
-      content="We offer the most affordable truck for shifting purposes. Get a free quote to book online tempo for shifting and mini truck on rent through National packers and Mover" />
+      content="Luggage Shifting Services India: National packers and mover offers best Luggage Transport in India. Compare top 3 Best Baggage &amp; Luggage Delivery in India to choose the right one and save money. Move with Us, Move with Trust. Guaranteed Best Shifting Experience!" />
     <meta name="keywords"
-      content="mini truck on rent, mini truck for shifting, truck on rent, truck hire services, online truck booking, book truck online, hire truck online" />
+      content="luggage transport services, luggage transport, luggage transporters, luggage delivery services, luggage delivery service india, luggage shifting, luggage shifting service" />
     <meta name="author" content="National packers and Mover" />
     <meta name="distribution" content="global" />
     <meta name="Content-Language" content="EN" />
     <meta name="geo.region" content="IN">
-    <link rel="canonical" href="https://www.National packers and mover/truck-on-rent-for-shifting.html" />
+    <link rel="canonical" href="https://www.National packers and mover/luggage-transport-services-in-india.html" />
     <link href="sitepackage/img/banner/logo.png" rel="icon">
     <link href="sitepackage/css/style.css" rel="stylesheet">
     <link href="sitepackage/css/bootstrap.min.css" rel="stylesheet">
@@ -35,7 +34,7 @@
     <style>
       #imgoverlay-inner {
         height: auto;
-        background: url("https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/0444aa22-9702-4664-1122-75112bdfd200/public") top left;
+        background: url("https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/4c195fbc-1f64-48e9-0efb-66ace85d5c00/public") top left;
         background-size: auto;
         background-size: cover;
         position: relative;
@@ -155,9 +154,9 @@
                 </div>
                 <div class="col-md-6 float-left ph-4">
                   <div class="mobile-view-inner">
-                    <h1 class="text-left">Truck and Mini Truck on Rent</h1>
-                    <p class="pc">Hiring the best truck and mini truck on rent for shifting is no more hassle now. View
-                      pricing, read reviews, compare rates and book the best-rated verified mover in India at best
+                    <h1 class="text-left">Luggage Transport Services in India</h1>
+                    <p class="pc">Hiring the best luggage transport services provider in India is no more hassle now.
+                      View pricing, read reviews, compare rates and book the best-rated verified mover in India at best
                       price.</p>
                     <div class="col-md-6 float-left mth pc text-left"><img
                         src="sitepackage/img/services/trusted-services.svg" alt="Verified Professionals"
@@ -176,22 +175,24 @@
                 </div>
                 <div class="clearfix"></div>
                 <div class="carousel slide text-center pb-3 carousel-display" data-ride="carousel">
-                  <h1 class="text-center">Truck and Mini Truck on Rent</h1>
-                  <p>Find and compare India's best truck and mini truck on rent for shifting services. And save up to
-                    25% on booking.</p>
+                  <h1 class="text-center">Luggage Transport Services in India</h1>
+                  <p>Find and compare India's best luggage transport services provider. And save up to 25% on booking.
+                  </p>
                   <div class="carousel-inner">
                     <div class="carousel-item active">
-                      <img src="sitepackage/img/services/trusted-services.svg" alt="Verified Professionals"
-                        title="Verified Professionals" class="icon-size"> <br><span class="size">Verified
-                        Professionals</span>
+                      <img src="https://www.National packers and mover/sitepackage/img/services/trusted-services.svg"
+                        alt="Verified Professionals" title="Verified Professionals" class="icon-size"> <br><span
+                        class="size">Verified Professionals</span>
                     </div>
                     <div class="carousel-item">
-                      <img src="sitepackage/img/services/review.svg" alt="Rated 4.8 out of 5" title="Rated 4.8 out of 5"
-                        class="icon-size"> <br><span class="size">Rated 4.1 out of 5</span>
+                      <img src="https://www.National packers and mover/sitepackage/img/services/review.svg"
+                        alt="Rated 4.8 out of 5" title="Rated 4.8 out of 5" class="icon-size"> <br><span
+                        class="size">Rated 4.1 out of 5</span>
                     </div>
                     <div class="carousel-item">
-                      <img src="sitepackage/img/services/pricing.svg" alt="Affordable Pricing"
-                        title="Affordable Pricing" class="icon-size"> <br><span class="size">Affordable Pricing</span>
+                      <img src="https://www.National packers and mover/sitepackage/img/services/pricing.svg"
+                        alt="Affordable Pricing" title="Affordable Pricing" class="icon-size"> <br><span
+                        class="size">Affordable Pricing</span>
                     </div>
                     <div class="carousel-item">
                       <img src="https://www.National packers and mover/sitepackage/img/services/ontime-delivery.svg"
@@ -239,7 +240,7 @@
                       </div>
 
                       <div class="col-md-6 mt-1">
-                        <input type="submit" name="submit" class="btn btn-block btn-primary text-white py-2 px-5"
+                        <input type="submit" class="btn btn-block btn-primary text-white py-2 px-5"
                           value="SUBMIT &rarr;">
                       </div>
                     </div>
@@ -303,31 +304,45 @@
 
               <div id="relocation" class="content pbqn ptqn plc-5">
                 <div class="col-xl-12 col-lg-12">
-                  <h2 class="pt-3 blue">Avail Truck or Mini Truck on Rent for Shifting Across the Country</h2>
+                  <h2 class="pt-3 blue">Reliable and Affordable Luggage Transport Services in India</h2>
                   <div class="line-bottom-left"></div>
-                  <p class="text-justify">Are you looking for a truck or mini truck on rent for shifting in your city?
-                    Whether you need to hire a mini truck for an intracity or large truck for intercity, we at National
-                    packers and Mover are the best choice. We are one of India's most reliable aggregator of truck
-                    rental service providers in India. We provide trucks and mini trucks on rent to transport goods for
-                    customers from one place to another. Customers can book the choice of the truck through this portal
-                    by clicking a few mouse clicks only.</p>
-                  <p class="text-justify">You can hire mini trucks such as Tata Ace Chota Hathi, Tata 407, and Mahindra
-                    Bolero Pickup for local shifting within the city limits or shifting to neighboring places. These
-                    mini trucks are best suited for shifting of 1 BHK to 1.5 BHK household items within the city. You
-                    can rent mini trucks like Tata 407, Eicher 14 Feet, Eicher 17 Feet and Eicher 19 Feet for shifting
-                    of 2 BHK to 2.5 BHK household items within or from a city. </p>
-                  <p class="text-justify">Plus, you can hire large trucks such as 22 feet truck, 20 feet container
-                    truck, 32 feet container truck, 32 feet open trailer lorry, and 40 feet open lorry. These large
-                    transport vehicles are recommended for the shifting of high volumes of items ranging from 3 BHK to 5
-                    BHK. You can choose the right type of truck or mini truck from our diverse fleet of trucks and
-                    transport vehicles. We can help you choose the best-type truck depending upon your actual shifting
-                    requirements, no matter, you want to transport your household belongings within a city or from one
-                    city to another.</p>
-                  <h3 class="pt-3 font-weight-bold">Hire Truck and Mini Truck in Major Cities of India</h3>
-                  <p class="text-justify">We can help you avail truck and mini truck rental service for shifting in
-                    almost all the major cities and towns of India. Currently, you can book truck online through this
-                    portal in cities like Delhi, Gurgaon, Noida, Faridabad, Ghaziabad, Bangalore, Pune, Mumbai, Chennai,
-                    Kolkata, and Hyderabad.</p>
+                  <img class="img-fluid float-right pli"
+                    src="https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/f1ce1470-908f-497b-1ec4-72867636b400/public"
+                    alt="Luggage Transport" title="Luggage Transport">
+                  <p class="text-justify">Are you getting bothered because you need to transport your luggage from one
+                    place to another? If yes then it is better to rely on professional door to door luggage transport
+                    services in India. In almost all Indian metropolitan cities, there are several luggage transporters
+                    that provide luggage delivery and shifting services. </p>
+                  <p class="text-justify">Luggage transport or luggage shifting service is for everyone who wants to
+                    streamline the moving process. Whether you are a student, a family, a senior citizen or a person
+                    with physical disabilities, getting on professional luggage transport service will make your life a
+                    whole lot easier and hassle-free. With this specialized service you can transport your bags and
+                    luggage from one city to another easily. </p>
+                  <p class="text-justify">If you hire professional luggage delivery service in your city on your move to
+                    another city then you won&rsquo;t have to pack and shift possessions with you. You won&rsquo;t have
+                    to put them on your flight, bus or train. Your luggage will be waiting for you at your destination
+                    when you reach. The best thing you can do is you hire the required luggage delivery and shifting
+                    service from a trusted vendor. </p>
+                  <p class="text-justify">You might find a number of luggage transport service providers in your city.
+                    But you need to verify them so that you can hire the reliable and safe luggage transport service.
+                    Hiring door to door luggage or baggage transport service from a reputable transport company might be
+                    cost you more. But it shall be safe.  </p>
+                  <p class="text-justify">When it comes to hire the best, safe and reliable luggage transport service in
+                    any city of India then you might have some challenges and difficulties. You might find yourself
+                    confused when it comes to make your mind on choosing the right transporter for luggage
+                    transportation. It is because no any vendor will tell you their drawbacks. Also, you don&rsquo;t
+                    know about the credibility of a transport company you are going to hire. </p>
+                  <p class="text-justify">In a nutshell, hiring safe and reliable luggage transport service requires a
+                    proper research that might take your precious time. What if you don&rsquo;t have enough time to
+                    research so that you can figure out the right vendor for hiring the safe and reliable luggage
+                    delivery service in your city?</p>
+                  <p class="text-justify">So, how will you crack the deal? How will you manage to hire the best and
+                    trusted luggage transporter in your city? Do you have any idea for that?  Don&rsquo;t think more.
+                    Just bank on Moving Solutions and hire the best and reliable luggage transport service in your city.
+                  </p>
+                  <div style="margin: auto; width: 80%; padding: 10px;" class="pt-5">
+
+                  </div>
                 </div>
               </div>
               <div class="clearfix"></div>
@@ -367,368 +382,90 @@
               </div>
 
               <div class="clearfix"></div>
-              <div id="content" class="content pbqn ptqn plc-5">
+              <div class="content pbqn ptqn plc-5">
                 <div class="col-xl-12 col-lg-12">
-                  <h2 class="pt-3 blue">Know More about National packers and Mover&rsquo; Truck on Hire for Shifting
-                    Services</h2>
+                  <h2 class="pt-3 blue">Bank on National packers and Mover for Hiring Reliable Luggage Shifting Services
+                  </h2>
                   <div class="line-bottom-left"></div>
-                  <p class="text-justify">National packers and Mover is India's most reliable and leading aggregator of
-                    top-notch Indian logistics and transport companies. We are providing a diverse range of relocation
-                    and transport-related services. We help you choose the right, trusted professional for your move, no
-                    matter, whether you wish to shift your belongings within a city or from one city to another. We are
-                    the best-in-class and cost-effective transport service booking portal. You can rent a truck or mini
-                    truck for shifting at very affordable and genuine rates. Our truck on hire service is not limited to
-                    transport service only but also includes value-added services such as packing, loading, unloading
-                    and unpacking services. In a nutshell, we provide a comprehensive solution to all your relocation
-                    and transport requirements.</p>
-                  <p class="text-justify">We at National packers and Mover have set a high standard of transport
-                    service. We are providing the best assistance in booking the best service for trucks on rent for
-                    shifting in any city of India. With our extensive industry knowledge and skilled, trained partner
-                    logistics &amp; transport companies, you can completely expect for hassle-free and safe
-                    transportation of your goods. We ensure that you will always get the best service for transportation
-                    of your goods if you avail truck on rent for shifting through this portal. Plus, you will get
-                    competitive and transparent rates. So, you don't need to worry about expensive charges levied by
-                    many transport companies in India.</p>
-                  <h4 class="pt-4 yellow">Instant Booking for Truck and Mini Truck Online for Shifting</h4>
-                  <p class="text-justify">When you need to book a truck or mini truck on rent for shifting then we will
-                    provide you best quotations from the top 3 vendors. Our 3 verified truck rental service providers
-                    will contact you with custom quotes. The only job you need to do is comparing the price quotes and
-                    choose the best-suited service. So, you need to worry no anymore. Moving Solutions will help you!
-                  </p>
-                  <p><strong>Follow these three easy and simple steps now. </strong></p>
+                  <p class="text-justify">If you are one of those people that are getting challenges and difficulties in
+                    hiring reliable and safe luggage and baggage transport service then you don&rsquo;t need to worry at
+                    all. We at Moving Solutions are here to help you the best guidance and ultimate support in hiring
+                    the affordable yet safe and reliable luggage transport and delivery services. To make it sure you
+                    get the best luggage shifting service at best price, we have made partnership with some top-notch
+                    and trusted luggage transporters from all the major cities and towns of India. </p>
+                  <p class="text-justify">The biggest reason for counting on National packers and Mover to hire door to
+                    door luggage shifting service in India is our all partner luggage transporters are verified,
+                    background-checked, licensed, experienced, and reliable. If you hire one of our partner packers and
+                    movers for luggage transportation and delivery from one city to another then you can expect for safe
+                    and on time delivery of your luggage. Experts will pack your luggage using premium quality packaging
+                    supplies and sturdy boxes to ensure your goods remain intact and safe in transit. Our professional
+                    packers and movers for luggage transportation and delivery are trained and know well how to
+                    transport luggage of their customers safely. For transportation of luggage, they use especially
+                    designed goods carriers.</p>
+                  <p class="text-justify">We have made it easier and safer to book the luggage transport and shifting
+                    service in India with our sincere efforts and by making partnership with top-notch packers and
+                    movers that specialize in luggage transportation, part-load shifting, household goods shifting, and
+                    bag and baggage shifting. </p>
+                  <p class="text-justify">When you place your query for hiring the safe and reliable luggage shifting
+                    service through this portal, then we will provide you free quotations from our top 3 vendors. Our
+                    verified luggage transporters or packers and movers will contact you shortly with custom quotations.
+                    According, you will be able to compare the price along with their services. This will help you make
+                    your mind to hire the right and trusted vendor for hiring the luggage transport service. Price
+                    comparison will also save you money. </p>
+                  <p class="text-justify">So, what are you thinking more? If you truly need to hire the best and
+                    reliable luggage transportation services in any city of India then don&rsquo;t hesitate to talk to
+                    us. Tell us your actual requirements such as what types of luggage you have to transport, from where
+                    to where you want to transport your luggage, what type of luggage transport service you want, or if
+                    you have any specific requirement for safe luggage shifting. Get free quotes today!</p>
+                  <h3 class="font-weight-bold pt-3">Our Luggage Transport or Shifting Services in India</h3>
+                  <p class="text-justify">We at National packers and Mover are providing you a comprehensive range of
+                    luggage shifting services in all the major cities and towns of India. Our luggage transport services
+                    include:</p>
                   <ul>
-                    <li>Use our enquiry form to submit your requirements. </li>
-                    <li>Receive free quotes from top 3 pre-verified vendors (truck rental service providers)</li>
-                    <li>Compare the price quotes and choose the one that matches your needs and budget. </li>
+                    <li>Student luggage transport &amp; delivery service</li>
+                    <li>Student parcel delivery service</li>
+                    <li>Door to door luggage transfer &amp; delivery service</li>
+                    <li>Excess baggage shipping</li>
+                    <li>Luggage courier service in India</li>
+                    <li>Premium luggage service in India</li>
+                    <li>Express luggage transport service</li>
+                    <li>Family luggage transport service</li>
+                    <li>Senior citizen luggage shifting service</li>
+                    <li>Home luggage packing and moving service</li>
                   </ul>
-                  <h2 class="blue ptqn">Truck and Mini Truck on Rent for Commercial Shifting</h2>
-                  <div class="line-bottom-left"></div>
-                  <p class="text-justify">We at National packers and Mover are providing truck and mini truck booking
-                    services not only for household goods shifting but also for commercial shifting requirements. You
-                    can rent the right type of truck for requirements like office shifting, industrial goods shifting,
-                    and furniture moving. Plus, we can also provide you the best services for bike and car
-                    transportation from one city to another. </p>
-                  <p class="text-justify">We at National packers and Mover have built a strong base in major Indian
-                    cities like Delhi, Gurgaon, Faridabad, Noida, Mumbai, Pune, Ghaziabad, Hyderabad, Chennai, Kolkata,
-                    and Bangalore. Whether you want to hire Chota Hathi on Rent for Shifting of Large Truck on Rent for
-                    Shifting, we will never disappoint you. We'll always provide you the best assistance and best
-                    service to simplify your life. So, don't delay to contact if you are getting problems in hiring
-                    transport services in any city of India. We will always provide you the best services to meet your
-                    specific requirements. Plus, you will also save a considerable amount of money on booking the mini
-                    truck on rent for shifting or other related services through this portal.</p>
-                  <h3 class="pt-3 font-weight-bold">Why Choose National packers and Mover to Rent Truck or Mini Truck
-                    for Shifting?</h3>
-                  <p class="text-justify">There are so many good reasons for the same. Here we are going to tell you
-                    some of the best reasons to truck Moving Solutions when you need to book truck on rent for shifting.
-                  </p>
-                  <ul>
-                    <li><strong>Highest Standard of Services:</strong> We ensure the highest standard of services along
-                      with 24/7 customer service support.  </li>
-                    <li><strong>Instant Booking of Truck/Mini Truck:</strong> You can book the right type of truck or
-                      mini truck through this portal by making a few mouse clicks only. </li>
-                    <li><strong>Save You Money:</strong> We will provide you free quotations from the top 3 verified,
-                      licensed truck on rent for shifting service providers. Comparing price estimates for different
-                      vendors will save you a considerable amount of money.  </li>
-                    <li><strong>Verified and Licensed Partners:</strong> We thoroughly review every partner truck rental
-                      service provider before making an association with them. We always check their background and
-                      market reputation along with their other credentials. </li>
-                    <li><strong>Other expectations:</strong> 100% customer satisfaction, safety &amp; security of items,
-                      careful handling of possessions, certified drivers, and on-time delivery.</li>
-                  </ul>
-                  <p class="text-justify">Moreover, we are driven to immediately respond to our customers' needs who
-                    hire a truck or mini truck through this portal. So what are you thinking more? If you truly need to
-                    avail truck or mini truck on rent for shifting then don't hesitate to contact us. Worry no more.
-                    Tell us your requirements and get the best assistance in hiring the best service at your best price.
-                    Compare free quotes from different companies and choose the best that matches your needs at your
-                    budget.</p>
-                  <h2 class="blue ptqn">Truck and Mini Truck Types for Shifting</h2>
-                  <div class="line-bottom-left"></div>
-                  <p>We at National packers and Mover are driven to providing you the best-in-class truck and mini truck
-                    rental for shifting requirements in any city of India. We can help you hire the right type of truck
-                    depending upon your actual requirements. Here is a chart that will guide you about different types
-                    of trucks and mini trucks that can be hired for shifting requirements. </p>
-                  <div style="overflow-x:auto;margin-bottom: 15px;">
-                    <table>
-                      <tr>
-                        <td><strong>Types of Truck</strong></td>
-                        <td><strong>Size in Feet</strong></td>
-                        <td><strong>Max Loading Weight</strong></td>
-                        <td><strong>Household Capacity</strong></td>
-                      </tr>
-                      <tr>
-                        <td>Tata Ace (Chota Hathi)</td>
-                        <td>7 L x 4.8 W x 4.8 H</td>
-                        <td>850 KG</td>
-                        <td>1RK  to 1 BHK</td>
-                      </tr>
-                      <tr>
-                        <td>Ashok Leyland Dost</td>
-                        <td>7 L x 4.8 W x 4.8 H</td>
-                        <td>1 Ton</td>
-                        <td>1 RK to 1 BHK</td>
-                      </tr>
-                      <tr>
-                        <td>Mahindra Pickup</td>
-                        <td>8 L x 4.8 W x 4.8 H</td>
-                        <td>1.5 Ton</td>
-                        <td>1 BHK</td>
-                      </tr>
-                      <tr>
-                        <td>Tata 407</td>
-                        <td>9 L x 5.5 W x 5 H</td>
-                        <td>2.5 Ton</td>
-                        <td>1 to 1.5 BHK</td>
-                      </tr>
-                      <tr>
-                        <td>Eicher 14 Feet</td>
-                        <td>14 L x 6 W x 5.5 H</td>
-                        <td>4 Ton</td>
-                        <td>2 BHK</td>
-                      </tr>
-                      <tr>
-                        <td>Eicher 17 Feet</td>
-                        <td>17 L x 6 W x 6 H</td>
-                        <td>5 Ton</td>
-                        <td>2.5 BHK</td>
-                      </tr>
-                      <tr>
-                        <td>Eicher 19 Feet</td>
-                        <td>19 L x 7 W x 6 H</td>
-                        <td>7/8/9 Ton</td>
-                        <td>2.5 BHK</td>
-                      </tr>
-                      <tr>
-                        <td>Tata 22 Feet</td>
-                        <td>22 L x 7.5 W x 6 H</td>
-                        <td>10 Ton</td>
-                        <td>3 BHK</td>
-                      </tr>
-                      <tr>
-                        <td>Container 20 Feet</td>
-                        <td>20 L x 8 W x 8 H</td>
-                        <td>6.5 Ton</td>
-                        <td>4 BHK</td>
-                      </tr>
-                      <tr>
-                        <td>Container 32 Feet SXL</td>
-                        <td>32 L x 8 W x 8 H</td>
-                        <td>7 Ton</td>
-                        <td>5 BHK</td>
-                      </tr>
-                      <tr>
-                        <td>Tata Truck (6 Tyre)</td>
-                        <td>17.5 L x 7 W x 6 H</td>
-                        <td>9 Ton</td>
-                        <td>3 BHK</td>
-                      </tr>
-                      <tr>
-                        <td>Taurus 16 t (10 Tyre)</td>
-                        <td>21 L x 7.2 W x 6 H</td>
-                        <td>16 Ton</td>
-                        <td>3-4 BHK</td>
-                      </tr>
-                      <tr>
-                        <td>Taurus 21 t (12 Tyre)</td>
-                        <td>24 L x 7.3 W x 6 H</td>
-                        <td>21 Ton</td>
-                        <td>4 BHK</td>
-                      </tr>
-                      <tr>
-                        <td>Taurus 25 t (14 Tyre)</td>
-                        <td>28 L x 7.8 W x 7 H</td>
-                        <td>25 Ton</td>
-                        <td>4-5 BHK</td>
-                      </tr>
-                      <tr>
-                        <td>Container 32 Feet MXL</td>
-                        <td>32 L x 8 W x 8 H</td>
-                        <td>14 Ton</td>
-                        <td>4-5 BHK</td>
-                      </tr>
-                      <tr>
-                        <td>Container 32 Feet SXL / MXL HQ</td>
-                        <td>32 L x 8 W x 10 H</td>
-                        <td>7 / 14 Ton</td>
-                        <td>3-4-5 BHK</td>
-                      </tr>
-                      <tr>
-                        <td>20 Feet Open All Side (ODC)</td>
-                        <td>20 L x 8 W x 6 H</td>
-                        <td>7 Ton</td>
-                        <td>&nbsp;</td>
-                      </tr>
-                      <tr>
-                        <td>28-32 Feet Open-Trailer JCB ODC</td>
-                        <td>28-32 L X 8 W</td>
-                        <td>8 Ton</td>
-                        <td>&nbsp;</td>
-                      </tr>
-                      <tr>
-                        <td>32 Feet Open - Trailer ODC</td>
-                        <td>32 L X 8 W</td>
-                        <td>25 Ton</td>
-                        <td>&nbsp;</td>
-                      </tr>
-                      <tr>
-                        <td>40 Feet Open - Trailer ODC</td>
-                        <td>40 L X 8 W</td>
-                        <td>32 Ton</td>
-                        <td>&nbsp;</td>
-                      </tr>
-                    </table>
-                  </div>
                 </div>
               </div>
+
               <div class="clearfix"></div>
-              <div id="city" class="content pbqn plc-5">
+              <div id="city" class="content plc-5">
                 <div class="section-title">
-                  <h2 class="pt-3">Truck and Mini Truck on Rent in Others Cities of India</h2>
+                  <h2 class="pt-3">Luggage Transport Services in India</h2>
                 </div>
-                <ul class="nav nav-tabs flex">
-                  <li class="nav-item">
-                    <a class="nav-link active show" data-toggle="tab" href="#tab-1">Truck on Rent</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" data-toggle="tab" href="#tab-2">Tata Ace on Rent</a>
-                  </li>
-                </ul>
                 <div class="tab-content">
-                  <div class="tab-pane active show" id="tab-1">
+                  <div class="tab-pane active show" id="tab-6">
                     <div class="row">
                       <div class="col-lg-12 details order-2 order-lg-1">
                         <div class="listing-box">
                           <ul>
-                            <li><a href="locations.html">Truck
-                                on Rent in Delhi</a></li>
-                            <li><a href="locations.html">Truck
-                                on Rent in Noida</a></li>
-                            <li><a href="locations.html">Truck
-                                on Rent in Bangalore</a></li>
-                            <li><a href="locations.html">Truck
-                                on Rent in Hyderabad</a></li>
-                            <li><a href="locations.html">Truck
-                                on Rent in Chennai</a></li>
-                            <li><a href="locations.html">Truck
-                                on Rent in Mumbai</a></li>
-                            <li><a href="locations.html">Truck
-                                on Rent in Bhopal</a></li>
-                            <li><a href="locations.html">Truck
-                                on Rent in Raipur</a></li>
+                            <li><a href="locations.html">Luggage
+                                Transport in Bangalore</a></li>
+                            <li><a href="locations.html">Luggage
+                                Transport in Chennai</a></li>
+                            <li><a href="locations.html">Luggage
+                                Transport in Gurgaon</a></li>
                           </ul>
                           <ul>
-                            <li><a href="locations.html">Truck
-                                on Rent in Kerala</a></li>
-                            <li><a href="locations.html">Truck
-                                on Rent in Vijayawada</a></li>
-                            <li><a href="locations.html">Truck
-                                on Rent in Patna</a></li>
-                            <li><a href="locations.html">Truck
-                                on Rent in Jamnagar</a></li>
-                            <li><a href="locations.html">Truck
-                                on Rent in Gurgaon</a></li>
-                            <li><a href="locations.html">Truck
-                                on Rent in Ghaziabad</a></li>
-                            <li><a href="locations.html">Truck
-                                on Rent in Faridabad</a></li>
-                            <li><a href="locations.html">Truck
-                                on Rent in Pune</a></li>
+                            <li><a href="locations.html">Luggage
+                                Transport in Pune</a></li>
+                            <li><a href="locations.html">Luggage
+                                Transport in Delhi</a></li>
+                            <li style="visibility:hidden">&nbsp;</li>
                           </ul>
                           <ul>
-                            <li><a href="locations.html">Truck
-                                on Rent in Kolkata</a></li>
-                            <li><a href="locations.html">Truck
-                                on Rent in Indore</a></li>
-                            <li><a href="locations.html">Truck
-                                on Rent in Coimbatore</a></li>
-                            <li><a href="locations.html">Truck
-                                on Rent in Visakhapatnam</a></li>
-                            <li><a href="locations.html">Truck
-                                on Rent in Guntur</a></li>
-                            <li><a href="locations.html">Truck
-                                on Rent in Gandhinagar</a></li>
-                            <li><a href="locations.html">Truck
-                                on Rent in Jaipur</a></li>
-                            <li><a href="locations.html">Truck
-                                on Rent in Rajkot</a></li>
-                          </ul>
-                        </div>
-                        <div class="clearfix"></div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="tab-pane" id="tab-2">
-                    <div class="row">
-                      <div class="col-lg-12 details order-2 order-lg-1">
-                        <div class="listing-box">
-                          <ul>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Delhi</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Mumbai</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Chennai</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Chandigarh</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Bangalore</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Pune</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Hyderabad</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Gurgaon</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Ghaziabad</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Noida</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Mohali</a></li>
-                          </ul>
-                          <ul>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Ahmedabad</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Patna</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Ranchi</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Surat</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Vadodara</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Faridabad</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Panchkula</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Navi Mumbai</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Zirakpur</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Kerala</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Visakhapatnam</a></li>
-                          </ul>
-                          <ul>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Indore</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Raipur</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Bhopal</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Rajkot</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Gandhinagar</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Jamnagar</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Jaipur</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Vijayawada</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Guntur</a></li>
-                            <li><a href="locations.html">Tata
-                                Ace Chota Hathi in Coimbatore</a></li>
+                            <li><a href="locations.html">Luggage
+                                Transport in Hyderabad</a></li>
+                            <li><a href="locations.html">Luggage
+                                Transport in Mumbai</a></li>
                             <li style="visibility:hidden">&nbsp;</li>
                           </ul>
                         </div>
@@ -750,82 +487,81 @@
                     <ul>
                       <li data-aos="fade-up" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" class="collapse"
-                          href="#faq-list-1" itemprop="name"><strong>How can I book a truck or mini truck on rent online
-                            from National packers and Mover?</strong> <i class="bx bx-chevron-down icon-show"></i><i
+                          href="#faq-list-1" itemprop="name"><strong>Do you provide a door-to-door luggage transport
+                            service?</strong> <i class="bx bx-chevron-down icon-show"></i><i
                             class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-1" class="collapse show" data-parent=".faq-list" itemscope
                           itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <div itemprop="text">
-                            <p>Booking a truck or mini truck/tempo through National packers and Mover is very easy. You
-                              just have to share your requirements with us by filling a query form or directly calling
-                              us. Let us know the size of the truck you require. Select your pickup and drop-off
-                              location. Submit additional details like your name and contact number. And if you have no
-                              idea whether you need a mini, medium, or large truck then share the details of your goods
-                              you want to move, we will suggest the size of the truck accordingly. And, we’ll refer to
-                              the best service provider.</p>
+                            <p>Yes, at National packers and Mover you can easily book door-to-door luggage transport
+                              service at an affordable price. The professional moving and shifting service providers we
+                              are associated with provides complete door-to-door luggage transport service. They will
+                              come to your house to pick up the goods and then deliver the same to the desired location.
+                            </p>
                           </div>
                         </div>
                       </li>
                       <li data-aos="fade-up" data-aos-delay="100" itemscope itemprop="mainEntity"
                         itemtype="https://schema.org/Question">
                         <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-2"
-                          class="collapsed" itemprop="name"><strong>Will I get a driver when hiring a truck or mini
-                            truck through National packers and Mover? </strong> <i
-                            class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                          class="collapsed" itemprop="name"><strong>Do you provide part-load luggage transport
+                            services?</strong> <i class="bx bx-chevron-down icon-show"></i><i
+                            class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-2" class="collapse" data-parent=".faq-list" itemscope
                           itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <div itemprop="text">
-                            <p>Yes, our associates provide mini truck and truck-on rent service with a professional
-                              driver. But, for this, you will have to specifically mention that you need a truck on rent
-                              with a driver.</p>
+                            <p>Yes! You can avail of part-load luggage transport services as well as complete household
+                              goods shifting services. This means you can easily transport a few of your household items
+                              together like TV, fridge, furniture, cupboard, dining table, etc.</p>
                           </div>
                         </div>
                       </li>
                       <li data-aos="fade-up" data-aos-delay="100" itemscope itemprop="mainEntity"
                         itemtype="https://schema.org/Question">
                         <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-3"
-                          class="collapsed" itemprop="name"><strong>What are the truck or mini truck rental
-                            charges?</strong> <i class="bx bx-chevron-down icon-show"></i><i
+                          class="collapsed" itemprop="name"><strong>I am a student, can I book luggage transport
+                            services?</strong> <i class="bx bx-chevron-down icon-show"></i><i
                             class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-3" class="collapse" data-parent=".faq-list" itemscope
                           itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <div itemprop="text">
-                            <p>The cost of a truck or mini truck on rent depends on various factors like the time
-                              duration for how long you want the truck on rent, date, location, distance to be covered,
-                              waiting time, etc. The base of a mini truck or tempo starts from Rs 500 – Rs 1000 for up
-                              to 3 km and the charges may vary depending on your locality, driver required or not, GST,
-                              taxes, etc.</p>
+                            <p>With National packers and Mover, anyone can easily book luggage transport services at
+                              affordable prices. No matter whether you are a student, family, individual, or a
+                              businessman, we provide comprehensive solutions to all our customers.</p>
                           </div>
                         </div>
                       </li>
                       <li data-aos="fade-up" data-aos-delay="100" itemscope itemprop="mainEntity"
                         itemtype="https://schema.org/Question">
                         <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-4"
-                          class="collapsed" itemprop="name"><strong>What trucks and mini trucks on rent are available at
-                            National packers and Mover?</strong> <i class="bx bx-chevron-down icon-show"></i><i
+                          class="collapsed" itemprop="name"><strong>Can I hire a luggage transport service on a ‘Per km’
+                            basis?</strong> <i class="bx bx-chevron-down icon-show"></i><i
                             class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-4" class="collapse" data-parent=".faq-list" itemscope
                           itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <div itemprop="text">
-                            <p>The type of trucks, mini trucks, and tempos are available on rent at National packers and
-                              Mover are Tata Ace, Mahindra Pickup, Tata 407, Eicher 14 feet/ 17 feet/ 19 feet, Ashok
-                              Leyland Dost, etc.</p>
+                            <p>Yes! There are many transporters and transport companies that offer luggage transport
+                              service on a per km basis. The charges of per km transport services start with a base fare
+                              of Rs 700 for the distance 0-5 km. for 5-25 km the charges will be Rs 40 per km. The
+                              charges vary depending on the distance of the move. Here at National packers and Mover,
+                              you will get quotes to compare rates and hire the most affordable luggage transporter in
+                              India. </p>
                           </div>
                         </div>
                       </li>
                       <li data-aos="fade-up" data-aos-delay="100" itemscope itemprop="mainEntity"
                         itemtype="https://schema.org/Question">
                         <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-5"
-                          class="collapsed" itemprop="name"><strong>Which is a good option ‘open’ or ‘closed’
-                            truck?</strong> <i class="bx bx-chevron-down icon-show"></i><i
+                          class="collapsed" itemprop="name"><strong>What is the approximate cost of luggage transport
+                            service in India?</strong> <i class="bx bx-chevron-down icon-show"></i><i
                             class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-5" class="collapse" data-parent=".faq-list" itemscope
                           itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <div itemprop="text">
-                            <p>Both the options are used by professional movers to transport your goods. You can also
-                              opt for any of the modes to transport your belongings. But the enclosed trucks are
-                              considered to be safer than open trucks, but it’s expensive than open trucks. If you are
-                              relocating to a long-distance place then you must go for a closed truck.</p>
+                            <p>The cost of luggage transport service in India depends on various things like the volume
+                              of your goods, size of the truck used for goods transportation, number of staff required
+                              for loading – unloading service, is packing required or not, distance to be covered, etc.
+                              We provide you multiple quotations from top service providers to compare rates.</p>
                           </div>
                         </div>
                       </li>
@@ -834,6 +570,7 @@
                 </div>
               </div>
               <div class="clearfix"></div>
+
               <div id="contact" class="contact call-back">
                 <div class="container call-background">
 
@@ -905,7 +642,7 @@
               <div class="position-sticky headerleft">
                 <h3><span class="sub-title">Get <span class="yellow"><strong>FREE QUOTES</strong></span> in a
                     minute</span></h3>
-                <form id="regForm2" name="regForm2" method="post" action="#">
+                <form id="regForm2" name="regForm2" method="post" action="thank.php">
                   <div class="form-group row">
                     <div class="col-md-12 mt-1">
                       <input type="text" class="form-control" name="name" placeholder="Enter Your Name :" required>
@@ -937,8 +674,7 @@
                     </div>
 
                     <div class="col-md-12 mt-1">
-                      <input type="button" name="submit" class="btn btn-block btn-primary text-white py-2 px-5"
-                        value="SUBMIT &rarr;" onclick="window.location.href='index.html'">
+                      <input type="submit" class="btn btn-block btn-primary text-white py-2 px-5" value="SUBMIT &rarr;">
                     </div>
                   </div>
                   <div style="margin:auto; text-align:center;"><i class="icofont-checked"></i> I Accept <a href="#"
@@ -960,25 +696,11 @@
             <div class="col-lg-3 col-md-6 footer-contact">
               <img src="sitepackage/img/banner//logo.png" alt="" width="100%">
 
-              <p>Shop no 2, Anthony's school suchitra, sri Durga estates Hyderabad, Telangana 500055</p>
-              <p>Plot no 30A ghandi Rd , kavankrai, puzhal, channai tamilnadu 600066
-              </p>
-              <p>Sai deep apartment balkum naka near fire bridge St thane west mumbai 400608
-              </p>
-              <p>
-                Plot no 17A Jai Mangal murti housing society Sai nagar wadi nagpur - 440023
-              </p>
-              <p>No. 02.k no . 41/6 vittasandra Begur banglore 560100
-              </p>
-              <p>Sector 5 lakshman chowk old railway road gurugram</p>
-              <p>Shop No. 06, Gate No . 65, Near Marere
-                House , Borhadewad Moshi , Pune - 41210</p>
+              <p>Address: Pocket-H, First Floor, 48, 2, Sector Alpha Rd, Greater Noida, Uttar Pradesh 201307</p>
 
-              <strong>Email:</strong> <a href="mailto:">nationalpackersandmoversinfo@gmail.com</a><br>
-              <strong>Mobile:</strong> <a href="tel:+919043798129">+91 9043798129</a>, <a
-                href="tel:+919043798129">9043798129</a><br>
-              <strong> Gst In :</strong> 33IAQPK3437R1ZU
-              </p>
+              <strong>Email:</strong> <a href="mailto:">Oncallpackers@gmail.com</a><br>
+              <strong>Mobile:</strong> <a href="tel:+918448574563">+91 98448574563</a>
+              </p>  
 
 
             </div>
@@ -991,11 +713,10 @@
                 <li><i class="bx bx-chevron-right"></i> <a href="car-transportation.html">Car Transportation</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="bike-transportation.html">Bike Transportation</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="warehousing-services.html">Warehousing</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="pet.html">Pet Relocation</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="truck-on-rent-for-shifting.html">Truck/Tempo on
-                    Rent</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="luggage-transport-services-in-india.html">Luggage
-                    Transport</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="local-shifting.html">Local Shifting</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="commercial-shifting.html">Commercial Shifting</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="corporate-moving.html">Corporate Moving</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="international-moving.html">International Moving</a></li>
 
                 <!-- <li><i class="bx bx-chevron-right"></i> <a href="#">Pest Control</a></li> -->
 
@@ -1035,15 +756,13 @@
               <h4 class="text-left">Help Us Spread the Word</h4>
               <p class="text-left">Like, Follow, Tweet or Share. We Just Love Interacting With You.</p>
               <div class="social-links text-left">
-                <a href="https://x.com/?lang=en" class="twitter"><i class="bx bxl-twitter"></i><span>Twitter</span></a>
-                <a href="https://www.facebook.com/" class="facebook"><i
+                <a href="https://www.youtube.com/@OnCallPackers" class="twitter"><i class="bx bxl-twitter"></i><span>Twitter</span></a>
+                <a href="https://www.facebook.com/profile.php?id=100091494346789" class="facebook"><i
                     class="bx bxl-facebook"></i><span>Facebook</span></a>
                 <a href="https://www.instagram.com/" class="instagram"><i
                     class="bx bxl-instagram"></i><span>instagram</span></a>
-                <a href="https://www.youtube.com/" class="google-plus"><i
+                <a href="https://www.youtube.com/@OnCallPackers" class="google-plus"><i
                     class="bx bxl-youtube"></i><span>Youtube</span></a>
-                <a href="https://www.linkedin.com/" class="linkedin"><i
-                    class="bx bxl-linkedin"></i><span>Linkedin</span></a>
               </div>
 
             </div>
@@ -1055,47 +774,28 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-3 col-md-6 footer-contact">
-              <h3>National packers and Mover</h3>
+              <h3>On Call Packers and Mover</h3>
 
 
-              <p>Shop no 2, Anthony's school suchitra, sri Durga estates Hyderabad, Telangana 500055</p>
-              <p>Plot no 30A ghandi Rd , kavankrai, puzhal, channai tamilnadu 600066
-              </p>
-              <p>Sai deep apartment balkum naka near fire bridge St thane west mumbai 400608
-              </p>
-              <p>
-                Plot no 17A Jai Mangal murti housing society Sai nagar wadi nagpur - 440023
-              </p>
-              <p>No. 02.k no . 41/6 vittasandra Begur banglore 560100
-              </p>
-              <p>Sector 5 lakshman chowk old railway road gurugram</p>
-              <p>Shop No. 06, Gate No . 65, Near Marere
-                House , Borhadewad Moshi , Pune - 41210</p>
+              <p>Address: Pocket-H, First Floor, 48, 2, Sector Alpha Rd, Greater Noida, Uttar Pradesh 201307</p>
               <strong>Email:</strong> <a
-                href="mailto:nationalpackersandmoversinfo@gmail.com">nationalpackersandmoversinfo@gmail.com</a><br>
-              <strong>Mobile:</strong> <a href="tel:+919043798129">+91-9043798129</a>, <a
-                href="tel:+919043798129">9043798129</a><br>
-              <strong> Gst In :</strong> 33IAQPK3437R1ZU
-
-
+                href="mailto:Oncallpackers@gmail.com">Oncallpackers@gmail.com</a><br>
+              <strong>Mobile:</strong> <a href="tel:+9198448574563">+91-98448574563</a>
               <br>
               </p>
-
 
             </div>
             <div class="col-lg-3 col-md-6 text-center">
               <h4 class="text-left">Help Us Spread the Word</h4>
               <p class="text-left">Like, Follow, Tweet or Share. We Just Love Interacting With You.</p>
               <div class="social-links text-left">
-                <a href="https://x.com/?lang=en" class="twitter"><i class="bx bxl-twitter"></i><span>Twitter</span></a>
-                <a href="https://www.facebook.com/" class="facebook"><i
+                <a href="https://www.youtube.com/@OnCallPackers" class="twitter"><i class="bx bxl-twitter"></i><span>Twitter</span></a>
+                <a href="https://www.facebook.com/profile.php?id=100091494346789" class="facebook"><i
                     class="bx bxl-facebook"></i><span>Facebook</span></a>
                 <a href="https://www.instagram.com/" class="instagram"><i
                     class="bx bxl-instagram"></i><span>instagram</span></a>
-                <a href="https://www.youtube.com/" class="google-plus"><i
+                <a href="https://www.youtube.com/@OnCallPackers" class="google-plus"><i
                     class="bx bxl-youtube"></i><span>Youtube</span></a>
-                <a href="https://www.linkedin.com/" class="linkedin"><i
-                    class="bx bxl-linkedin"></i><span>Linkedin</span></a>
               </div>
 
             </div>
@@ -1109,18 +809,14 @@
                   <div id="content-list-7" class="collapse" data-parent=".content-list">
                     <div class="footer-links">
                       <ul>
-                        <li><i class="bx bx-chevron-right"></i> <a href="residential-relocation.html">Relocation
-                            Services</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="car-transportation.html">Car Transportation</a>
-                        </li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="bike-transportation.html">Bike
-                            Transportation</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="residential-relocation.html">Relocation Services</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="car-transportation.html">Car Transportation</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="bike-transportation.html">Bike Transportation</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="warehousing-services.html">Warehousing</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="pet.html">Pet Relocation</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="truck-on-rent-for-shifting.html">Truck/Tempo on
-                            Rent</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a
-                            href="luggage-transport-services-in-india.html">Luggage Transport</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="local-shifting.html">Local Shifting</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="commercial-shifting.html">Commercial Shifting</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="corporate-moving.html">Corporate Moving</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="international-moving.html">International Moving</a></li>
                         <!-- <li><i class="bx bx-chevron-right"></i> <a href="pe">Pest Control</a></li> -->
 
 
@@ -1183,38 +879,20 @@
 
         <div class="mr-md-auto text-center text-md-left">
           <div class="copyright">
-            &copy; All rights reserved 2022 <a href="index.html">National packers and Mover</a>
+            &copy; All rights reserved 2025 <a href="rnpitsolution.com">RNP IT SOLUTION</a>
           </div>
-          <!-- <div class="credits">
-          <p class="text-justify"> <strong>Disclaimer:</strong> We only provide references for professional packers and  movers in India. Before finalizing any packers and movers or any related  vendor, you are advised to verify their credentials on your own. Get everything  (quotations) in writing. Don&rsquo;t forget to get the final bill receipt before  allowing the movers to handle your move. We won&rsquo;t be responsible for any kind  of loss, damage, or mishap.<br><br></p>
-
-        </div> -->
         </div>
       </div>
     </footer>
+
+
+
     <div class="fixedbar">
       <div class="boxfloat">
         <ul id="tips">
-          <li class="pl-0 float-right"><span id="whatsapp"><a href="https://wa.me/919043798129?text=Hi"></a></span></li>
+          <li class="pl-0 float-right"><span id="whatsapp"><a href="https://wa.me/918448574563?text=Hi"></a></span></li>
           <li><a href="contact-us.html" class="btn btn-info quotes">Get Quotes</a></li>
-          <li><select id="mySelect1" onchange="myFunction(this.value)" name="city-search"
-              class="form-control mobile-search-city">
-              <option value="#" selected disabled>Change City...</option>
-              <option value='agra'>Agra</option>
-
-
-              <option value='pilkhuwa'>Pilkhuwa</option>
-
-              <option value='sonbhadra'>Sonbhadra</option>
-              <option value='sonipat'>Sonipat</option>
-              <option value='surat'>Surat</option>
-              <option value='thane'>Thane</option>
-              <option value='udaipur'>Udaipur</option>
-              <option value='vadodara'>Vadodara</option>
-              <option value='varanasi'>Varanasi</option>
-              <option value='zirakpur'>Zirakpur</option>
-            </select>
-          </li>
+          
         </ul>
 
       </div>
@@ -1273,24 +951,38 @@
     </div>
 
 
+    <script src="sitepackage/js/jquery.min.js"></script>
+    <script src="sitepackage/js/bootstrap.bundle.min.js"></script>
+    <script src="sitepackage/js/jquery.easing.min.js"></script>
+    <script src="sitepackage/js/venobox.min.js"></script>
+    <script src="sitepackage/js/jquery.waypoints.min.js"></script>
+    <script src="sitepackage/js/counterup.min.js"></script>
+    <script src="sitepackage/js/owl.carousel.min.js"></script>
+    <script src="sitepackage/js/bootstrap-datepicker.min.js"></script>
+    <script src="sitepackage/js/main.js"></script>
+    <script>
+      function myRead() {
+        var moreText = document.getElementById("more");
+        var btnText = document.getElementById("myBtn");
 
-    <script src="https://www.National packers and mover/sitepackage/js/jquery.min.js"></script>
-    <script src="https://www.National packers and mover/sitepackage/js/bootstrap.bundle.min.js"></script>
-    <script src="https://www.National packers and mover/sitepackage/js/jquery.easing.min.js"></script>
-    <script src="https://www.National packers and mover/sitepackage/js/venobox.min.js"></script>
-    <script src="https://www.National packers and mover/sitepackage/js/jquery.waypoints.min.js"></script>
-    <script src="https://www.National packers and mover/sitepackage/js/counterup.min.js"></script>
-    <script src="https://www.National packers and mover/sitepackage/js/owl.carousel.min.js"></script>
-    <script src="https://www.National packers and mover/sitepackage/js/bootstrap-datepicker.min.js"></script>
-    <script src="https://www.National packers and mover/sitepackage/js/main.js"></script>
+        if (more.style.display === "none") {
+          btnText.innerHTML = "Read more";
+          moreText.style.display = "none";
+        } else {
+          more.style.display = "none";
+          btnText.innerHTML = "Read less";
+          moreText.style.display = "inline";
+        }
+      }
+    </script>
     <script>
       function myFunction(x) {
         if (x == 'mumbai') {
-          window.location = "https://www.National packers and mover/packers-and-movers-" + x + ".html";
+          window.location = "#" + x + ".html";
         } else if (x == 'bangalore') {
-          window.location = "https://www.National packers and mover/packers-and-movers-" + x + ".html";
+          window.location = "#" + x + ".html";
         } else {
-          window.location = "https://www.National packers and mover/packers-and-movers-in-" + x + ".html";
+          window.location = "#" + x + ".html";
         }
       }
     </script>
@@ -1312,21 +1004,15 @@
         });
       });
     </script>
-    <script>
-      $(function () {
-        $("#datepicker2").datepicker({
-          startDate: new Date(),
-          endDate: '+45d',
-          autoclose: true
-        });
-      });
-    </script>
+
+
+
     <script type="application/ld+json">
  { "@context": "https://schema.org",
  "@type": "Organization",
  "name": "National packers and Mover",
- "url": "https://www.National packers and mover",
- "logo": "https://www.National packers and mover/https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/ca0878f5-1bbc-4f38-371a-37783c4de600/logo",
+ "url": "https://www.nationalpackersandmover & Moves",
+ "logo": "https://www.nationalpackersandmover & Moves/https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/ca0878f5-1bbc-4f38-371a-37783c4de600/logo",
  "foundingDate": "2014",
  "founders": [
  {
@@ -1344,20 +1030,40 @@
  "@type": "ContactPoint",
  "contactType": "customer support",
  "telephone": "[+91-9911-91-5845]",
- "email": "enquiry@National packers and mover"
+ "email": "enquiry@nationalpackersandmover & Moves"
  },
  "sameAs": [ 
  "https://www.facebook.com/movingsolutionss/",
  "https://twitter.com/movingsolution6/",
- "https://www.instagram.com/National packers and mover/",
+ "https://www.instagram.com/nationalpackersandmover & Moves/",
  "https://www.youtube.com/movingsolutions/",
  "https://www.linkedin.com/company/movingsolutions"
  ]}
 </script>
+    <script>
+      $('.owl-carousel').owlCarousel({
+        loop: true,
+        margin: 10,
+        dots: false,
+        nav: true,
+        autoplay: true,
+        smartSpeed: 3000,
+        autoplayTimeout: 7000,
+        responsive: {
+          0: {
+            items: 1
+          },
+          600: {
+            items: 2
+          },
+          1000: {
+            items: 3
+          }
+        }
+      })
+    </script>
 
   </body>
 
-
-  <!-- Mirrored from www.National packers and mover/truck-on-rent-for-shifting.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 19 Nov 2022 09:58:49 GMT -->
 
 </html>

@@ -1,20 +1,19 @@
 <!DOCTYPE html>
 <html itemtype="http://schema.org/WebPage" lang="en">
 
-
   <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>Household Storage Services - Affordable storage units near me</title>
+    <title>Residential Relocation Services, House Shifting Services India</title>
     <meta name="description"
-      content="Hire reliable household storage services in India at affordable charges. We provide services from verified Warehousing and storage. Get a free quote now." />
+      content="Looking for residential shifting or home shifting services in India? Find the best movers for residential move here at unmatched price. Get free quotes." />
     <meta name="keywords"
-      content="household storage services in india, home storage services in india, warehousing services in india, household storage charges in india, charges for household storage" />
+      content="residential relocation, residential relocation services india, residential shifting, residential shifting services in india, residential moving services india, home shifting services in india, house shifting services in india" />
     <meta name="author" content="National packers and Mover" />
     <meta name="distribution" content="global" />
     <meta name="Content-Language" content="EN" />
     <meta name="geo.region" content="IN">
-    <link rel="canonical" href="warehousing-services.html" />
+    <link rel="canonical" href="residential-relocation.html" />
     <link href="sitepackage/img/banner/logo.png" rel="icon">
     <link href="sitepackage/css/style.css" rel="stylesheet">
     <link href="sitepackage/css/bootstrap.min.css" rel="stylesheet">
@@ -35,7 +34,7 @@
     <style>
       #imgoverlay-inner {
         height: auto;
-        background: url("https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/0eae959e-f4e5-44bd-4308-d80c96848600/public") top left;
+        background: url("https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/35ab8a3e-d585-401a-3a59-da06f5c08100/public") top left;
         background-size: auto;
         background-size: cover;
         position: relative;
@@ -101,7 +100,7 @@
     <div class="desktophide">
       <div class="container-fluid moapp-inner">
         <div class="justify-content-center call pt-6 text-white">
-          <p class="mb-0"><strong>Toll-free: <a href="tel:9043798129" class="text-white">+91 9043798129</a></strong></p>
+          <p class="mb-0"><strong>Toll-free: <a href="tel:9043798129" class="text-white">+91-9043798129</a></strong></p>
         </div>
       </div>
     </div>
@@ -113,7 +112,8 @@
         <nav class="nav-menu d-none d-lg-block">
           <ul>
             <li><a href="index.html">Home</a></li>
-            <li><a href="about-us.html">About Us</a> </li>
+            <li><a href="about-us.html">About Us</a>
+            </li>
             <li class="drop-down active"><a href="#">Service</a>
               <ul>
                 <li><a href="residential-relocation.html">Relocation Services</a></li>
@@ -136,9 +136,8 @@
             <li><a href="contact-us.html">Contact Us</a></li>
           </ul>
         </nav>
-
         <span class="call-btn scrollto tollfree"><a href="tel:9043798129" class="text-white"><i
-              class="icofont-ui-call"></i> +91 9043798129</a></span>
+              class="icofont-ui-call"></i> +91-9043798129</a></span>
 
       </div>
     </header>
@@ -154,10 +153,10 @@
                 </div>
                 <div class="col-md-6 float-left ph-4">
                   <div class="mobile-view-inner">
-                    <h1 class="text-left">Pet Relocation Services in India</h1>
-                    <p class="pc">Looking for professional pet relocation services in India? If yes then your search
-                      ends here. Compare the top 3 verified pet transporters and save money on hiring the best service.
-                    </p>
+                    <h1 class="text-left">Residential Relocation Services in India</h1>
+                    <p class="pc">Hiring the best residential relocation services provider in India is no more hassle
+                      now. View pricing, read reviews, compare rates and book the best-rated verified mover in India at
+                      best price.</p>
                     <div class="col-md-6 float-left mth pc text-left"><img
                         src="sitepackage/img/services/trusted-services.svg" alt="Verified Professionals"
                         title="Verified Professionals" class="icon-size"> <span class="size">Verified
@@ -175,8 +174,9 @@
                 </div>
                 <div class="clearfix"></div>
                 <div class="carousel slide text-center pb-3 carousel-display" data-ride="carousel">
-                  <h1 class="text-center">Pet Relocation Services in India</h1>
-                  <p>Find and compare India's best pet transporters. And save money on hiring the service.</p>
+                  <h1 class="text-center">Residential Relocation Services</h1>
+                  <p>Find and compare India's best residential relocation services provider. And save up to 25% on
+                    booking.</p>
                   <div class="carousel-inner">
                     <div class="carousel-item active">
                       <img src="sitepackage/img/services/trusted-services.svg" alt="Verified Professionals"
@@ -241,11 +241,11 @@
                       </div>
                     </div>
                     <div style="margin:auto; text-align:center;"><i class="icofont-checked"></i> I Accept <a href="#"
-                        target="_blank"><span class="red">Terms &amp; Conditions</span></a> of HL</div>
+                        target="_blank"><span class="red">Terms &amp;
+                          Conditions</span></a> of HL</div>
                   </form>
                 </div>
               </div>
-
               <div class="clearfix"></div>
               <div id="how" class="how plc-5 float-left">
                 <div class="section-title">
@@ -259,7 +259,7 @@
                   </div>
                   <div class="box-content">
                     <h5><strong>Tell Us About Your Move</strong></h5>
-                    <p>Share your storage needs. When and what you want to store.</p>
+                    <p>Share your move details. Where are you moving to? When and what?</p>
                   </div>
                 </div>
                 <div class="col-lg-6 float-left pt-4 pb-4">
@@ -301,153 +301,110 @@
 
               <div id="relocation" class="content pbqn ptqn plc-5">
                 <div class="col-xl-12 col-lg-12">
-                  <h2 class="pt-3 blue">Hire the Best Pet Transport Service in India at Your Best Price</h2>
+                  <h2 class="pt-3 blue">Reliable and Affordable Residential Relocation Services in India</h2>
                   <div class="line-bottom-left"></div>
-                  <img class="img-fluid float-right pli" src="sitepackage/img/banner/pet-relocation.jpg"
-                    alt="Pet Transport Service" title="Pet Transport Service">
-                  <p class="text-justify">Transporting pets from one city to another is not an easy task at all. There
-                    are certain things you need to take into considerations before planning for pet relocation. One of
-                    the best things you can do for transporting your pets is to choose a reliable pet relocation service
-                    provider. </p>
-                  <p class="text-justify">There are several professional relocation companies that specialize in or
-                    offer services for pet transportation from one place to another. It is recommended to choose the
-                    right and trusted service provider. </p>
-                  <p class="text-justify">We at Moving Solutions provide you the best assistance in choosing the right
-                    and reliable pet relocation service provider. To help you out, we have made a partnership with
-                    top-notch pet transporters from different Indian cities. Here we will provide you free price
-                    quotations from the top 3 verified and qualified pet transporters. The only thing you need to do is
-                    comparing the rates for pet relocation service and hire the best service that matches your needs and
-                    budget. </p>
-                  <p class="text-justify">So, what are you thinking more? If you truly need to hire a pet relocation
-                    service in your city then let us know. Submit your query online to get the free price quotations.
-                    Compare pet transportation charges and hire a reliable service. </p>
-                  <h3 class="pt-3 font-weight-bold">Pet Transportation Guide</h3>
-                  <p class="text-justify">Pets are not just pets. They are family and who would understand this well
-                    other than a pet owner. They live with us, they eat with us, they play with us, and like they are
-                    there in everything that we are doing then how can we leave pets during relocation and move to
-                    another place. Well, this is the statement of most of the pet owners who are much attached to their
-                    furry friends and don’t want to leave them at any cost. Relocation is a tough mental challenge. We
-                    are here referring to relocation as a challenge because it is something that changes the complete
-                    mindset and behavior of the people. Our routine, life, and so many other relevant things change
-                    during the process of relocation; but we are humans and we are supposed to coordinate well with the
-                    requirement. What about the pets who are also supposed to make a move with us?</p>
-                  <p class="text-justify">Well, pet relocation is tougher than human relocation and is complex too. They
-                    are not as easy to relocate as the non-living things because they can react to situations that will
-                    not go as per them. With this, they are also not as difficult to move as humans who take a lot of
-                    time for adjustment. So, in a collective sense, it can be stated well that pet relocation is going
-                    to give you Goosebumps and especially when you are least prepared for it. If you are also planning
-                    to move your pet from a location to another then here are a few of the things that you should keep
-                    in consideration in order to have the safest transition for your furry friends.</p>
-                  <h3 class="pt-4 font-weight-bold">Most Important Pet Moving Tips for Owners</h3>
-                  <p class="text-justify">For those who are planning or are moving their pets to the new place here are
-                    a few of the important things that would help them in undergoing the process in safe order. </p>
-                  <p class="text-justify">Make a Moving Plan Considering Pets: As you are all set to move to a new place
-                    with your pet, so you should make a moving plan accordingly. This is necessary for you to make a
-                    moving scenario keeping into consideration your pets. If you are moving to a long-distance, how the
-                    pet would be transported there, what about food arrangements, and things like these have to be
-                    decided beforehand.</p>
-                  <p class="text-justify"><strong>Prepare Identity Collar with Contact Details:</strong> If you are
-                    hiring a pet relocation company for the process then you would need to do some important favors for
-                    your pet. Prepare a pet identity collar with the updated collar details, this would help you to
-                    identify your pet if it gets lost in similar ones. </p>
-                  <p class="text-justify"><strong>Check about the Guidelines for Pets at New Location:</strong> The new
-                    place where you would be transporting your pet is pet-friendly. Is your pet breed allowed there?
-                    Well, these are a few of the things that you should check beforehand in order to stay on the safer
-                    side.</p>
-                  <p class="text-justify"><strong>Consult Vet for Vaccinations if Required:</strong> Consulting your vet
-                    with regards to your pet move and about the vaccinations that would be required if transporting to a
-                    longer distance, is also one of the important things you should do. If you can manage to have a
-                    reference from your vet of a good vet at the new place then also it would favor you in the long run.
-                  </p>
-                  <p class="text-justify"><strong>Make Arrangements for Moving Day:</strong> Moving day is tough and not
-                    only for you but for your pet as well. For the day of the move, you should make a proper arrangement
-                    for your pet. Along with this, you should also arrange for their food, loo, and other related things
-                    so that, the moving day may not bother them.</p>
-                  <p class="text-justify">Pet moving is tough, but good management can help you get the best result out
-                    of it. The tips that are mentioned above would help you to safely take your pet to the new home so
-                    that, you can play with it there.</p>
+                  <p class="text-justify">Are you looking for residential relocation services in India? If yes then your
+                    search ends here at Moving Solutions – India's leading relocation service booking portal. We can
+                    help you choose the best residential moving company in almost all the major Indian cities that will
+                    take care of all your residential relocation requirements. When choosing a professional residential
+                    relocation company, we understand well the importance of outstanding service. Being a pioneer in
+                    relocation industry of India, we have made partnership with some of the best residential movers and
+                    packers from different cities and towns of the country. We aim to provide you the highest standard
+                    of residential relocation services at very affordable and genuine rates. To make it is sure you will
+                    get only legitimate and affordable relocation service, we will provide you free quotes from multiple
+                    relocation companies. Comparing different price quotes of different companies might help you make
+                    decision to choose the best moving company for your upcoming residential relocation. </p>
+                  <p class="text-justify">We understand the pain of a residential relocation process. In fact, everyone
+                    knows that residential relocation can be painful and stressful experience if it is not carried out
+                    adequately and systematically. The experience can be overwhelming if a person does not care of
+                    hiring a reputable and experienced company of packers and movers to handle the household shifting
+                    tasks. Thus, hiring a reliable and knowledgeable company of residential movers and packers in
+                    imperative. Through this ultimate relocation service booking portal, a reliable moving company can
+                    be hired at affordable price for all types of residential moving requirements. Whether you want to
+                    move your home within a city or want to relocate from one city to another, you can trust this portal
+                    to hire the reliable, affordable and efficient residential moving services. </p>
+                  <p class="text-justify">If you trust us to hire residential shifting services for your upcoming house
+                    relocation then it is certain that you will be going to have a reliable and experienced team that
+                    will accomplish all the tedious shifting tasks precisely and accurately with utmost care. You must
+                    know that each of our partner residential movers is licensed, registered, knowledgeable, and
+                    experience. The best thing we have done for you is we have verified the credentials of our partners
+                    before making associations with them. We conduct a very tight verification to check moving
+                    companies&rsquo; license, registration, transport permit, experience and background. Thus, hiring
+                    residential relocation services through this portal would be completely safe and hassle-free. </p>
+                  <p class="text-justify">There are several benefits of hiring residential shifting services through
+                    this portal. You can save a considerable amount of money when choosing the right and perfect company
+                    of movers and packers for your residential shifting requirements. You will have an opportunity to
+                    compare the multiple quotes so that you can receive the best deal. Additionally, you will be able to
+                    protect yourself from fraud and scam done by shady moving companies, because our partners are
+                    verified - licensed, experienced and registered. </p>
+                  <p class="text-justify">If you employ the best moving crew on your residential move then you will have
+                    to do nothing. Each task of residential moving will be carried out by knowledgeable and experienced
+                    packers and movers. They will take utmost care of your belongings and pack and move them securely.
+                    They will deliver your household belongings on time at your new residence in any city of India.
+                    Additionally, your belongings are also insured if you are moving from one city to another. You can
+                    claim insurance coverage, if your possessions are damaged anyhow in transit. Our partner movers and
+                    packers are providing their services not only local residential moving but also for intercity and
+                    international residential relocation process. So, it makes a sense to hire residential relocation
+                    services from National packers and Mover a have tension-free moving experience.</p>
+                  <h4 class="pt-3 yellow">The process of residential relocation with professional movers and packers
+                  </h4>
+                  <p class="text-justify">In full service for residential relocation service, you will get tremendous
+                    benefits along with full assistance in the whole episode of moving. You can understand the process
+                    of your residential move here. </p>
+                  <ul>
+                    <li>You hire a right and reliable company of packers and movers.</li>
+                    <li>They pack your belongings correctly in best quality packing supplies and boxes.</li>
+                    <li>They load belongings onto the truck and ensure for safe and on time delivery.</li>
+                    <li>You get on time delivery of your possessions at your new residence.</li>
+                    <li>They unpack everything and also assist in rearranging items at your new home. </li>
+                  </ul>
+                  <h4 class="pt-3 yellow">Residential relocation service comprises several services including:</h4>
+                  <ul>
+                    <li>Full service residential relocation</li>
+                    <li>Partial packing and moving services</li>
+                    <li>Complete packing of all your household items</li>
+                    <li>Partial packing of household items</li>
+                    <li>Loading, transportation and unloading services</li>
+                    <li>Unpacking and rearranging services</li>
+                    <li>Goods transit insurance service</li>
+                    <li>Specialty items moving service</li>
+                    <li>Furniture moving services</li>
+                    <li>Pet animals moving services</li>
+                    <li>Residential items storage and warehousing services</li>
+                  </ul>
+                  <h4 class="pt-3 yellow">Why Choose National packers and Mover to Hire Residential Relocation Services?
+                  </h4>
+                  <p class="text-justify">You should trust National packers and Mover to hire residential moving
+                    services for the following reasons. </p>
+                  <ul>
+                    <li>An option to choose from verified packers and movers. </li>
+                    <li>Quick and easy way to book the best residential movers online. </li>
+                    <li>Free online moving estimates from multiple pre-verified moving companies. </li>
+                    <li>Free in-home estimates by National packers and Mover&rsquo; verified packers and movers.</li>
+                    <li>Premium relocation services at highly competitive rates. </li>
+                    <li>Full service residential moving service - packing, unpacking and custom crating</li>
+                    <li>Safe and secure warehousing and storage facility by our partner movers. </li>
+                  </ul>
+                  <h4 class="pt-3 yellow">How to get the best residential relocation services in India</h4>
+                  <p class="text-justify">You can hire the best-quality residential relocation services at affordable
+                    rates using this portal. To book the best company of packers and movers for residential moving, you
+                    only need to make a few mouse clicks. Follow the below given steps. And, rest is assure with us!</p>
+                  <ol>
+                    <li>Tell us your residential relocation details via the following mediums
+                      <ul>
+                        <li><strong>Online:</strong> Enquiry Form</li>
+                        <li><strong>Helpline Number:</strong> 9911918545</li>
+                        <li><strong>Toll Free Number:</strong> 1800 116 878</li>
+                        <li><strong>WhatsApp Number:</strong> 9911918545</li>
+                        <li><strong>Email ID:</strong> <a
+                            href="mailto:enquiry@National packers and mover">enquiry@National packers and mover</a></li>
+                      </ul>
+                    </li>
+                    <li>Get free estimates (quotes) from top 3 verified Packers and Movers within few minutes</li>
+                    <li>Compare rates and quality of services to choose the best one at your best price. </li>
+                  </ol>
                 </div>
               </div>
-
-              <div class="clearfix"></div>
-              <div id="reviews" class="testimonials section-bg float-left pbqn ptqn plc-5 float-left">
-
-                <div class="col-md-12">
-                  <div class="section-title">
-                    <h2 class="pt-3">What Our Clients Say</h2>
-                  </div>
-
-                  <div class="testimonial-item-inner">
-                    <h3>Aakansha Mishra</h3>
-                    <h4>Hooda Logistics Packers and Movers Support team is wonderful and always available to assist
-                      customers.</h4>
-                    <p>
-                      <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                      Especially Sonu sir helped me finding an authentic and perfect movers Packers which is VTrack.
-                      Balwan Singh from VTrack promised me to deliver my stuff within 4 days and I am glad they did so.
-                      Please go with National packers and Mover suggestions and recommendations.
-                      <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                    </p>
-                  </div>
-                  <div class="testimonial-item-inner">
-                    <h3>Shashi V</h3>
-                    <h4>Authentic and Affordable</h4>
-                    <p>
-                      <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                      My friend recommended me to contact National packers and Mover for hassle free shifting. I really
-                      don't believes in online sites but National packers and Mover proved me wrong they provided me
-                      professional and skilled packers and movers and that too at reasonable cost. I think one will not
-                      regret his decision if he chooses National packers and Mover. I would definitely recommend others
-                      to go with this company.
-                      <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                    </p>
-                  </div>
-                  <div class="testimonial-item-inner">
-                    <h3>M Sahoo</h3>
-                    <h4>Good Service Provider</h4>
-                    <p>
-                      <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                      Last week I had to move from India to Bangalore with my 2BHK household belongings. But moving
-                      process became my headache. I came to know about this service portal and gave them all
-                      responsibility(like packing my goods, transportation arrangements, unpacking etc). Their packing
-                      methods and materials are quite great. But for transportation some problems raised because of huge
-                      amount of goods. But in a hour they re-arranged another container and we shifted to Bangalore
-                      without any hassle. I think hiring packers and movers through National packers and Mover was a
-                      good decision.
-                      <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                    </p>
-                  </div>
-                  <div class="testimonial-item-inner">
-                    <h3>Sweta</h3>
-                    <h4>In few steps I got hassle free Car Shifting</h4>
-                    <p>
-                      <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                      I bought a new car in India, so i need to send my old one to the parents place who resides in
-                      Mumbai. I tried lots of options but nothing worked for me. At last I visited National packers and
-                      Mover. They picked up my car on scheduled time from my doorstep &amp; delivered it on time to my
-                      parents in safe conditions. They provided me best skilled professionals who know well how to pack
-                      &amp; unpack the car.
-                      <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                    </p>
-                  </div>
-                  <div class="testimonial-item-inner">
-                    <h3>Manmohan Tiwari</h3>
-                    <h4>Hired Packers and Movers in Hyderabad for House Shifting</h4>
-                    <p>
-                      <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                      I hired Packers and Movers in Hyderabad through this portal on my house move from Hyderabad to
-                      Coimbatore. Reasonable rates, good packing of household items, and on time delivery. Overall I got
-                      excellent services. I give 5-star to Packers and Movers Hyderabad, and thanks to National packers
-                      and mover for helping me hire reasonable house shifting services.
-                      <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                    </p>
-                  </div>
-                  <div class="text-center mt-4">
-                    <a href="index.html" class="btn btn-info text-center">View More Reviews</a>
-                  </div>
-                </div>
-              </div>
-
               <div class="clearfix"></div>
               <div id="why" class="why section-why pbqn ptqn plc-5 float-left w-100">
                 <div class="col-md-12">
@@ -483,52 +440,85 @@
                   </div>
                 </div>
               </div>
+
               <div class="clearfix"></div>
               <div id="city" class="content pbqn ptqn plc-5">
-                <div class="section-title">
-                  <h2 class="pt-3">Pet Transportation in India</h2>
-                </div>
-                <div class="listing-box">
+                <div class="col-xl-12 col-lg-12">
+                  <div class="section-title">
+                    <h2 class="pt-3">Residential relocation charges and rates</h2>
+                  </div>
+                  <div style="overflow-x:auto;margin-bottom: 15px;">
+                    <table>
+                      <tr>
+                        <td><strong>Relocation Type</strong></td>
+                        <td><strong>Truck Needed for Shifting</strong></td>
+                        <td><strong>Local Shifting Cost</strong></td>
+                        <td><strong>Domestic Shifting Cost</strong></td>
+                      </tr>
+                      <tr>
+                        <td>1 RK or Few Items</td>
+                        <td>Tempo (Mini Truck)</td>
+                        <td>Rs 2,500 - 7,000</td>
+                        <td>Rs 4,000 - 18,000</td>
+                      </tr>
+                      <tr>
+                        <td>1 BHK</td>
+                        <td>Small Truck</td>
+                        <td>Rs 3,000 - 9,000</td>
+                        <td>Rs 6,000 - 24,000</td>
+                      </tr>
+                      <tr>
+                        <td>2 BHK</td>
+                        <td>14 Feet Truck</td>
+                        <td>Rs 4,500 - 13,000</td>
+                        <td>Rs 8,000 - 28,000</td>
+                      </tr>
+                      <tr>
+                        <td>3 BHK</td>
+                        <td>17 Feet Truck</td>
+                        <td>Rs 6,000 - 18,000</td>
+                        <td>Rs 10,000 - 34,000</td>
+                      </tr>
+                      <tr>
+                        <td>4/5 BHK</td>
+                        <td>19 Feet Truck</td>
+                        <td>Rs 8,000 - 25,000</td>
+                        <td>Rs 15,000 - 48,000</td>
+                      </tr>
+                    </table>
+                  </div>
+                  <p class="text-justify"><strong>Note:</strong> Residential moving rates given in this chart are
+                    roughly estimated on the basis of previous residential shifting trends. The final cost may differ
+                    than presented here. So, it is advisable that you must collect the moving estimates from different
+                    companies to compare and save money. Additionally, you can use our <a
+                      href="blog/2019/12/23/cost-calculator-to-estimate-packers-and-movers-charges-in-india/index.html"
+                      class="yellow">packers and movers cost calculator</a> to know the approx. residential shifting
+                    charges and rates. There are several cost affecting factors which can influence the final
+                    residential moving cost. </p>
+                  <h4 class="pt-3 yellow">Cost affecting factors in residential relocation</h4>
                   <ul>
-                    <li><a href="locations.html"> pet relocation in Delhi</a></li>
-                    <li><a href="locations.html">pet relocation in Bangalore</a></li>
-                    <li><a href="locations.html">pet relocationin Gurgaon</a></li>
-                    <li><a href="locations.html"> pet relocation in Noida</a></li>
-                    <li><a href="locations.html"> pet relocation in Allahabad</a></li>
-                    <li><a href="locations.html">pet relocation in Vijayawada</a></li>
-                    <li><a href="locations.html">pet relocation in Varanasi</a></li>
-                    <li><a href="locations.html">pet relocation in Vadodara</a></li>
-                    <li><a href="locations.html">pet relocation in Thane</a></li>
-                    <li><a href="locations.html"> pet relocation in Surat</a></li>
-                    <li><a href="locations.html">pet relocation in Rewari</a></li>
-                    <li><a href="locations.html">pet relocation in Ranchi</a></li>
-                    <li><a href="locations.html">pet relocation in Raipur</a></li>
-                    <li><a href="locations.html">pet relocation in Pimpri Chinchwad</a>
-                    </li>
-                    <li><a href="locations.html"> pet relocation in Trivandrum</a></li>
+                    <li>The distance from your current residence to your new residence</li>
+                    <li>Total volume and weight of your residential belongings</li>
+                    <li>When you want to move? - Moving date, season and time</li>
+                    <li>Packing materials - the type of packing supplies, number of boxes</li>
+                    <li>Types of household items - general items, appliances, fragile, books, furniture</li>
+                    <li>Moving crew experience, reputation and company&rsquo;s brand value</li>
                   </ul>
-
+                  <h4 class="pt-3 yellow">Cost heads in residential shifting estimate</h4>
                   <ul>
-                    <li><a href="locations.html">pet relocation in Hisar</a></li>
-                    <li><a href="locations.html">pet relocationin Greater Noida</a></li>
-                    <li><a href="locations.htmll">pet relocation in Gorakhpur</a></li>
-                    <li><a href="locations.html">pet relocation in Ghaziabad</a></li>
-                    <li><a href="locations.html">pet relocation in Faridabad</a></li>
-                    <li><a href="locations.html">pet relocation in Coimbatore</a></li>
-                    <li><a href="locations.html">pet relocation in Chennai</a></li>
-                    <li><a href="locations.html">pet relocation in Chandigarh</a></li>
-                    <li><a href="locations.html">pet relocation in Bilaspur</a></li>
-                    <li><a href="locations.html">pet relocation in Bhubaneswar</a></li>
-                    <li><a href="locations.html">pet relocation in Bhiwadi</a></li>
-                    <li><a href="locations.html">pet relocation in Amritsar</a></li>
-                    <li><a href="locations.html">pet relocation in Ahmedabad</a></li>
-                    <li><a href="locations.html">pet relocation in Nagpur</a></li>
-                    <li style="visibility:hidden">&nbsp;</li>
+                    <li>Packing charge that also includes the cost of packing materials</li>
+                    <li>Labor charge that also includes the cost of loading and unloading the truck</li>
+                    <li>Transportation charge that also includes the cost of fuel consumption in transit</li>
+                    <li>Unpacking charge including basic rearrangement service cost</li>
+                    <li>Insurance charge, optional</li>
+                    <li>Warehousing &amp; storage charge, if required</li>
+                    <li>GST, Octroi and Toll Tax</li>
                   </ul>
                 </div>
               </div>
+
               <div class="clearfix"></div>
-              <div id="faq" class="faq section-bg pb-5 mt-5 ptqn">
+              <div id="faq" class="faq section-bg pb-5 ptqn">
                 <div class="col-xl-12 col-lg-12 icon-boxes flex-column align-items-stretch justify-content-center">
                   <div class="plc-5">
                     <div class="section-title">
@@ -539,155 +529,90 @@
                     <ul>
                       <li data-aos="fade-up" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" class="collapse"
-                          href="#faq-list-1" itemprop="name"><strong>What type of pets do your vendors
-                            relocate?</strong> <i class="bx bx-chevron-down icon-show"></i><i
+                          href="#faq-list-1" itemprop="name"><strong>How the price of a residential relocation is
+                            determined?</strong> <i class="bx bx-chevron-down icon-show"></i><i
                             class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-1" class="collapse show" data-parent=".faq-list" itemscope
                           itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <div itemprop="text">
-                            <p>Our vendors can transport any type of pets that are not harmful and dangerous as stated
-                              by the government. All breeds of dogs and cats can be transported by pet relocation
-                              companies. But, they do not transport the puppies and kittens that are less than three
-                              months.</p>
+                            <p>The answer to this question is indefinite because there are many factors that are
+                              involved in determining the cost of residential relocation. The cost of a residential move
+                              is determined considering the volume of your goods, distance to be covered, time duration,
+                              and additional services. The moving agency will consider everything from packing your
+                              goods to loading and unloading them. Usually, it’s the size of your home that affects the
+                              price of residential relocation.</p>
                           </div>
                         </div>
                       </li>
                       <li data-aos="fade-up" data-aos-delay="100" itemscope itemprop="mainEntity"
                         itemtype="https://schema.org/Question">
                         <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-2"
-                          class="collapsed" itemprop="name"><strong>Is pet relocation expensive?</strong> <i
-                            class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                          class="collapsed" itemprop="name"><strong>Are there any items that the movers will not
+                            move?</strong> <i class="bx bx-chevron-down icon-show"></i><i
+                            class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-2" class="collapse" data-parent=".faq-list" itemscope
                           itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <div itemprop="text">
-                            <p>Pet relocation is not similar to the household move. Here the vendors will be responsible
-                              to transport a living creature. Hence, the resources are required to transport the pets
-                              safely and comfortably contribute to the costs. Since the pets can’t travel for a longer
-                              period, they are transported by air, which expensive than other modes of transportation.
-                            </p>
+                            <p>Yes! There are many items or goods that the movers will not move. These items can include
+                              gasoline, lighter fluid, fireworks, propane cylinders, lamp oil, car batteries, pool
+                              chemicals, and perishable foods. Before deciding anything ask your movers about what they
+                              will move and not move, then take your decision. </p>
                           </div>
                         </div>
                       </li>
                       <li data-aos="fade-up" data-aos-delay="100" itemscope itemprop="mainEntity"
                         itemtype="https://schema.org/Question">
                         <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-3"
-                          class="collapsed" itemprop="name"><strong>Is my pet safe in a cargo?</strong> <i
-                            class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                          class="collapsed" itemprop="name"><strong>Does it cost more to use a full-service
+                            mover?</strong> <i class="bx bx-chevron-down icon-show"></i><i
+                            class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-3" class="collapse" data-parent=".faq-list" itemscope
                           itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <div itemprop="text">
-                            <p>Yes! Your pet is safe in cargo because the cargos are temperature-controlled and
-                              pressurized like the cabins. They will be provided all the essentials during the
-                              transportation, hence, there’s nothing to worry about. </p>
+                            <p>It may seem that doing it yourself is a budget-friendly option to relocate home, but if
+                              considered some of the factors then moving with professional packers and movers is the
+                              most cost-effective way to relocate your house. Although full packers and movers service
+                              will cost you more, considering the advantages of hiring packers and movers will let you
+                              know why you should go for a full-service mover. They will help you to save your time and
+                              money. You can move without putting any effort also, they assure safe and damage-free
+                              move.</p>
                           </div>
                         </div>
                       </li>
                       <li data-aos="fade-up" data-aos-delay="100" itemscope itemprop="mainEntity"
                         itemtype="https://schema.org/Question">
                         <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-4"
-                          class="collapsed" itemprop="name"><strong>What preparation do I need to make to transport my
-                            pet?</strong> <i class="bx bx-chevron-down icon-show"></i><i
-                            class="bx bx-chevron-up icon-close"></i></a>
+                          class="collapsed" itemprop="name"><strong>What happens if my stuff gets damaged?</strong> <i
+                            class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-4" class="collapse" data-parent=".faq-list" itemscope
                           itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <div itemprop="text">
-                            <p>Depending on the transport method of your pet by air or road, you will have to get a
-                              health certificate of your pet. Also, you must contact a pet relocation specialist to
-                              verify that you have all the paperwork that is required for pet transportation. </p>
+                            <p>The mover’s liability under the act depends on what type of contract you have with your
+                              packers and movers agency. Based on the contract signed in between both parties, the mover
+                              will be responsible for the damages. And if there’s no contract then the mover will be
+                              responsible for the damages caused during the transportation up to a certain amount. But,
+                              many moving agencies do insurance of the goods against damages so that the damage costs
+                              will be recovered through insurance coverage.</p>
                           </div>
                         </div>
                       </li>
                       <li data-aos="fade-up" data-aos-delay="100" itemscope itemprop="mainEntity"
                         itemtype="https://schema.org/Question">
                         <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-5"
-                          class="collapsed" itemprop="name"><strong>What documents are needed for pet
-                            relocation?</strong> <i class="bx bx-chevron-down icon-show"></i><i
+                          class="collapsed" itemprop="name"><strong>If my new house isn’t ready can I store my
+                            goods?</strong> <i class="bx bx-chevron-down icon-show"></i><i
                             class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-5" class="collapse" data-parent=".faq-list" itemscope
                           itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <div itemprop="text">
-                            <p>The documents needed for pet transportation vary from country to country. But the most
-                              basic documents that will be required is the vaccination record booklet. Well, your pet
-                              relocation service provider will help you to know about all the documents that you will be
-                              required to transport your pet. </p>
+                            <p>Yes, you can avail of warehousing and household goods storage services offered by many
+                              residential relocation companies in India. They will pick your belongings from your house
+                              and will drive them to their warehouse, where they will pack your goods and safely keep
+                              them in a container for a certain period.</p>
                           </div>
                         </div>
                       </li>
                     </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="clearfix"></div>
-              <div id="blog" class="blog pb-5 ptqn plc-5 float-left">
-                <div class="col-md-12">
-                  <div class="section-title">
-                    <h2 class="pt-3">Popular Blogs</h2>
-                  </div>
-                  <div class="col-lg-4 col-md-4 float-left">
-                    <div class="blog-item-inner">
-                      <a href="#"><img
-                          src="https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/96f97fd5-ddf6-4d2a-6073-6c40fd7eee00/public"
-                          alt="How to Start Your Own Packers and Movers Business in India?"
-                          title="How to Start Your Own Packers and Movers Business in India?" class="img-fluid">
-                        <h4>How to Start Your Own Packers and Movers Business in India?</h4>
-                      </a>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-4 col-md-4 float-left">
-                    <div class="blog-item-inner">
-                      <a href="#"><img
-                          src="https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/f2363325-7c24-4569-3597-6d4d7994a500/public"
-                          alt="What are GST Rates for Movers and Packers in India?"
-                          title="What are GST Rates for Movers and Packers in India?" class="img-fluid">
-                        <h4>What are GST Rates for Movers and Packers in India?</h4>
-                      </a>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-4 col-md-4 float-left">
-                    <div class="blog-item-inner">
-                      <a href="#"><img
-                          src="https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/93fdd189-466c-4609-5380-6907fb445a00/public"
-                          alt="The Types and Costs of Moving Insurance by Packers and Movers in India"
-                          title="The Types and Costs of Moving Insurance by Packers and Movers in India"
-                          class="img-fluid">
-                        <h4>The Types and Costs of Moving Insurance by Packers and Movers in India</h4>
-                      </a>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-4 col-md-4 float-left">
-                    <div class="blog-item-inner">
-                      <a href="#"><img
-                          src="https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/810d81ba-606e-490b-9996-253e249ccd00/public"
-                          alt="IBA Approved Packers and Movers List 2022"
-                          title="IBA Approved Packers and Movers List 2022" class="img-fluid">
-                        <h4>IBA Approved Packers and Movers List 2022</h4>
-                      </a>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-4 col-md-4 float-left">
-                    <div class="blog-item-inner">
-                      <a href="#"><img
-                          src="https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/209eac2c-8fd3-4ffc-a3d0-66f289294400/public"
-                          alt="Cost Calculator to Estimate Packers and Movers Charges in India"
-                          title="Cost Calculator to Estimate Packers and Movers Charges in India" class="img-fluid">
-                        <h4>Cost Calculator to Estimate Packers and Movers Charges in India</h4>
-                      </a>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-4 col-md-4 float-left">
-                    <div class="blog-item-inner">
-                      <a href="#"><img
-                          src="https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/ba112074-5fcb-4251-3693-6151cda16600/public"
-                          alt="Bike Transportation by Train – Charges and Procedure"
-                          title="Bike Transportation by Train – Charges and Procedure" class="img-fluid">
-                        <h4>Bike Transportation by Train – Charges and Procedure</h4>
-                      </a>
-                    </div>
                   </div>
                 </div>
               </div>
@@ -763,7 +688,7 @@
               <div class="position-sticky headerleft">
                 <h3><span class="sub-title">Get <span class="yellow"><strong>FREE QUOTES</strong></span> in a
                     minute</span></h3>
-                <form id="regForm2" name="regForm2" method="post" action="thankwarehouse.php">
+                <form id="regForm2" name="regForm2" method="post" action="thank.php">
                   <div class="form-group row">
                     <div class="col-md-12 mt-1">
                       <input type="text" class="form-control" name="name" placeholder="Enter Your Name :" required>
@@ -772,77 +697,25 @@
                       <input type="email" class="form-control" name="email" placeholder="Enter Your Email :" required>
                     </div>
                     <div class="col-md-12 mt-1">
+                      <input type="text" class="form-control" name="from" placeholder="Moving From :" required
+                        id="autocomplete3">
+                    </div>
+                    <div class="col-md-12 mt-1">
+                      <input type="text" class="form-control" name="to" placeholder="Moving To :" required
+                        id="autocomplete4">
+                    </div>
+                    <div class="col-md-12 mt-1">
                       <input type="text" class="form-control" name="phone" placeholder="Enter 10 Digit Mobile No. :"
-                        required pattern="(.){10,10}" title="Enter 10 Digit Mobile Number" autocomplete="off"
+                        required pattern="(.){10,10}" title="Please Enter 10 Digit Mobile Number" autocomplete="off"
                         onKeyUp="var num=this.value; if(isNaN(num)) this.value=num.substring(0, num.length - 1);"
                         maxlength="10">
-                    </div>
-                    <div class="col-md-12 mt-1">
-                      <input list="browsers1" name="city" class="form-control" placeholder="City :" required>
-                      <datalist id="browsers1">
-                        <option value="Delhi">
-                        <option value="Mumbai">
-                        <option value="Kolkata">
-                        <option value="Chennai">
-                        <option value="Bangalore">
-                        <option value="Pune">
-                        <option value="Hyderabad">
-                        <option value="Gurgaon">
-                        <option value="Ahmedabad">
-                        <option value="Faridabad">
-                        <option value="Ghaziabad">
-                        <option value="Bhubaneswar">
-                        <option value="Chandigarh">
-                        <option value="Vadodara">
-                        <option value="Hisar">
-                        <option value="Ranchi">
-                        <option value="Patna">
-                        <option value="Nagpur">
-                        <option value="Nashik">
-                        <option value="Vijayawada">
-                        <option value="Raipur">
-                        <option value="Jaipur">
-                        <option value="Manesar">
-                        <option value="Greater Noida">
-                        <option value="Navi Mumbai">
-                        <option value="Thane">
-                        <option value="Surat">
-                        <option value="Kanpur">
-                        <option value="Allahabad">
-                        <option value="Varanasi">
-                        <option value="Gorakhpur">
-                        <option value="Indore">
-                        <option value="Mohali">
-                        <option value="Panchkula">
-                        <option value="Ludhiana">
-                        <option value="Amritsar">
-                        <option value="Hisar">
-                        <option value="Coimbatore">
-                        <option value="Bilaspur">
-                        <option value="Pimpri-Chinchwad">
-                        <option value="Rewari">
-                        <option value="Bhiwadi">
-                      </datalist>
-                    </div>
-                    <div class="col-md-12 mt-1">
-                      <select name="duration" required style="-ms-flex: 1 1 auto;
-flex: 1 1 auto;" class="form-control">
-                        <option value="" selected>Select Duration</option>
-                        <option value="1 Month">For 1 Month</option>
-                        <option value="2 Month">For 2 Month</option>
-                        <option value="3 Month">For 3 Month</option>
-                        <option value="6 Month">For 6 Month</option>
-                        <option value="1 Year">For 1 Year</option>
-                        <option value="More then 1 Yeare">More then 1 Year</option>
-                        <option value="Others">Others</option>
-                      </select>
                     </div>
                     <div class="col-md-12 mt-1">
                       <input type="text" name="rdate" class="form-control" id="datepicker2" placeholder="Moving Date :"
                         required autocomplete="off" inputmode="none">
                     </div>
                     <div class="col-md-12 mt-1">
-                      <textarea name="requirement" placeholder="Warehousing Details :" rows="3" cols="3" required
+                      <textarea name="requirement" placeholder="Move Details :" rows="3" cols="3" required
                         class="form-control"></textarea>
                     </div>
 
@@ -862,7 +735,6 @@ flex: 1 1 auto;" class="form-control">
       </section>
     </main>
 
-
     <footer id="footer" class="mt-5">
 
       <div class="footer-top">
@@ -872,25 +744,11 @@ flex: 1 1 auto;" class="form-control">
             <div class="col-lg-3 col-md-6 footer-contact">
               <img src="sitepackage/img/banner//logo.png" alt="" width="100%">
 
-              <p>Shop no 2, Anthony's school suchitra, sri Durga estates Hyderabad, Telangana 500055</p>
-              <p>Plot no 30A ghandi Rd , kavankrai, puzhal, channai tamilnadu 600066
-              </p>
-              <p>Sai deep apartment balkum naka near fire bridge St thane west mumbai 400608
-              </p>
-              <p>
-                Plot no 17A Jai Mangal murti housing society Sai nagar wadi nagpur - 440023
-              </p>
-              <p>No. 02.k no . 41/6 vittasandra Begur banglore 560100
-              </p>
-              <p>Sector 5 lakshman chowk old railway road gurugram</p>
-              <p>Shop No. 06, Gate No . 65, Near Marere
-                House , Borhadewad Moshi , Pune - 41210</p>
+              <p>Address: Pocket-H, First Floor, 48, 2, Sector Alpha Rd, Greater Noida, Uttar Pradesh 201307</p>
 
-              <strong>Email:</strong> <a href="mailto:">nationalpackersandmoversinfo@gmail.com</a><br>
-              <strong>Mobile:</strong> <a href="tel:+919043798129">+91 9043798129</a>, <a
-                href="tel:+919043798129">9043798129</a><br>
-              <strong> Gst In :</strong> 33IAQPK3437R1ZU
-              </p>
+              <strong>Email:</strong> <a href="mailto:">Oncallpackers@gmail.com</a><br>
+              <strong>Mobile:</strong> <a href="tel:+918448574563">+91 98448574563</a>
+              </p>  
 
 
             </div>
@@ -903,11 +761,10 @@ flex: 1 1 auto;" class="form-control">
                 <li><i class="bx bx-chevron-right"></i> <a href="car-transportation.html">Car Transportation</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="bike-transportation.html">Bike Transportation</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="warehousing-services.html">Warehousing</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="pet.html">Pet Relocation</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="truck-on-rent-for-shifting.html">Truck/Tempo on
-                    Rent</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="luggage-transport-services-in-india.html">Luggage
-                    Transport</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="local-shifting.html">Local Shifting</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="commercial-shifting.html">Commercial Shifting</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="corporate-moving.html">Corporate Moving</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="international-moving.html">International Moving</a></li>
 
                 <!-- <li><i class="bx bx-chevron-right"></i> <a href="#">Pest Control</a></li> -->
 
@@ -947,15 +804,13 @@ flex: 1 1 auto;" class="form-control">
               <h4 class="text-left">Help Us Spread the Word</h4>
               <p class="text-left">Like, Follow, Tweet or Share. We Just Love Interacting With You.</p>
               <div class="social-links text-left">
-                <a href="https://x.com/?lang=en" class="twitter"><i class="bx bxl-twitter"></i><span>Twitter</span></a>
-                <a href="https://www.facebook.com/" class="facebook"><i
+                <a href="https://www.youtube.com/@OnCallPackers" class="twitter"><i class="bx bxl-twitter"></i><span>Twitter</span></a>
+                <a href="https://www.facebook.com/profile.php?id=100091494346789" class="facebook"><i
                     class="bx bxl-facebook"></i><span>Facebook</span></a>
                 <a href="https://www.instagram.com/" class="instagram"><i
                     class="bx bxl-instagram"></i><span>instagram</span></a>
-                <a href="https://www.youtube.com/" class="google-plus"><i
+                <a href="https://www.youtube.com/@OnCallPackers" class="google-plus"><i
                     class="bx bxl-youtube"></i><span>Youtube</span></a>
-                <a href="https://www.linkedin.com/" class="linkedin"><i
-                    class="bx bxl-linkedin"></i><span>Linkedin</span></a>
               </div>
 
             </div>
@@ -967,47 +822,28 @@ flex: 1 1 auto;" class="form-control">
         <div class="container">
           <div class="row">
             <div class="col-lg-3 col-md-6 footer-contact">
-              <h3>National packers and Mover</h3>
+              <h3>On Call Packers and Mover</h3>
 
 
-              <p>Shop no 2, Anthony's school suchitra, sri Durga estates Hyderabad, Telangana 500055</p>
-              <p>Plot no 30A ghandi Rd , kavankrai, puzhal, channai tamilnadu 600066
-              </p>
-              <p>Sai deep apartment balkum naka near fire bridge St thane west mumbai 400608
-              </p>
-              <p>
-                Plot no 17A Jai Mangal murti housing society Sai nagar wadi nagpur - 440023
-              </p>
-              <p>No. 02.k no . 41/6 vittasandra Begur banglore 560100
-              </p>
-              <p>Sector 5 lakshman chowk old railway road gurugram</p>
-              <p>Shop No. 06, Gate No . 65, Near Marere
-                House , Borhadewad Moshi , Pune - 41210</p>
+              <p>Address: Pocket-H, First Floor, 48, 2, Sector Alpha Rd, Greater Noida, Uttar Pradesh 201307</p>
               <strong>Email:</strong> <a
-                href="mailto:nationalpackersandmoversinfo@gmail.com">nationalpackersandmoversinfo@gmail.com</a><br>
-              <strong>Mobile:</strong> <a href="tel:+919043798129">+91-9043798129</a>, <a
-                href="tel:+919043798129">9043798129</a><br>
-              <strong> Gst In :</strong> 33IAQPK3437R1ZU
-
-
+                href="mailto:Oncallpackers@gmail.com">Oncallpackers@gmail.com</a><br>
+              <strong>Mobile:</strong> <a href="tel:+9198448574563">+91-98448574563</a>
               <br>
               </p>
-
 
             </div>
             <div class="col-lg-3 col-md-6 text-center">
               <h4 class="text-left">Help Us Spread the Word</h4>
               <p class="text-left">Like, Follow, Tweet or Share. We Just Love Interacting With You.</p>
               <div class="social-links text-left">
-                <a href="https://x.com/?lang=en" class="twitter"><i class="bx bxl-twitter"></i><span>Twitter</span></a>
-                <a href="https://www.facebook.com/" class="facebook"><i
+                <a href="https://www.youtube.com/@OnCallPackers" class="twitter"><i class="bx bxl-twitter"></i><span>Twitter</span></a>
+                <a href="https://www.facebook.com/profile.php?id=100091494346789" class="facebook"><i
                     class="bx bxl-facebook"></i><span>Facebook</span></a>
                 <a href="https://www.instagram.com/" class="instagram"><i
                     class="bx bxl-instagram"></i><span>instagram</span></a>
-                <a href="https://www.youtube.com/" class="google-plus"><i
+                <a href="https://www.youtube.com/@OnCallPackers" class="google-plus"><i
                     class="bx bxl-youtube"></i><span>Youtube</span></a>
-                <a href="https://www.linkedin.com/" class="linkedin"><i
-                    class="bx bxl-linkedin"></i><span>Linkedin</span></a>
               </div>
 
             </div>
@@ -1021,18 +857,14 @@ flex: 1 1 auto;" class="form-control">
                   <div id="content-list-7" class="collapse" data-parent=".content-list">
                     <div class="footer-links">
                       <ul>
-                        <li><i class="bx bx-chevron-right"></i> <a href="residential-relocation.html">Relocation
-                            Services</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="car-transportation.html">Car Transportation</a>
-                        </li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="bike-transportation.html">Bike
-                            Transportation</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="residential-relocation.html">Relocation Services</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="car-transportation.html">Car Transportation</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="bike-transportation.html">Bike Transportation</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="warehousing-services.html">Warehousing</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="pet.html">Pet Relocation</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="truck-on-rent-for-shifting.html">Truck/Tempo on
-                            Rent</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a
-                            href="luggage-transport-services-in-india.html">Luggage Transport</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="local-shifting.html">Local Shifting</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="commercial-shifting.html">Commercial Shifting</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="corporate-moving.html">Corporate Moving</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="international-moving.html">International Moving</a></li>
                         <!-- <li><i class="bx bx-chevron-right"></i> <a href="pe">Pest Control</a></li> -->
 
 
@@ -1095,38 +927,20 @@ flex: 1 1 auto;" class="form-control">
 
         <div class="mr-md-auto text-center text-md-left">
           <div class="copyright">
-            &copy; All rights reserved 2022 <a href="index.html">National packers and Mover</a>
+            &copy; All rights reserved 2025 <a href="rnpitsolution.com">RNP IT SOLUTION</a>
           </div>
-          <!-- <div class="credits">
-          <p class="text-justify"> <strong>Disclaimer:</strong> We only provide references for professional packers and  movers in India. Before finalizing any packers and movers or any related  vendor, you are advised to verify their credentials on your own. Get everything  (quotations) in writing. Don&rsquo;t forget to get the final bill receipt before  allowing the movers to handle your move. We won&rsquo;t be responsible for any kind  of loss, damage, or mishap.<br><br></p>
-
-        </div> -->
         </div>
       </div>
     </footer>
+
+
+
     <div class="fixedbar">
       <div class="boxfloat">
         <ul id="tips">
-          <li class="pl-0 float-right"><span id="whatsapp"><a href="https://wa.me/919043798129?text=Hi"></a></span></li>
+          <li class="pl-0 float-right"><span id="whatsapp"><a href="https://wa.me/918448574563?text=Hi"></a></span></li>
           <li><a href="contact-us.html" class="btn btn-info quotes">Get Quotes</a></li>
-          <li><select id="mySelect1" onchange="myFunction(this.value)" name="city-search"
-              class="form-control mobile-search-city">
-              <option value="#" selected disabled>Change City...</option>
-              <option value='agra'>Agra</option>
-
-
-              <option value='pilkhuwa'>Pilkhuwa</option>
-
-              <option value='sonbhadra'>Sonbhadra</option>
-              <option value='sonipat'>Sonipat</option>
-              <option value='surat'>Surat</option>
-              <option value='thane'>Thane</option>
-              <option value='udaipur'>Udaipur</option>
-              <option value='vadodara'>Vadodara</option>
-              <option value='varanasi'>Varanasi</option>
-              <option value='zirakpur'>Zirakpur</option>
-            </select>
-          </li>
+          
         </ul>
 
       </div>
@@ -1185,7 +999,6 @@ flex: 1 1 auto;" class="form-control">
     </div>
 
 
-
     <script src="sitepackage/js/jquery.min.js"></script>
     <script src="sitepackage/js/bootstrap.bundle.min.js"></script>
     <script src="sitepackage/js/jquery.easing.min.js"></script>
@@ -1196,13 +1009,28 @@ flex: 1 1 auto;" class="form-control">
     <script src="sitepackage/js/bootstrap-datepicker.min.js"></script>
     <script src="sitepackage/js/main.js"></script>
     <script>
+      function myRead() {
+        var moreText = document.getElementById("more");
+        var btnText = document.getElementById("myBtn");
+
+        if (more.style.display === "none") {
+          btnText.innerHTML = "Read more";
+          moreText.style.display = "none";
+        } else {
+          more.style.display = "none";
+          btnText.innerHTML = "Read less";
+          moreText.style.display = "inline";
+        }
+      }
+    </script>
+    <script>
       function myFunction(x) {
         if (x == 'mumbai') {
-          window.location = "https://www.National packers and mover/packers-and-movers-" + x + ".html";
+          window.location = "#" + x + ".html";
         } else if (x == 'bangalore') {
-          window.location = "https://www.National packers and mover/packers-and-movers-" + x + ".html";
+          window.location = "#" + x + ".html";
         } else {
-          window.location = "https://www.National packers and mover/packers-and-movers-in-" + x + ".html";
+          window.location = "#" + x + ".html";
         }
       }
     </script>
@@ -1224,21 +1052,15 @@ flex: 1 1 auto;" class="form-control">
         });
       });
     </script>
-    <script>
-      $(function () {
-        $("#datepicker2").datepicker({
-          startDate: new Date(),
-          endDate: '+45d',
-          autoclose: true
-        });
-      });
-    </script>
+
+
+
     <script type="application/ld+json">
  { "@context": "https://schema.org",
  "@type": "Organization",
  "name": "National packers and Mover",
- "url": "https://www.National packers and mover",
- "logo": "https://www.National packers and mover/https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/ca0878f5-1bbc-4f38-371a-37783c4de600/logo",
+ "url": "https://www.nationalpackersandmover & Moves",
+ "logo": "https://www.nationalpackersandmover & Moves/https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/ca0878f5-1bbc-4f38-371a-37783c4de600/logo",
  "foundingDate": "2014",
  "founders": [
  {
@@ -1256,20 +1078,40 @@ flex: 1 1 auto;" class="form-control">
  "@type": "ContactPoint",
  "contactType": "customer support",
  "telephone": "[+91-9911-91-5845]",
- "email": "enquiry@National packers and mover"
+ "email": "enquiry@nationalpackersandmover & Moves"
  },
  "sameAs": [ 
  "https://www.facebook.com/movingsolutionss/",
  "https://twitter.com/movingsolution6/",
- "https://www.instagram.com/National packers and mover/",
+ "https://www.instagram.com/nationalpackersandmover & Moves/",
  "https://www.youtube.com/movingsolutions/",
  "https://www.linkedin.com/company/movingsolutions"
  ]}
 </script>
+    <script>
+      $('.owl-carousel').owlCarousel({
+        loop: true,
+        margin: 10,
+        dots: false,
+        nav: true,
+        autoplay: true,
+        smartSpeed: 3000,
+        autoplayTimeout: 7000,
+        responsive: {
+          0: {
+            items: 1
+          },
+          600: {
+            items: 2
+          },
+          1000: {
+            items: 3
+          }
+        }
+      })
+    </script>
 
   </body>
 
-
-  <!-- Mirrored from www.National packers and mover/warehousing-services.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 19 Nov 2022 09:52:04 GMT -->
 
 </html>

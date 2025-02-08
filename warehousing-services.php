@@ -5,16 +5,16 @@
   <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>Bike Transportation, Bike Shifting Services in India</title>
+    <title>Household Storage Services - Affordable storage units near me</title>
     <meta name="description"
-      content="Looking for bike transportation &amp; moving services in India? Find the best bike moving company here at best price. Get free quotes today!" />
+      content="Hire reliable household storage services in India at affordable charges. We provide services from verified Warehousing and storage. Get a free quote now." />
     <meta name="keywords"
-      content="bike transportation, bike moving, bike transportation services, bike moving services, bike transportation services in india, bike moving services in india" />
-    <meta name="author" content="nationalpackersandmover" />
+      content="household storage services in india, home storage services in india, warehousing services in india, household storage charges in india, charges for household storage" />
+    <meta name="author" content="National packers and Mover" />
     <meta name="distribution" content="global" />
     <meta name="Content-Language" content="EN" />
     <meta name="geo.region" content="IN">
-    <link rel="canonical" href="bike-transportation.html" />
+    <link rel="canonical" href="warehousing-services.html" />
     <link href="sitepackage/img/banner/logo.png" rel="icon">
     <link href="sitepackage/css/style.css" rel="stylesheet">
     <link href="sitepackage/css/bootstrap.min.css" rel="stylesheet">
@@ -35,7 +35,7 @@
     <style>
       #imgoverlay-inner {
         height: auto;
-        background: url(sitepackage/img/banner/vehicle-transport-bike.jpg) top left;
+        background: url("https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/281a23ae-fbad-4c70-c9f9-13c860681a00/public") top left;
         background-size: auto;
         background-size: cover;
         position: relative;
@@ -108,14 +108,13 @@
     <header id="header" class="fixed-top" style="padding: 5px 0;">
       <div class="container d-flex align-items-center">
         <a href="index.html" class="logo mr-auto"><img src="sitepackage/img/banner/logo.png"
-            alt="nationalpackersandmover" class="img-fluid"></a>
+            alt="National packers and Mover" class="img-fluid"></a>
 
         <nav class="nav-menu d-none d-lg-block">
           <ul>
-            <li><a href="index.html">Home</a></li>
-
+            <li class="active"><a href="index.html">Home</a></li>
             <li><a href="about-us.html">About Us</a> </li>
-            <li class="drop-down active"><a href="#">Service</a>
+            <li class="drop-down"><a href="#">Service</a>
               <ul>
                 <li><a href="residential-relocation.html">Relocation Services</a></li>
                 <li><a href="car-transportation.html">
@@ -155,10 +154,10 @@
                 </div>
                 <div class="col-md-6 float-left ph-4">
                   <div class="mobile-view-inner">
-                    <h1 class="text-left">Bike Transportation in India</h1>
-                    <p class="pc">Hiring the best bike transport services in India is no more hassle now. View pricing,
-                      read reviews, compare rates and book the best-rated verified bike transporter in India at best
-                      price.</p>
+                    <h1 class="text-left">Warehousing &amp; Household Storage Services in India</h1>
+                    <p class="pc">Hire the safest and most reliable household storage services in India at affordable
+                      prices. Compare household storage charges from the top 3 vendors for an affordable warehouse for
+                      home storage in India. Affordable household storage charges in India start at Rs. 3,000 only.</p>
                     <div class="col-md-6 float-left mth pc text-left"><img
                         src="sitepackage/img/services/trusted-services.svg" alt="Verified Professionals"
                         title="Verified Professionals" class="icon-size"> <span class="size">Verified
@@ -176,8 +175,10 @@
                 </div>
                 <div class="clearfix"></div>
                 <div class="carousel slide text-center pb-3 carousel-display" data-ride="carousel">
-                  <h1 class="text-center">Bike Transportation in India</h1>
-                  <p>Find and compare India's best bike transporters. And save up to 25% on booking.</p>
+                  <h1 class="text-center">Warehousing &amp; Household Storage Services in India</h1>
+                  <p class="pc">Hire the safest and most reliable household storage services in India at affordable
+                    prices. Compare household storage charges from the top 3 vendors for an affordable warehouse for
+                    home storage in India. Affordable household storage charges in India start at Rs. 3,000 only.</p>
                   <div class="carousel-inner">
                     <div class="carousel-item active">
                       <img src="sitepackage/img/services/trusted-services.svg" alt="Verified Professionals"
@@ -208,8 +209,6 @@
                         href="#relocation">Hiring Guide</a></li>
                     <li class="nav-item display-inline"><a class="nav-link-inner text-center"
                         href="#reviews">Reviews</a></li>
-                    <li class="nav-item display-inline"><a class="nav-link-inner text-center" href="#price">Price</a>
-                    </li>
                     <li class="nav-item display-inline"><a class="nav-link-inner text-center w-100" href="#why">Why
                         Us</a></li>
                     <li class="nav-item display-inline"><a class="nav-link-inner text-center" href="#faq">FAQ</a></li>
@@ -241,7 +240,7 @@
                       </div>
                       <div class="col-md-6 mt-1">
                         <input type="text" class="form-control" name="phone" placeholder="Enter 10 Digit Mobile No. :"
-                          required pattern="(.){10,10}" title="Enter 10 Digit Mobile Number" autocomplete="off"
+                          required pattern="(.){10,10}" title="Please Enter 10 Digit Mobile Number" autocomplete="off"
                           onKeyUp="var num=this.value; if(isNaN(num)) this.value=num.substring(0, num.length - 1);"
                           maxlength="10">
                       </div>
@@ -250,19 +249,8 @@
                           required autocomplete="off" inputmode="none">
                       </div>
                       <div class="col-md-6 mt-1">
-                        <select name="requirement" required style="-ms-flex: 1 1 auto;
-flex: 1 1 auto;" class="form-control">
-                          <option value="" selected>Select Types of Bike</option>
-                          <option value="Scooty">Scooty</option>
-                          <option value="Bike">Bike</option>
-                          <option value="Moped">Moped</option>
-                          <option value="Scooter">Scooter</option>
-                          <option value="Three Wheeler Scooty">Three Wheeler Scooty</option>
-                          <option value="Car + Bike">Car + Bike</option>
-                          <option value="Household + Car + Bike">Household + Car + Bike</option>
-                          <option value="Bike + Others">Bike + Others</option>
-                          <option value="Others">Others</option>
-                        </select>
+                        <textarea name="requirement" placeholder="Move Details :" rows="3" cols="3" required
+                          class="form-control"></textarea>
                       </div>
 
                       <div class="col-md-6 mt-1">
@@ -270,8 +258,8 @@ flex: 1 1 auto;" class="form-control">
                           value="SUBMIT &rarr;">
                       </div>
                     </div>
-                    <div style="margin:auto; text-align:center;"><i class="icofont-checked"></i> I Accept <a href="#"
-                        target="_blank"><span class="red">Terms &amp;
+                    <div style="margin:auto; text-align:center;"><i class="icofont-checked"></i> I Accept <a
+                        href="terms-and-conditions.html" target="_blank"><span class="red">Terms &amp;
                           Conditions</span></a> of HL</div>
                   </form>
                 </div>
@@ -290,7 +278,7 @@ flex: 1 1 auto;" class="form-control">
                   </div>
                   <div class="box-content">
                     <h5><strong>Tell Us About Your Move</strong></h5>
-                    <p>Share your shifting details. When and where you want to shift your bike?</p>
+                    <p>Share your storage needs. When and what you want to store.</p>
                   </div>
                 </div>
                 <div class="col-lg-6 float-left pt-4 pb-4">
@@ -301,7 +289,7 @@ flex: 1 1 auto;" class="form-control">
                   </div>
                   <div class="box-content">
                     <h5><strong>Get References of 3 Movers</strong></h5>
-                    <p>Ger free quotations from top 3 nearby verified bike transporters in a minute</p>
+                    <p>Ger free quotations from top 3 nearby verified packers &amp; movers in a minute</p>
                   </div>
                 </div>
                 <div class="col-lg-6 float-left pt-4 pb-4">
@@ -330,28 +318,146 @@ flex: 1 1 auto;" class="form-control">
               </div>
               <div class="clearfix"></div>
 
-              <div id="relocation" class="content ptqn plc-5">
+              <div id="relocation" class="content pbqn ptqn plc-5">
                 <div class="col-xl-12 col-lg-12">
-                  <h2 class="pt-3 blue">Hire Efficient Packers and Movers for Bike Shifting</h2>
+                  <h2 class="pt-3 blue">Count on National packers and Mover for Affordable Household Storage Services
+                  </h2>
                   <div class="line-bottom-left"></div>
-                  <h3 class="pt-3 font-weight-bold">Guide to Hire Best Professionals at Best Price</h3>
-                  <img class="img-fluid float-right pli" src="sitepackage/img/page-img/bike-transportation.jpg"
-                    alt="Bike Shifting" title="Bike Shifting">
-                  <p class="text-justify">Shifting is a tedious task and that too with regards to vehicle shifting.
-                    Vehicle is not only an investment for us, but it is an important element of our life as well. In a
-                    country like India where traffic is still a big issue and dependence on public transport is not
-                    everyone’s piece of cake, people tend to have their two-wheeler if they are shifting to a new place.
-                    Changing location is a tough task and along with this comes the toughest time of decision making as
-                    what to take to the next destination and what to leave behind. As vehicle is one of the much needed
-                    elements in our daily living. As two-wheeler is easy to maintain and easy to carry; hence people
-                    take their bike with them when shifting.</p>
-                  <p class="text-justify">Bike moving is easy if you are shifting within the city as you can ride it to
-                    the new home but when you are shifting to a long distance then your responsibilities with regards to
-                    your bike relocation increases. There are many things that being a bike owner you need to take care
-                    of, in order to shift it safe and secure to the new place. It is the concern of people to have their
-                    things safe at the next destination and that is why they invest on goods relocation or hire moving
-                    company for the same. To assure that the investment should not turn into disinvestment you should be
-                    cautious about the process and take necessary actions wherever required.</p>
+                  <img class="img-fluid float-right pli"
+                    src="https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/7e3af8a2-52e1-4c0a-3173-3fd1c7240600/public"
+                    alt="Warehousing and Storage Services" title="Warehousing and Storage Services">
+                  <p class="text-justify">Are you looking for a safe warehouse for household storage in India? Do you
+                    want to hire affordable household storage services at an affordable price? If yes, then your search
+                    ends here at National packers and Mover. We offer the safest and most reliable home storage services
+                    in Indian cities at an affordable price. We will offer you free price estimates from the top-rated
+                    home storage companies or packers and movers. In this way, you will have free quotes from multiple
+                    companies to compare and save money on hiring the best household storage service.</p>
+                  <p class="text-justify">Household storage service is one of the most in-demand services offered by
+                    professional packers and movers in India. People relocating from one city to another often need home
+                    storage service as per their needs and preferences. Warehousing service for household storage is one
+                    of the finest aids from the moving companies to people who need short-term or long-term storage of
+                    their household belongings. People moving to a new place can hire a storage service for their
+                    belongings when they don&rsquo;t have enough space at their new home. </p>
+                  <p class="text-justify">We at National packers and Mover are committed to providing you with the
+                    safest and most reliable household storage facility in almost all the major Indian cities at genuine
+                    rates. It is our endeavour to offer you the safest and most spacious warehouse to accommodate all
+                    types of home belongings such as general household items, appliances, furniture, luggage, boxes,
+                    etc. </p>
+                  <h3 class="font-weight-bold pt-3">Why do you need to hire a household storage service?</h3>
+                  <p class="text-justify">Suppose you found a new home in your budget. The only thing lacking in your
+                    new home is space. How you will deal with the items that are much essential for you if you
+                    don&rsquo;t have enough space to keep them all. In another situation, if your new home is not ready
+                    to move in, then how you will manage the storage of your household iteHL In these scenarios, you
+                    only have the choice of hiring household storage service. There are many professional moving
+                    companies and independent warehousing service providers in India that can cater to your needs for
+                    home storage. </p>
+                  <p class="text-justify">Hiring the professional home storage service is the best choice if you want to
+                    keep your belongings for a period. You can opt for warehousing service for household storage for a
+                    period ranging from 1 month to 2 years. No matter, whether you need home storage for 1 month or 6
+                    months, hiring the best and safest warehousing space is crucial. </p>
+                  <h3 class="font-weight-bold pt-3">National packers and Mover is the Best Choice for Warehousing
+                    Services</h3>
+                  <p class="text-justify">We at National packers and Mover offer the most reliable and safest household
+                    storage space in almost all major Indian cities at an affordable price. We are partnered with
+                    India&rsquo;s best moving companies and independent household storage companies to meet the
+                    requirements of storage facilities. That&rsquo;s not all, we can also provide you with storage
+                    service for commercial and office belongings at an affordable price. </p>
+                  <p class="text-justify">Our partner packers and movers and warehousing service providers are licensed
+                    and registered companies. We have thoroughly verified their background and market reputations. So,
+                    you don&rsquo;t need to take tension if you choose us to hire a warehousing service for household
+                    storage in India. </p>
+                  <p class="text-justify">If you hire a household storage service with us, then you will have several
+                    benefits. Some attributes of warehousing services are as follows.</p>
+                  <p class="text-justify">Safe and spacious warehouse for storage of household belongings. </p>
+                  <ul>
+                    <li>Temperature control storage units.</li>
+                    <li>Monthly pest control facilities at warehousing space. </li>
+                    <li>Daily cleaning and weekly vacuum cleaning. </li>
+                    <li>Fire-fighting equipment. </li>
+                    <li>Inventory management.</li>
+                    <li>24x7 security and CCTV surveillance.</li>
+                    <li>Proper packing and inventory of items that you want to keep in the warehouse.</li>
+                  </ul>
+                  <p class="text-justify">Warehousing service for household storage is the best choice for people who
+                    are shifting to a new city where the residence is not fixed. They can keep their belongings at the
+                    safest warehouse for a period of choice. Before hiring a household storage service, ensure to check
+                    what items are not permissible to keep in the warehouse. If you hire the best warehousing service
+                    for household storage with us, then you will find yourself tension-free. Your goods are safe. </p>
+                  <p class="text-justify">If you truly want to hire the best and most affordable household storage
+                    service in India, then count on Moving Solutions. Fill out the enquiry form on this website to get
+                    free quotes. Compare the household storage charges and get the best service at an affordable price.
+                  </p>
+                </div>
+              </div>
+              <div class="clearfix"></div>
+              <div id="price" class="content plc-5">
+                <div class="col-md-12 text-justify">
+                  <h2 class="pt-3 blue">Estimated Warehouse Charges for Household Storage in India</h2>
+                  <div class="line-bottom-left"></div>
+                  <p class="text-justify">Warehousing for household storage is one of the value-added services provided
+                    by most moving companies in India. If you want to hire this specific value-added service, then we
+                    recommend you check the charges first. Here is a price chat for household storage in India that may
+                    help you know the estimated household storage charges.</p>
+                  <h3 class="pt-3 yellow font-weight-bold">Household storage price chart</h3>
+                  <div style="overflow-x:auto;margin-bottom: 15px;">
+                    <table>
+                      <tr>
+                        <td><strong>Household Storage Type</strong></td>
+                        <td><strong>Estimated Charges</strong></td>
+                        <td><strong>Total Approx. Number of Boxes:</strong></td>
+                      </tr>
+                      <tr>
+                        <td>1 BHK</td>
+                        <td>Rs 3000 – 4000 Per Month</td>
+                        <td>20</td>
+                      </tr>
+                      <tr>
+                        <td>2 BHK</td>
+                        <td>Rs 4000 – 5000 Per Month</td>
+                        <td>30</td>
+                      </tr>
+                      <tr>
+                        <td>Box Storage (Small)</td>
+                        <td>Rs 300 – 400 per month</td>
+                        <td>—NA—</td>
+                      </tr>
+                      <tr>
+                        <td>Box Storage (Medium)</td>
+                        <td>Rs 500 – 600 per month</td>
+                        <td>—NA—</td>
+                      </tr>
+                      <tr>
+                        <td>Box Storage (Large)</td>
+                        <td>Rs 600 – 700 per month</td>
+                        <td>—NA—</td>
+                      </tr>
+                      <tr>
+                        <td>Scooter/Bike Storage</td>
+                        <td>Rs 750 – 1100 per month</td>
+                        <td>—NA—</td>
+                      </tr>
+                      <tr>
+                        <td>Sports Bike Storage</td>
+                        <td>Rs 1000 – 1500 per month</td>
+                        <td>—NA—</td>
+                      </tr>
+                      <tr>
+                        <td>Car Storage (Hatchback)</td>
+                        <td>Rs 2500 – 3200 per month</td>
+                        <td>—NA—</td>
+                      </tr>
+                      <tr>
+                        <td>Car Storage (Sedan)</td>
+                        <td>Rs 3000 – 3800 per month</td>
+                        <td>—NA—</td>
+                      </tr>
+                      <tr>
+                        <td>Car Storage (SUV)</td>
+                        <td>Rs 4000 – 5000 per month</td>
+                        <td>—NA—</td>
+                      </tr>
+                    </table>
+                  </div>
                 </div>
               </div>
               <div class="clearfix"></div>
@@ -363,60 +469,67 @@ flex: 1 1 auto;" class="form-control">
                   </div>
 
                   <div class="testimonial-item-inner">
-                    <h3>Vishal Mishra</h3>
+                    <h3>Aakansha Mishra</h3>
                     <h4>Hooda Logistics Packers and Movers Support team is wonderful and always available to assist
                       customers.</h4>
                     <p>
                       <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                      I hired bike shifting service from nationalpackersandmover last month. The service provider book
-                      through it gave us excellent service. Cost of bike shifting was also affordable. I got my bike
-                      transferred safely. Thank you Hooda Logistics Packers and Movers for your great support.
+                      Especially Sonu sir helped me finding an authentic and perfect movers Packers which is VTrack.
+                      Balwan Singh from VTrack promised me to deliver my stuff within 4 days and I am glad they did so.
+                      Please go with National packers and Mover suggestions and recommendations.
                       <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                     </p>
                   </div>
                   <div class="testimonial-item-inner">
-                    <h3>Masood</h3>
+                    <h3>Shashi V</h3>
                     <h4>Authentic and Affordable</h4>
                     <p>
                       <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                      Last week, I had to transfer my Honda Activa from Delhi to Mumbai. My colleague suggested me to
-                      use nationalpackersandmover to book the bike transport service. Booking the service through this
-                      portal was easy. I got the excellent service and got my scooter delivered in Mumbai on time. No
-                      damages and no dents I found in my scooter. Thank you nationalpackersandmover Team.
+                      My friend recommended me to contact National packers and Mover for hassle free shifting. I really
+                      don't believes in online sites but National packers and Mover proved me wrong they provided me
+                      professional and skilled packers and movers and that too at reasonable cost. I think one will not
+                      regret his decision if he chooses National packers and Mover. I would definitely recommend others
+                      to go with this company.
                       <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                     </p>
                   </div>
                   <div class="testimonial-item-inner">
-                    <h3>Karla</h3>
+                    <h3>M Sahoo</h3>
                     <h4>Good Service Provider</h4>
                     <p>
                       <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                      I hired bike shifting service from nationalpackersandmover as I had to transfer my Pulsar bike
-                      from Delhi to Chandigarh. Service was excellent. Price was affordable. I had the nice experience.
-                      Thank you nationalpackersandmover for the service you provided.
+                      Last week I had to move from India to Bangalore with my 2BHK household belongings. But moving
+                      process became my headache. I came to know about this service portal and gave them all
+                      responsibility(like packing my goods, transportation arrangements, unpacking etc). Their packing
+                      methods and materials are quite great. But for transportation some problems raised because of huge
+                      amount of goods. But in a hour they re-arranged another container and we shifted to Bangalore
+                      without any hassle. I think hiring packers and movers through National packers and Mover was a
+                      good decision.
                       <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                     </p>
                   </div>
                   <div class="testimonial-item-inner">
                     <h3>Sweta</h3>
-                    <h4>In few steps I got hassle free Bike Shifting</h4>
+                    <h4>In few steps I got hassle free Car Shifting</h4>
                     <p>
                       <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                      I hired bike transport service from this portal last month. I get the excellent service at
-                      affordable price. Everything was fine. Bike delivered at my new place on time. Thank you
-                      nationalpackersandmover.
+                      I bought a new car in India, so i need to send my old one to the parents place who resides in
+                      Mumbai. I tried lots of options but nothing worked for me. At last I visited National packers and
+                      Mover. They picked up my car on scheduled time from my doorstep &amp; delivered it on time to my
+                      parents in safe conditions. They provided me best skilled professionals who know well how to pack
+                      &amp; unpack the car.
                       <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                     </p>
                   </div>
                   <div class="testimonial-item-inner">
-                    <h3>Tiwari</h3>
-                    <h4>Hired Packers and Movers in Delhi for Bike Transportation</h4>
+                    <h3>Manmohan Tiwari</h3>
+                    <h4>Hired Packers and Movers in Hyderabad for House Shifting</h4>
                     <p>
                       <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                      Last month, I used nationalpackersandmover to book bike transport service in Delhi. I actually had
-                      to transport you my bike from Delhi to Chennai. The service I got through this portal was
-                      excellent. Price was very reasonable. On time delivery of bike with no damages or dents. Superb
-                      service. Thank you guys.
+                      I hired Packers and Movers in Hyderabad through this portal on my house move from Hyderabad to
+                      Coimbatore. Reasonable rates, good packing of household items, and on time delivery. Overall I got
+                      excellent services. I give 5-star to Packers and Movers Hyderabad, and thanks to National packers
+                      and mover for helping me hire reasonable house shifting services.
                       <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                     </p>
                   </div>
@@ -427,97 +540,9 @@ flex: 1 1 auto;" class="form-control">
               </div>
 
               <div class="clearfix"></div>
-              <div id="price" class="content pbqn ptqn plc-5">
-                <div class="col-md-12">
-                  <h2 class="pt-3 blue">What are the charges for bike transportation services in India?</h2>
-                  <div class="line-bottom-left"></div>
-                  <p class="text-justify">The charge for bike transportation services in India may range between Rs
-                    2,000 and Rs 16,000. The price will vary chiefly depending on the weight &amp; model and the
-                    distance between your current city and new city. There are numerous factors which may influence the
-                    bike transportation charges.</p>
-                  <p class="text-justify">Major cost affecting factors that may influence the cost of bike transport
-                    from one city to another are the type &amp; quality of packing materials, distance to be covered in
-                    transit, manpower involved in the process, season &amp; timing of move, transit insurance, etc.
-                    Usually professional packers and movers in India charge for bike transport depending on the number
-                    of kilometers travelled by the bike transport vehicle.</p>
-                  <p class="text-justify">However, the cost of bike transport is not fixed. Here, we are providing you
-                    the ballpark bike transport charges based on our expertise, in-depth knowledge of industry and
-                    previous shifting trends. Have a look at the below give bike transport price chart to have an idea
-                    about how much you will have to pay to movers for their bike transport charges. You can hire
-                    professional bike transport service provider through this portal at cheaper rates as well.</p>
-                  <div style="overflow-x:auto;margin-bottom: 15px;">
-                    <table>
-                      <tr>
-                        <td><strong>Engine Power/Types</strong></td>
-                        <td><strong>Up to 400 Km</strong></td>
-                        <td><strong>400 – 800 Km</strong></td>
-                        <td><strong>800 – 1300 Km</strong></td>
-                        <td><strong>1300 – 1900 Km</strong></td>
-                      </tr>
-                      <tr>
-                        <td>100cc - 150cc Bike</td>
-                        <td>Rs. 2,000 - 3,500</td>
-                        <td>Rs. 3,000-4,000</td>
-                        <td>Rs. 3,500-4,500</td>
-                        <td>Rs. 4,000-5,000</td>
-                      </tr>
-                      <tr>
-                        <td>150cc - 200cc Bike</td>
-                        <td>Rs. 2,400-3,600</td>
-                        <td>Rs. 3,400-4,100</td>
-                        <td>Rs. 3,900-4,600</td>
-                        <td>Rs. 4,400-4,900</td>
-                      </tr>
-                      <tr>
-                        <td>200cc - 250cc Bike</td>
-                        <td>Rs. 2,700-3,900</td>
-                        <td>Rs. 3,700-4,400</td>
-                        <td>Rs. 4,200-4,900</td>
-                        <td>Rs. 4,700-5,000</td>
-                      </tr>
-                      <tr>
-                        <td>250cc - 350cc Bike</td>
-                        <td>Rs. 2,800-3,800</td>
-                        <td>Rs. 3,800-4,300</td>
-                        <td>Rs. 4,300-4,800</td>
-                        <td>Rs. 4,800-5,000</td>
-                      </tr>
-                      <tr>
-                        <td>350cc - 500cc Bike</td>
-                        <td>Rs. 2,800-3,800</td>
-                        <td>Rs. 3,800-4,300</td>
-                        <td>Rs. 4,300-4,800</td>
-                        <td>Rs. 4,800-5,000</td>
-                      </tr>
-                      <tr>
-                        <td>Sports Bike</td>
-                        <td>Rs. 4,500-7,000</td>
-                        <td>Rs. 6,000-9,000</td>
-                        <td>Rs. 8,000-12,000</td>
-                        <td>Rs. 11,000-15,000</td>
-                      </tr>
-                      <tr>
-                        <td>Cruiser Sports Bike</td>
-                        <td>Rs. 5,000-8,500</td>
-                        <td>Rs. 7,000-10,500</td>
-                        <td>Rs. 9,000-13,500</td>
-                        <td>Rs. 12,000-16,500</td>
-                      </tr>
-                      <tr>
-                        <td>Off Road Sports Bike</td>
-                        <td>Rs. 6,000-9,000</td>
-                        <td>Rs. 7,500-11,500</td>
-                        <td>Rs. 10,000-14,500</td>
-                        <td>Rs. 13,000-17,500</td>
-                      </tr>
-                    </table>
-                  </div>
-                </div>
-              </div>
-              <div class="clearfix"></div>
               <div id="why" class="why section-why pbqn ptqn plc-5 float-left w-100">
                 <div class="col-md-12">
-                  <h2 class="text-white text-center pt-3">Why nationalpackersandmover?</h2>
+                  <h2 class="text-white text-center pt-3">Why National packers and Mover?</h2>
                   <div class="line-bottom"></div>
                   <div class="col-lg-3 col-6 float-left">
                     <div class="why-box">
@@ -550,150 +575,60 @@ flex: 1 1 auto;" class="form-control">
                 </div>
               </div>
               <div class="clearfix"></div>
-              <div id="content" class="content ptqn plc-5">
-                <div class="col-xl-12 col-lg-12">
-                  <h2 class="pt-3 blue">How to Transport Bike Safely to the New City</h2>
-                  <div class="line-bottom-left"></div>
-                  <p class="text-justify">Bike transportation is really going to be tough as well as complicated. Here
-                    are few of the important tips that would aid you in fixing the problems and taking your bike ride
-                    safely at your new city as well. </p>
-                  <p class="text-justify"><strong>Check Condition:</strong> The first thing that you are supposed to do
-                    in this regards is that you should check the condition of your vehicle. If you are moving locally
-                    then it would not cost you more but in case you are shifting to a longer distance where you need to
-                    spend more on your bike for transporting it there then you should check it well whether it is
-                    actually worth the investment or not.</p>
-                  <p class="text-justify"><strong>Prepare Credentials:</strong> When you are moving your vehicle you
-                    should prepare the necessary credentials for the same. Whether it is your driving license or other
-                    documents related to your vehicle that may include pollution check documents, RC, road tax, etc.
-                    everything should be collected as you may need it anytime during the move. </p>
-                  <p class="text-justify"><strong>Hire Moving Services:</strong> If it is your long distance bike moving
-                    then you should hire a reliable and experience moving company for the same. For your safe and secure
-                    bike transportation you should do proper research work on the company to land to a positive
-                    conclusion. There are many movers that provide you the facility to transport bike in the same moving
-                    truck in which your household goods are being transported. This would also be a great favor for you
-                    as you can get the delivery of your goods and bike all at the same time.</p>
-                  <p class="text-justify"><strong>Check for Damages:</strong> Once your bike gets delivered to you at
-                    your door then you should immediately check for the damages if any occurred during the move. The
-                    damages should be immediately informed to the mover and you should also claim for compensation if it
-                    is a big loss.</p>
-                  <p class="text-justify">These are few of the efficient ways choosing what you can transport your bike
-                    safely to the next destination. You should be very careful while transporting your bike through
-                    moving company as a little negligence can lead you to bad experiences.</p>
-                </div>
-              </div>
-              <div class="clearfix"></div>
               <div id="city" class="content pbqn ptqn plc-5">
                 <div class="section-title">
-                  <h2 class="pt-3">Bike Transportation Services in India</h2>
+                  <h2 class="pt-3">Warehousing Services in India</h2>
                 </div>
                 <div class="listing-box">
                   <ul>
-                    <li><a href="locations.html">Bike Transport in Hyderabad</a></li>
-                    <li><a href="locations.html">Bike Transport in Bangalore</a></li>
-                    <li><a href="locations.html">Bike Transport in Pune</a></li>
-                    <li><a href="locations.html">Bike Transport in Gurgaon</a></li>
-                    <li><a href="locations.html">Bike Transport in Mumbai</a></li>
-                    <li><a href="locations.html">Bike Transport in Delhi</a></li>
-                    <li><a href="locations.html">Bike Transport in Noida</a></li>
-                    <li><a href="locations.html">Bike Transport in Greater Noida</a>
-                    </li>
-                    <li><a href="locations.html">Bike Transport in Allahabad</a></li>
-                    <li><a href="locations.html">Bike Transport in Bhubaneswar</a>
-                    </li>
-                    <li><a href="locations.html">Bike Transport in Ranchi</a></li>
-                    <li><a href="locations.html">Bike Transport in Vadodara</a></li>
-                    <li><a href="locations.html">Bike Transport in Varanasi</a></li>
-                    <li><a href="locations.html">Bike Transport in Nagpur</a></li>
-                    <li><a href="locations.html">Bike Transport in Vijayawada</a></li>
-                    <li><a href="locations.html">Bike Transport in Nashik</a></li>
-                    <li><a href="locations.html">Bike Transport in Wardha</a></li>
-                    <li><a href="locations.html">Bike Transport in Patiala</a></li>
-                    <li><a href="locations.html">Bike Transport in Indore</a></li>
-                    <li><a href="locations.html">Bike Transport in Aligarh</a></li>
-                    <li><a href="locations.html">Bike Transport in Amritsar</a></li>
-                    <li><a href="locations.html">Bike Transport in Guntur</a></li>
-                    <li><a href="locations.html">Bike Transport in Bhuj</a></li>
-                    <li><a href="locations.html">Bike Transport in Nainital</a></li>
-                    <li><a href="locations.html">Bike Transport in Amaravati</a></li>
-                    <li><a href="locations.html">Bike Transport in Raipur</a></li>
-                    <li><a href="locations.html">Bike Transport in Rajkot</a></li>
-                    <li><a href="locations.html">Bike Transport in Bilaspur</a></li>
-                    <li><a href="locations.html">Bike Transport in Ujjain</a></li>
-                    <li><a href="locations.html">Bike Transport in Panipat</a></li>
-                    <li><a href="locations.html">Bike Transport in Sonipat</a></li>
+                    <li><a href="locations.html">Warehousing in Delhi</a></li>
+                    <li><a href="locations.html">Warehousing in Bangalore</a></li>
+                    <li><a href="locations.html">Warehousing in Gurgaon</a></li>
+                    <li><a href="locations.html">Warehousing in Noida</a></li>
+                    <li><a href="locations.html">Warehousing in Allahabad</a></li>
+                    <li><a href="locations.html">Warehousing in Vijayawada</a></li>
+                    <li><a href="locations.html">Warehousing in Varanasi</a></li>
+                    <li><a href="locations.html">Warehousing in Vadodara</a></li>
+                    <li><a href="locations.html">Warehousing in Thane</a></li>
+                    <li><a href="locations.html">Warehousing in Surat</a></li>
+                    <li><a href="locations.html">Warehousing in Rewari</a></li>
+                    <li><a href="locations.html">Warehousing in Ranchi</a></li>
+                    <li><a href="locations.html">Warehousing in Raipur</a></li>
+                    <li><a href="locations.html">Warehousing in Pimpri Chinchwad</a></li>
+                    <li><a href="locations.html">Warehousing in Trivandrum</a></li>
                   </ul>
                   <ul>
-                    <li><a href="locations.html">Bike Transport in Dehradun</a></li>
-                    <li><a href="locations.html">Bike Transport in Bhagalpur</a></li>
-                    <li><a href="locations.html">Bike Transport in Alwar</a></li>
-                    <li><a href="locations.html">Bike Transport in Meerut</a></li>
-                    <li><a href="locations.html">Bike Transport in Mathura</a></li>
-                    <li><a href="locations.html">Bike Transport in Roorkee</a></li>
-                    <li><a href="locations.html">Bike Transport in Guwahati</a></li>
-                    <li><a href="locations.html">Bike Transport in Coimbatore</a></li>
-                    <li><a href="locations.html">Bike Transport in Shillong</a></li>
-                    <li><a href="locations.html">Bike Transport in Visakhapatnam</a>
-                    </li>
-                    <li><a href="locations.html">Bike Transport in Gorakhpur</a></li>
-                    <li><a href="locations.html">Bike Transport in Jodhpur</a></li>
-                    <li><a href="locations.html">Bike Transport in Jalandhar</a></li>
-                    <li><a href="locations.html">Bike Transport in Paonta Sahib</a>
-                    </li>
-                    <li><a href="locations.html">Bike Transport in Kota</a></li>
-                    <li><a href="locations.html">Bike Transport in Thane</a></li>
-                    <li><a href="locations.html">Bike Transport in Kolkata</a></li>
-                    <li><a href="locations.html">Bike Transport in Ahmedabad</a></li>
-                    <li><a href="locations.html">Bike Transport in Chandigarh</a></li>
-                    <li><a href="locations.html">Bike Transport in Faridabad</a></li>
-                    <li><a href="locations.html">Bike Transport in Ghaziabad</a></li>
-                    <li><a href="locations.html">Bike Transport in Surat</a></li>
-                    <li><a href="locations.html">Bike Transport in Chennai</a></li>
-                    <li><a href="locations.html">Bike Transport in Kanpur</a></li>
-                    <li><a href="locations.html">Bike Transport in Patna</a></li>
-                    <li><a href="locations.html">Bike Transport in Navi Mumbai</a>
-                    </li>
-                    <li><a href="locations.html">Bike Transport in Gandhinagar</a>
-                    </li>
-                    <li><a href="locations.html">Bike Transport in Lucknow</a></li>
-                    <li><a href="locations.html">Bike Transport in Jaipur</a></li>
-                    <li><a href="locations.html">Bike Transport in Dwarka</a></li>
-                    <li><a href="locations.html">Bike Transport in Trivandrum</a></li>
+                    <li><a href="locations.html">Warehousing in Patna</a></li>
+                    <li><a href="locations.html">Warehousing in Panchkula</a></li>
+                    <li><a href="locations.html">Warehousing in Navi Mumbai</a></li>
+                    <li><a href="locations.html">Warehousing in Nashik</a></li>
+                    <li><a href="locations.html">Warehousing in Mohali</a></li>
+                    <li><a href="locations.html">Warehousing in Manesar</a></li>
+                    <li><a href="locations.html">Warehousing in Ludhiana</a></li>
+                    <li><a href="locations.html">Warehousing in Mumbai</a></li>
+                    <li><a href="locations.html">Warehousing in Pune</a></li>
+                    <li><a href="locations.html">Warehousing in Hyderabad</a></li>
+                    <li><a href="locations.html">Warehousing in Kolkata</a></li>
+                    <li><a href="locations.html">Warehousing in Kanpur</a></li>
+                    <li><a href="locations.html">Warehousing in Jaipur</a></li>
+                    <li><a href="locations.html">Warehousing in Indore</a></li>
+                    <li style="visibility:hidden">&nbsp;</li>
                   </ul>
                   <ul>
-                    <li><a href="locations.html">Bike Transport in Dhule</a></li>
-                    <li><a href="locations.html">Bike Transport in Panchkula</a></li>
-                    <li><a href="locations.html">Bike Transport in Shimla</a></li>
-                    <li><a href="locations.html">Bike Transport in Haldwani</a></li>
-                    <li><a href="locations.html">Bike Transport in Ludhiana</a></li>
-                    <li><a href="locations.html">Bike Transport in Jamnagar</a></li>
-                    <li><a href="locations.html">Bike Transport in Zirakpur</a></li>
-                    <li><a href="locations.html">Bike Transport in Jammu</a></li>
-                    <li><a href="locations.html">Bike Transport in Rupnagar</a></li>
-                    <li><a href="locations.html">Bike Transport in Hisar</a></li>
-                    <li><a href="locations.html">Bike Transport in Bhiwani</a></li>
-                    <li><a href="locations.html">Bike Transport in Bhiwadi</a></li>
-                    <li><a href="locations.html">Bike Transport in Manesar</a></li>
-                    <li><a href="locations.html">Bike Transport in Baddi</a></li>
-                    <li><a href="locations.html">Bike Transport in Muzaffarpur</a>
-                    </li>
-                    <li><a href="locations.html">Bike Transport in Dwarka Delhi</a>
-                    </li>
-                    <li><a href="locations.html">Bike Transport in Bokaro</a></li>
-                    <li><a href="locations.html">Bike Transport in Bhopal</a></li>
-                    <li><a href="locations.html">Bike Transport in Haridwar</a></li>
-                    <li><a href="locations.html">Bike Transport in Ambala</a></li>
-                    <li><a href="locations.html">Bike Transport in Jamshedpur</a></li>
-                    <li><a href="locations.html">Bike Transport in
-                        Tiruchirappalli</a></li>
-                    <li><a href="locations.html">Bike Transport in Madurai</a></li>
-                    <li><a href="locations.html">Bike Transport in Angul</a></li>
-                    <li><a href="locations.html">Bike Transport in Itanagar</a></li>
-                    <li><a href="locations.html">Bike Transport in Noida
-                        Extension</a></li>
-                    <li><a href="locations.html">Bike Transport in Katihar</a></li>
-                    <li><a href="locations.html">Bike Transport in Darbhanga</a></li>
-                    <li><a href="locations.html">Bike Transport in Panvel</a></li>
-                    <li><a href="locations.html">Bike Transport in Udaipur</a></li>
+                    <li><a href="locations.html">Warehousing in Hisar</a></li>
+                    <li><a href="locations.html">Warehousing in Greater Noida</a></li>
+                    <li><a href="locations.html">Warehousing in Gorakhpur</a></li>
+                    <li><a href="locations.html">Warehousing in Ghaziabad</a></li>
+                    <li><a href="locations.html">Warehousing in Faridabad</a></li>
+                    <li><a href="locations.html">Warehousing in Coimbatore</a></li>
+                    <li><a href="locations.html">Warehousing in Chennai</a></li>
+                    <li><a href="locations.html">Warehousing in Chandigarh</a></li>
+                    <li><a href="locations.html">Warehousing in Bilaspur</a></li>
+                    <li><a href="locations.html">Warehousing in Bhubaneswar</a></li>
+                    <li><a href="locations.html">Warehousing in Bhiwadi</a></li>
+                    <li><a href="locations.html">Warehousing in Amritsar</a></li>
+                    <li><a href="locations.html">Warehousing in Ahmedabad</a></li>
+                    <li><a href="locations.html">Warehousing in Nagpur</a></li>
                     <li style="visibility:hidden">&nbsp;</li>
                   </ul>
                 </div>
@@ -710,51 +645,79 @@ flex: 1 1 auto;" class="form-control">
                     <ul>
                       <li data-aos="fade-up" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" class="collapse"
-                          href="#faq-list-1" itemprop="name"><strong>How much does it cost to transport a bike India
-                            cities or states?</strong> <i class="bx bx-chevron-down icon-show"></i><i
+                          href="#faq-list-1" itemprop="name"><strong>What is household goods storage service? Is it
+                            safe?</strong> <i class="bx bx-chevron-down icon-show"></i><i
                             class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-1" class="collapse show" data-parent=".faq-list" itemscope
                           itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <div itemprop="text">
-                            <p>The average cost of hiring bike transportation service in India will cost between Rs
-                              5,000 and Rs 10,000. But the actual price may vary depending upon various factors such as
-                              your current locality, destination city, bike model, transit distance, climate condition,
-                              etc.</p>
+                            <p>Logistic and transport companies offer household goods storage services for the people
+                              who want a space for storing their goods for a short or long-term period. Whether you are
+                              relocating abroad temporarily or have no stable place to keep your belongings with you,
+                              then you can avail of warehousing and goods storage service. Warehousing units are safe
+                              and insured, but it is always good to ensure it from your end.</p>
                           </div>
                         </div>
                       </li>
                       <li data-aos="fade-up" data-aos-delay="100" itemscope itemprop="mainEntity"
                         itemtype="https://schema.org/Question">
                         <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-2"
-                          class="collapsed" itemprop="name"><strong>How can I transport my motorcycle India
-                            cities?</strong> <i class="bx bx-chevron-down icon-show"></i><i
+                          class="collapsed" itemprop="name"><strong>How are warehouse and goods storage service rates
+                            determined?</strong> <i class="bx bx-chevron-down icon-show"></i><i
                             class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-2" class="collapse" data-parent=".faq-list" itemscope
                           itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <div itemprop="text">
-                            <p>It would be always the best decision to hire professional bike transport service in India
-                              if you want to safely transport your bike or scooter to another Indian city. There are
-                              several packers and movers and bike transport companies in the city of Bangalore to choose
-                              from. A good company will take care of specific needs and safely transport your
-                              bike/scooter to your destination city.</p>
+                            <p>Warehouse rates are mainly determined by the time duration of the goods stored in the
+                              warehouse. Apart from this, any specific handling and shipping requirement is needed for a
+                              particular item, affect the warehousing cost. Through National packers and Mover, you will
+                              get quotations to know the rates and charges of warehousing and goods storage service.</p>
                           </div>
                         </div>
                       </li>
                       <li data-aos="fade-up" data-aos-delay="100" itemscope itemprop="mainEntity"
                         itemtype="https://schema.org/Question">
                         <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-3"
-                          class="collapsed" itemprop="name"><strong>What is the process of hiring bike transport service
-                            in India through nationalpackersandmover?</strong> <i
-                            class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                          class="collapsed" itemprop="name"><strong>What type of industry do you specialize in?</strong>
+                          <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-3" class="collapse" data-parent=".faq-list" itemscope
                           itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <div itemprop="text">
-                            <p>The process of hiring bike transportation is India through nationalpackersandmover is the
-                              same as hiring other services such as house shifting service, car transport service and
-                              office shifting service. You need to tell us your actual requirements. Based on your
-                              requirements we will provide you references or quotes of top 3 packers and movers or bike
-                              transport companies in India. Then you will need to compare the rates and pick the best
-                              match.</p>
+                            <p>The professional logistic companies associated with us have flexible warehouse and
+                              storage services for every type of industry. They don’t limit themselves and provide both
+                              commercial and residential goods storage services.</p>
+                          </div>
+                        </div>
+                      </li>
+                      <li data-aos="fade-up" data-aos-delay="100" itemscope itemprop="mainEntity"
+                        itemtype="https://schema.org/Question">
+                        <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-4"
+                          class="collapsed" itemprop="name"><strong>Do you offer short-term or long-term storage
+                            services?</strong> <i class="bx bx-chevron-down icon-show"></i><i
+                            class="bx bx-chevron-up icon-close"></i></a>
+                        <div id="faq-list-4" class="collapse" data-parent=".faq-list" itemscope
+                          itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <div itemprop="text">
+                            <p>You will get both short-term and long-term storage services. The goods or products that
+                              are stored in our warehouse for less than 1 month will be considered as short-term
+                              storage. And, the goods that are stored in our warehouse for more than 1 month and beyond
+                              will be considered as long-term storage service.</p>
+                          </div>
+                        </div>
+                      </li>
+                      <li data-aos="fade-up" data-aos-delay="100" itemscope itemprop="mainEntity"
+                        itemtype="https://schema.org/Question">
+                        <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-5"
+                          class="collapsed" itemprop="name"><strong>Is it important to pack the goods before sending
+                            them to the warehouse?</strong> <i class="bx bx-chevron-down icon-show"></i><i
+                            class="bx bx-chevron-up icon-close"></i></a>
+                        <div id="faq-list-5" class="collapse" data-parent=".faq-list" itemscope
+                          itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <div itemprop="text">
+                            <p>Yes, packing the goods is important before sending them to the warehouse. And it is also
+                              good to get it done by a professional moving company. They offer a packing service as
+                              well. Professional packers can do good packing using high-quality packaging materials,
+                              waterproof and weatherproof packing.</p>
                           </div>
                         </div>
                       </li>
@@ -771,67 +734,66 @@ flex: 1 1 auto;" class="form-control">
                   <div class="col-lg-4 col-md-4 float-left">
                     <div class="blog-item-inner">
                       <a href="#"><img
+                          src="https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/96f97fd5-ddf6-4d2a-6073-6c40fd7eee00/public"
+                          alt="How to Start Your Own Packers and Movers Business in India?"
+                          title="How to Start Your Own Packers and Movers Business in India?" class="img-fluid">
+                        <h4>How to Start Your Own Packers and Movers Business in India?</h4>
+                      </a>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-4 col-md-4 float-left">
+                    <div class="blog-item-inner">
+                      <a href="#"><img
+                          src="https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/f2363325-7c24-4569-3597-6d4d7994a500/public"
+                          alt="What are GST Rates for Movers and Packers in India?"
+                          title="What are GST Rates for Movers and Packers in India?" class="img-fluid">
+                        <h4>What are GST Rates for Movers and Packers in India?</h4>
+                      </a>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-4 col-md-4 float-left">
+                    <div class="blog-item-inner">
+                      <a href="#"><img
+                          src="https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/93fdd189-466c-4609-5380-6907fb445a00/public"
+                          alt="The Types and Costs of Moving Insurance by Packers and Movers in India"
+                          title="The Types and Costs of Moving Insurance by Packers and Movers in India"
+                          class="img-fluid">
+                        <h4>The Types and Costs of Moving Insurance by Packers and Movers in India</h4>
+                      </a>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-4 col-md-4 float-left">
+                    <div class="blog-item-inner">
+                      <a href="#"><img
+                          src="https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/810d81ba-606e-490b-9996-253e249ccd00/public"
+                          alt="IBA Approved Packers and Movers List 2022"
+                          title="IBA Approved Packers and Movers List 2022" class="img-fluid">
+                        <h4>IBA Approved Packers and Movers List 2022</h4>
+                      </a>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-4 col-md-4 float-left">
+                    <div class="blog-item-inner">
+                      <a href="#"><img
+                          src="https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/209eac2c-8fd3-4ffc-a3d0-66f289294400/public"
+                          alt="Cost Calculator to Estimate Packers and Movers Charges in India"
+                          title="Cost Calculator to Estimate Packers and Movers Charges in India" class="img-fluid">
+                        <h4>Cost Calculator to Estimate Packers and Movers Charges in India</h4>
+                      </a>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-4 col-md-4 float-left">
+                    <div class="blog-item-inner">
+                      <a href="#"><img
                           src="https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/ba112074-5fcb-4251-3693-6151cda16600/public"
                           alt="Bike Transportation by Train – Charges and Procedure"
                           title="Bike Transportation by Train – Charges and Procedure" class="img-fluid">
                         <h4>Bike Transportation by Train – Charges and Procedure</h4>
-                      </a>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-4 col-md-4 float-left">
-                    <div class="blog-item-inner">
-                      <a href="#"><img
-                          src="https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/5455b2f7-0e89-4c4d-1b3d-3da267a75200/public"
-                          alt="6 Important Tips for Packing and Moving Car Safely"
-                          title="6 Important Tips for Packing and Moving Car Safely" class="img-fluid">
-                        <h4>6 Important Tips for Packing and Moving Car Safely</h4>
-                      </a>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-4 col-md-4 float-left">
-                    <div class="blog-item-inner">
-                      <a href="#"><img
-                          src="https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/6156f60a-b6d4-4ebe-72bd-223237ad0200/public"
-                          alt="How to Have the Safe Vehicle Relocation to a Long Distance"
-                          title="How to Have the Safe Vehicle Relocation to a Long Distance" class="img-fluid">
-                        <h4>How to Have the Safe Vehicle Relocation to a Long Distance</h4>
-                      </a>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-4 col-md-4 float-left">
-                    <div class="blog-item-inner">
-                      <a href="#"><img
-                          src="https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/817f39de-dc6e-4719-919c-d1d666f48500/public"
-                          alt="How to Move Your Car to a New City" title="How to Move Your Car to a New City"
-                          class="img-fluid">
-                        <h4>How to Move Your Car to a New City</h4>
-                      </a>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-4 col-md-4 float-left">
-                    <div class="blog-item-inner">
-                      <a href="#"><img
-                          src="https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/2d5f3e2b-9eb8-4344-0e0d-806a68d1ce00/public"
-                          alt="15 Things to Consider When Hiring Car Transportation Service in India"
-                          title="15 Things to Consider When Hiring Car Transportation Service in India"
-                          class="img-fluid">
-                        <h4>15 Things to Consider When Hiring Car Transportation Service in India</h4>
-                      </a>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-4 col-md-4 float-left">
-                    <div class="blog-item-inner">
-                      <a href="#"><img
-                          src="https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/f89e9a33-81ae-460a-559b-a40602e74b00/public"
-                          alt="nationalpackersandmover Introduces Car Transport Cost Calculator India (CTCCI)"
-                          title="nationalpackersandmover Introduces Car Transport Cost Calculator India (CTCCI)"
-                          class="img-fluid">
-                        <h4>nationalpackersandmover Introduces Car Transport Cost Calculator India (CTCCI)</h4>
                       </a>
                     </div>
                   </div>
@@ -884,16 +846,16 @@ flex: 1 1 auto;" class="form-control">
                               aria-hidden="true"></i>+919043798129</a></h2>
                       </div>
                       <div class="col-lg-6 float-left mt-3 wfify">
-                        <p><strong>nationalpackersandmover Apps For</strong></p>
+                        <p><strong>National packers and Mover Apps For</strong></p>
                         <div class="col-lg-6 col-sm-6 float-left ml-0">
                           <p>Customer<br><a href="#" target="_blank" rel="noopener"><img class="moapp-btn lazy"
-                                alt="nationalpackersandmover Partner App"
+                                alt="National packers and Mover Partner App"
                                 src="https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/02b0efa6-96a2-4bea-f7b8-bcdf81b7a000/public"
                                 style="display: inline; width:100%"></a></p>
                         </div>
                         <div class="col-lg-6 col-sm-6 float-left pl-0">
                           <p>Partner<br><a href="#" target="_blank" rel="noopener"><img class="moapp-btn lazy"
-                                alt="nationalpackersandmover Partner App"
+                                alt="National packers and Mover Partner App"
                                 src="https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/02b0efa6-96a2-4bea-f7b8-bcdf81b7a000/public"
                                 style="display: inline; width:87%"></a></p>
                         </div>
@@ -909,7 +871,7 @@ flex: 1 1 auto;" class="form-control">
               <div class="position-sticky headerleft">
                 <h3><span class="sub-title">Get <span class="yellow"><strong>FREE QUOTES</strong></span> in a
                     minute</span></h3>
-                <form id="regForm2" name="regForm2" method="post" action="thank.php">
+                <form id="regForm2" name="regForm2" method="post" action="thankwarehouse.php">
                   <div class="form-group row">
                     <div class="col-md-12 mt-1">
                       <input type="text" class="form-control" name="name" placeholder="Enter Your Name :" required>
@@ -918,37 +880,78 @@ flex: 1 1 auto;" class="form-control">
                       <input type="email" class="form-control" name="email" placeholder="Enter Your Email :" required>
                     </div>
                     <div class="col-md-12 mt-1">
-                      <input type="text" class="form-control" name="from" placeholder="Moving From :" required
-                        id="autocomplete3">
-                    </div>
-                    <div class="col-md-12 mt-1">
-                      <input type="text" class="form-control" name="to" placeholder="Moving To :" required
-                        id="autocomplete4">
-                    </div>
-                    <div class="col-md-12 mt-1">
                       <input type="text" class="form-control" name="phone" placeholder="Enter 10 Digit Mobile No. :"
-                        required pattern="(.){10,10}" title="Please Enter 10 Digit Mobile Number" autocomplete="off"
+                        required pattern="(.){10,10}" title="Enter 10 Digit Mobile Number" autocomplete="off"
                         onKeyUp="var num=this.value; if(isNaN(num)) this.value=num.substring(0, num.length - 1);"
                         maxlength="10">
+                    </div>
+                    <div class="col-md-12 mt-1">
+                      <input list="browsers1" name="city" class="form-control" placeholder="City :" required>
+                      <datalist id="browsers1">
+                        <option value="Delhi">
+                        <option value="Mumbai">
+                        <option value="Kolkata">
+                        <option value="Chennai">
+                        <option value="Bangalore">
+                        <option value="Pune">
+                        <option value="Hyderabad">
+                        <option value="Gurgaon">
+                        <option value="Ahmedabad">
+                        <option value="Faridabad">
+                        <option value="Ghaziabad">
+                        <option value="Bhubaneswar">
+                        <option value="Chandigarh">
+                        <option value="Vadodara">
+                        <option value="Hisar">
+                        <option value="Ranchi">
+                        <option value="Patna">
+                        <option value="Nagpur">
+                        <option value="Nashik">
+                        <option value="Vijayawada">
+                        <option value="Raipur">
+                        <option value="Jaipur">
+                        <option value="Manesar">
+                        <option value="Greater Noida">
+                        <option value="Navi Mumbai">
+                        <option value="Thane">
+                        <option value="Surat">
+                        <option value="Kanpur">
+                        <option value="Allahabad">
+                        <option value="Varanasi">
+                        <option value="Gorakhpur">
+                        <option value="Indore">
+                        <option value="Mohali">
+                        <option value="Panchkula">
+                        <option value="Ludhiana">
+                        <option value="Amritsar">
+                        <option value="Hisar">
+                        <option value="Coimbatore">
+                        <option value="Bilaspur">
+                        <option value="Pimpri-Chinchwad">
+                        <option value="Rewari">
+                        <option value="Bhiwadi">
+                      </datalist>
+                    </div>
+                    <div class="col-md-12 mt-1">
+                      <select name="duration" required style="-ms-flex: 1 1 auto;
+flex: 1 1 auto;" class="form-control">
+                        <option value="" selected>Select Duration</option>
+                        <option value="1 Month">For 1 Month</option>
+                        <option value="2 Month">For 2 Month</option>
+                        <option value="3 Month">For 3 Month</option>
+                        <option value="6 Month">For 6 Month</option>
+                        <option value="1 Year">For 1 Year</option>
+                        <option value="More then 1 Yeare">More then 1 Year</option>
+                        <option value="Others">Others</option>
+                      </select>
                     </div>
                     <div class="col-md-12 mt-1">
                       <input type="text" name="rdate" class="form-control" id="datepicker2" placeholder="Moving Date :"
                         required autocomplete="off" inputmode="none">
                     </div>
                     <div class="col-md-12 mt-1">
-                      <select name="requirement" required style="-ms-flex: 1 1 auto;
-flex: 1 1 auto;" class="form-control">
-                        <option value="" selected>Select Types of Bike</option>
-                        <option value="Scooty">Scooty</option>
-                        <option value="Bike">Bike</option>
-                        <option value="Moped">Moped</option>
-                        <option value="Scooter">Scooter</option>
-                        <option value="Three Wheeler Scooty">Three Wheeler Scooty</option>
-                        <option value="Car + Bike">Car + Bike</option>
-                        <option value="Household + Car + Bike">Household + Car + Bike</option>
-                        <option value="Bike + Others">Bike + Others</option>
-                        <option value="Others">Others</option>
-                      </select>
+                      <textarea name="requirement" placeholder="Warehousing Details :" rows="3" cols="3" required
+                        class="form-control"></textarea>
                     </div>
 
                     <div class="col-md-12 mt-1">
@@ -956,8 +959,8 @@ flex: 1 1 auto;" class="form-control">
                         value="SUBMIT &rarr;">
                     </div>
                   </div>
-                  <div style="margin:auto; text-align:center;"><i class="icofont-checked"></i> I Accept <a
-                      href="terms-and-conditions.html" target="_blank"><span class="red">Terms &amp;
+                  <div style="margin:auto; text-align:center;"><i class="icofont-checked"></i> I Accept <a href="#"
+                      target="_blank"><span class="red">Terms &amp;
                         Conditions</span></a> of HL</div>
                 </form>
               </div>
@@ -966,6 +969,7 @@ flex: 1 1 auto;" class="form-control">
         </div>
       </section>
     </main>
+
 
     <footer id="footer" class="mt-5">
 
@@ -976,25 +980,11 @@ flex: 1 1 auto;" class="form-control">
             <div class="col-lg-3 col-md-6 footer-contact">
               <img src="sitepackage/img/banner//logo.png" alt="" width="100%">
 
-              <p>Shop no 2, Anthony's school suchitra, sri Durga estates Hyderabad, Telangana 500055</p>
-              <p>Plot no 30A ghandi Rd , kavankrai, puzhal, channai tamilnadu 600066
-              </p>
-              <p>Sai deep apartment balkum naka near fire bridge St thane west mumbai 400608
-              </p>
-              <p>
-                Plot no 17A Jai Mangal murti housing society Sai nagar wadi nagpur - 440023
-              </p>
-              <p>No. 02.k no . 41/6 vittasandra Begur banglore 560100
-              </p>
-              <p>Sector 5 lakshman chowk old railway road gurugram</p>
-              <p>Shop No. 06, Gate No . 65, Near Marere
-                House , Borhadewad Moshi , Pune - 41210</p>
+              <p>Address: Pocket-H, First Floor, 48, 2, Sector Alpha Rd, Greater Noida, Uttar Pradesh 201307</p>
 
-              <strong>Email:</strong> <a href="mailto:">nationalpackersandmoversinfo@gmail.com</a><br>
-              <strong>Mobile:</strong> <a href="tel:+919043798129">+91 9043798129</a>, <a
-                href="tel:+919043798129">9043798129</a><br>
-              <strong> Gst In :</strong> 33IAQPK3437R1ZU
-              </p>
+              <strong>Email:</strong> <a href="mailto:">Oncallpackers@gmail.com</a><br>
+              <strong>Mobile:</strong> <a href="tel:+918448574563">+91 98448574563</a>
+              </p>  
 
 
             </div>
@@ -1007,11 +997,10 @@ flex: 1 1 auto;" class="form-control">
                 <li><i class="bx bx-chevron-right"></i> <a href="car-transportation.html">Car Transportation</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="bike-transportation.html">Bike Transportation</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="warehousing-services.html">Warehousing</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="pet.html">Pet Relocation</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="truck-on-rent-for-shifting.html">Truck/Tempo on
-                    Rent</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="luggage-transport-services-in-india.html">Luggage
-                    Transport</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="local-shifting.html">Local Shifting</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="commercial-shifting.html">Commercial Shifting</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="corporate-moving.html">Corporate Moving</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="international-moving.html">International Moving</a></li>
 
                 <!-- <li><i class="bx bx-chevron-right"></i> <a href="#">Pest Control</a></li> -->
 
@@ -1051,15 +1040,13 @@ flex: 1 1 auto;" class="form-control">
               <h4 class="text-left">Help Us Spread the Word</h4>
               <p class="text-left">Like, Follow, Tweet or Share. We Just Love Interacting With You.</p>
               <div class="social-links text-left">
-                <a href="https://x.com/?lang=en" class="twitter"><i class="bx bxl-twitter"></i><span>Twitter</span></a>
-                <a href="https://www.facebook.com/" class="facebook"><i
+                <a href="https://www.youtube.com/@OnCallPackers" class="twitter"><i class="bx bxl-twitter"></i><span>Twitter</span></a>
+                <a href="https://www.facebook.com/profile.php?id=100091494346789" class="facebook"><i
                     class="bx bxl-facebook"></i><span>Facebook</span></a>
                 <a href="https://www.instagram.com/" class="instagram"><i
                     class="bx bxl-instagram"></i><span>instagram</span></a>
-                <a href="https://www.youtube.com/" class="google-plus"><i
+                <a href="https://www.youtube.com/@OnCallPackers" class="google-plus"><i
                     class="bx bxl-youtube"></i><span>Youtube</span></a>
-                <a href="https://www.linkedin.com/" class="linkedin"><i
-                    class="bx bxl-linkedin"></i><span>Linkedin</span></a>
               </div>
 
             </div>
@@ -1071,47 +1058,28 @@ flex: 1 1 auto;" class="form-control">
         <div class="container">
           <div class="row">
             <div class="col-lg-3 col-md-6 footer-contact">
-              <h3>National packers and Mover</h3>
+              <h3>On Call Packers and Mover</h3>
 
 
-              <p>Shop no 2, Anthony's school suchitra, sri Durga estates Hyderabad, Telangana 500055</p>
-              <p>Plot no 30A ghandi Rd , kavankrai, puzhal, channai tamilnadu 600066
-              </p>
-              <p>Sai deep apartment balkum naka near fire bridge St thane west mumbai 400608
-              </p>
-              <p>
-                Plot no 17A Jai Mangal murti housing society Sai nagar wadi nagpur - 440023
-              </p>
-              <p>No. 02.k no . 41/6 vittasandra Begur banglore 560100
-              </p>
-              <p>Sector 5 lakshman chowk old railway road gurugram</p>
-              <p>Shop No. 06, Gate No . 65, Near Marere
-                House , Borhadewad Moshi , Pune - 41210</p>
+              <p>Address: Pocket-H, First Floor, 48, 2, Sector Alpha Rd, Greater Noida, Uttar Pradesh 201307</p>
               <strong>Email:</strong> <a
-                href="mailto:nationalpackersandmoversinfo@gmail.com">nationalpackersandmoversinfo@gmail.com</a><br>
-              <strong>Mobile:</strong> <a href="tel:+919043798129">+91-9043798129</a>, <a
-                href="tel:+919043798129">9043798129</a><br>
-              <strong> Gst In :</strong> 33IAQPK3437R1ZU
-
-
+                href="mailto:Oncallpackers@gmail.com">Oncallpackers@gmail.com</a><br>
+              <strong>Mobile:</strong> <a href="tel:+9198448574563">+91-98448574563</a>
               <br>
               </p>
-
 
             </div>
             <div class="col-lg-3 col-md-6 text-center">
               <h4 class="text-left">Help Us Spread the Word</h4>
               <p class="text-left">Like, Follow, Tweet or Share. We Just Love Interacting With You.</p>
               <div class="social-links text-left">
-                <a href="https://x.com/?lang=en" class="twitter"><i class="bx bxl-twitter"></i><span>Twitter</span></a>
-                <a href="https://www.facebook.com/" class="facebook"><i
+                <a href="https://www.youtube.com/@OnCallPackers" class="twitter"><i class="bx bxl-twitter"></i><span>Twitter</span></a>
+                <a href="https://www.facebook.com/profile.php?id=100091494346789" class="facebook"><i
                     class="bx bxl-facebook"></i><span>Facebook</span></a>
                 <a href="https://www.instagram.com/" class="instagram"><i
                     class="bx bxl-instagram"></i><span>instagram</span></a>
-                <a href="https://www.youtube.com/" class="google-plus"><i
+                <a href="https://www.youtube.com/@OnCallPackers" class="google-plus"><i
                     class="bx bxl-youtube"></i><span>Youtube</span></a>
-                <a href="https://www.linkedin.com/" class="linkedin"><i
-                    class="bx bxl-linkedin"></i><span>Linkedin</span></a>
               </div>
 
             </div>
@@ -1125,18 +1093,14 @@ flex: 1 1 auto;" class="form-control">
                   <div id="content-list-7" class="collapse" data-parent=".content-list">
                     <div class="footer-links">
                       <ul>
-                        <li><i class="bx bx-chevron-right"></i> <a href="residential-relocation.html">Relocation
-                            Services</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="car-transportation.html">Car Transportation</a>
-                        </li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="bike-transportation.html">Bike
-                            Transportation</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="residential-relocation.html">Relocation Services</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="car-transportation.html">Car Transportation</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="bike-transportation.html">Bike Transportation</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="warehousing-services.html">Warehousing</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="pet.html">Pet Relocation</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="truck-on-rent-for-shifting.html">Truck/Tempo on
-                            Rent</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a
-                            href="luggage-transport-services-in-india.html">Luggage Transport</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="local-shifting.html">Local Shifting</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="commercial-shifting.html">Commercial Shifting</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="corporate-moving.html">Corporate Moving</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="international-moving.html">International Moving</a></li>
                         <!-- <li><i class="bx bx-chevron-right"></i> <a href="pe">Pest Control</a></li> -->
 
 
@@ -1199,38 +1163,20 @@ flex: 1 1 auto;" class="form-control">
 
         <div class="mr-md-auto text-center text-md-left">
           <div class="copyright">
-            &copy; All rights reserved 2022 <a href="index.html">National packers and Mover</a>
+            &copy; All rights reserved 2025 <a href="rnpitsolution.com">RNP IT SOLUTION</a>
           </div>
-          <!-- <div class="credits">
-          <p class="text-justify"> <strong>Disclaimer:</strong> We only provide references for professional packers and  movers in India. Before finalizing any packers and movers or any related  vendor, you are advised to verify their credentials on your own. Get everything  (quotations) in writing. Don&rsquo;t forget to get the final bill receipt before  allowing the movers to handle your move. We won&rsquo;t be responsible for any kind  of loss, damage, or mishap.<br><br></p>
-
-        </div> -->
         </div>
       </div>
     </footer>
+
+
+
     <div class="fixedbar">
       <div class="boxfloat">
         <ul id="tips">
-          <li class="pl-0 float-right"><span id="whatsapp"><a href="https://wa.me/919043798129?text=Hi"></a></span></li>
+          <li class="pl-0 float-right"><span id="whatsapp"><a href="https://wa.me/918448574563?text=Hi"></a></span></li>
           <li><a href="contact-us.html" class="btn btn-info quotes">Get Quotes</a></li>
-          <li><select id="mySelect1" onchange="myFunction(this.value)" name="city-search"
-              class="form-control mobile-search-city">
-              <option value="#" selected disabled>Change City...</option>
-              <option value='agra'>Agra</option>
-
-
-              <option value='pilkhuwa'>Pilkhuwa</option>
-
-              <option value='sonbhadra'>Sonbhadra</option>
-              <option value='sonipat'>Sonipat</option>
-              <option value='surat'>Surat</option>
-              <option value='thane'>Thane</option>
-              <option value='udaipur'>Udaipur</option>
-              <option value='vadodara'>Vadodara</option>
-              <option value='varanasi'>Varanasi</option>
-              <option value='zirakpur'>Zirakpur</option>
-            </select>
-          </li>
+          
         </ul>
 
       </div>
@@ -1289,7 +1235,6 @@ flex: 1 1 auto;" class="form-control">
     </div>
 
 
-
     <script src="sitepackage/js/jquery.min.js"></script>
     <script src="sitepackage/js/bootstrap.bundle.min.js"></script>
     <script src="sitepackage/js/jquery.easing.min.js"></script>
@@ -1300,13 +1245,28 @@ flex: 1 1 auto;" class="form-control">
     <script src="sitepackage/js/bootstrap-datepicker.min.js"></script>
     <script src="sitepackage/js/main.js"></script>
     <script>
+      function myRead() {
+        var moreText = document.getElementById("more");
+        var btnText = document.getElementById("myBtn");
+
+        if (more.style.display === "none") {
+          btnText.innerHTML = "Read more";
+          moreText.style.display = "none";
+        } else {
+          more.style.display = "none";
+          btnText.innerHTML = "Read less";
+          moreText.style.display = "inline";
+        }
+      }
+    </script>
+    <script>
       function myFunction(x) {
         if (x == 'mumbai') {
-          window.location = "https://www.nationalpackersandmover/packers-and-movers-" + x + ".html";
+          window.location = "#" + x + ".html";
         } else if (x == 'bangalore') {
-          window.location = "https://www.nationalpackersandmover/packers-and-movers-" + x + ".html";
+          window.location = "#" + x + ".html";
         } else {
-          window.location = "https://www.nationalpackersandmover/packers-and-movers-in-" + x + ".html";
+          window.location = "#" + x + ".html";
         }
       }
     </script>
@@ -1328,21 +1288,15 @@ flex: 1 1 auto;" class="form-control">
         });
       });
     </script>
-    <script>
-      $(function () {
-        $("#datepicker2").datepicker({
-          startDate: new Date(),
-          endDate: '+45d',
-          autoclose: true
-        });
-      });
-    </script>
+
+
+
     <script type="application/ld+json">
  { "@context": "https://schema.org",
  "@type": "Organization",
- "name": "nationalpackersandmover",
- "url": "https://www.nationalpackersandmover",
- "logo": "https://www.nationalpackersandmover/https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/ca0878f5-1bbc-4f38-371a-37783c4de600/logo",
+ "name": "National packers and Mover",
+ "url": "https://www.nationalpackersandmover & Moves",
+ "logo": "https://www.nationalpackersandmover & Moves/https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/ca0878f5-1bbc-4f38-371a-37783c4de600/logo",
  "foundingDate": "2014",
  "founders": [
  {
@@ -1360,19 +1314,40 @@ flex: 1 1 auto;" class="form-control">
  "@type": "ContactPoint",
  "contactType": "customer support",
  "telephone": "[+91-9911-91-5845]",
- "email": "enquiry@nationalpackersandmover"
+ "email": "enquiry@nationalpackersandmover & Moves"
  },
  "sameAs": [ 
  "https://www.facebook.com/movingsolutionss/",
  "https://twitter.com/movingsolution6/",
- "https://www.instagram.com/nationalpackersandmover/",
+ "https://www.instagram.com/nationalpackersandmover & Moves/",
  "https://www.youtube.com/movingsolutions/",
  "https://www.linkedin.com/company/movingsolutions"
  ]}
 </script>
+    <script>
+      $('.owl-carousel').owlCarousel({
+        loop: true,
+        margin: 10,
+        dots: false,
+        nav: true,
+        autoplay: true,
+        smartSpeed: 3000,
+        autoplayTimeout: 7000,
+        responsive: {
+          0: {
+            items: 1
+          },
+          600: {
+            items: 2
+          },
+          1000: {
+            items: 3
+          }
+        }
+      })
+    </script>
 
   </body>
-
 
 
 </html>

@@ -35,7 +35,7 @@
     <style>
       #imgoverlay-inner {
         height: auto;
-        background: url("https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/281a23ae-fbad-4c70-c9f9-13c860681a00/public") top left;
+        background: url("https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/0eae959e-f4e5-44bd-4308-d80c96848600/public") top left;
         background-size: auto;
         background-size: cover;
         position: relative;
@@ -112,9 +112,9 @@
 
         <nav class="nav-menu d-none d-lg-block">
           <ul>
-            <li class="active"><a href="index.html">Home</a></li>
+            <li><a href="index.html">Home</a></li>
             <li><a href="about-us.html">About Us</a> </li>
-            <li class="drop-down"><a href="#">Service</a>
+            <li class="drop-down active"><a href="#">Service</a>
               <ul>
                 <li><a href="residential-relocation.html">Relocation Services</a></li>
                 <li><a href="car-transportation.html">
@@ -154,10 +154,10 @@
                 </div>
                 <div class="col-md-6 float-left ph-4">
                   <div class="mobile-view-inner">
-                    <h1 class="text-left">Warehousing &amp; Household Storage Services in India</h1>
-                    <p class="pc">Hire the safest and most reliable household storage services in India at affordable
-                      prices. Compare household storage charges from the top 3 vendors for an affordable warehouse for
-                      home storage in India. Affordable household storage charges in India start at Rs. 3,000 only.</p>
+                    <h1 class="text-left">Pet Relocation Services in India</h1>
+                    <p class="pc">Looking for professional pet relocation services in India? If yes then your search
+                      ends here. Compare the top 3 verified pet transporters and save money on hiring the best service.
+                    </p>
                     <div class="col-md-6 float-left mth pc text-left"><img
                         src="sitepackage/img/services/trusted-services.svg" alt="Verified Professionals"
                         title="Verified Professionals" class="icon-size"> <span class="size">Verified
@@ -175,10 +175,8 @@
                 </div>
                 <div class="clearfix"></div>
                 <div class="carousel slide text-center pb-3 carousel-display" data-ride="carousel">
-                  <h1 class="text-center">Warehousing &amp; Household Storage Services in India</h1>
-                  <p class="pc">Hire the safest and most reliable household storage services in India at affordable
-                    prices. Compare household storage charges from the top 3 vendors for an affordable warehouse for
-                    home storage in India. Affordable household storage charges in India start at Rs. 3,000 only.</p>
+                  <h1 class="text-center">Pet Relocation Services in India</h1>
+                  <p>Find and compare India's best pet transporters. And save money on hiring the service.</p>
                   <div class="carousel-inner">
                     <div class="carousel-item active">
                       <img src="sitepackage/img/services/trusted-services.svg" alt="Verified Professionals"
@@ -200,22 +198,6 @@
                   </div>
                 </div>
 
-              </div>
-              <div class="clearfix"></div>
-              <div id="secondarymenu" class="secondarymenu plc-5 w-100 overflow-auto d-flex">
-                <div class="col-lg-12">
-                  <ul class="nav nav-tabs display-inline">
-                    <li class="nav-item display-inline"><a class="nav-link-inner text-center w-100"
-                        href="#relocation">Hiring Guide</a></li>
-                    <li class="nav-item display-inline"><a class="nav-link-inner text-center"
-                        href="#reviews">Reviews</a></li>
-                    <li class="nav-item display-inline"><a class="nav-link-inner text-center w-100" href="#why">Why
-                        Us</a></li>
-                    <li class="nav-item display-inline"><a class="nav-link-inner text-center" href="#faq">FAQ</a></li>
-                    <li class="nav-item display-inline"><a class="nav-link-inner text-center" href="#blog">Blog</a></li>
-
-                  </ul>
-                </div>
               </div>
               <div class="clearfix"></div>
               <div class="form-controler pl-3 pr-3 float-left">
@@ -258,9 +240,8 @@
                           value="SUBMIT &rarr;">
                       </div>
                     </div>
-                    <div style="margin:auto; text-align:center;"><i class="icofont-checked"></i> I Accept <a
-                        href="terms-and-conditions.html" target="_blank"><span class="red">Terms &amp;
-                          Conditions</span></a> of HL</div>
+                    <div style="margin:auto; text-align:center;"><i class="icofont-checked"></i> I Accept <a href="#"
+                        target="_blank"><span class="red">Terms &amp; Conditions</span></a> of HL</div>
                   </form>
                 </div>
               </div>
@@ -320,146 +301,74 @@
 
               <div id="relocation" class="content pbqn ptqn plc-5">
                 <div class="col-xl-12 col-lg-12">
-                  <h2 class="pt-3 blue">Count on National packers and Mover for Affordable Household Storage Services
-                  </h2>
+                  <h2 class="pt-3 blue">Hire the Best Pet Transport Service in India at Your Best Price</h2>
                   <div class="line-bottom-left"></div>
-                  <img class="img-fluid float-right pli"
-                    src="https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/7e3af8a2-52e1-4c0a-3173-3fd1c7240600/public"
-                    alt="Warehousing and Storage Services" title="Warehousing and Storage Services">
-                  <p class="text-justify">Are you looking for a safe warehouse for household storage in India? Do you
-                    want to hire affordable household storage services at an affordable price? If yes, then your search
-                    ends here at National packers and Mover. We offer the safest and most reliable home storage services
-                    in Indian cities at an affordable price. We will offer you free price estimates from the top-rated
-                    home storage companies or packers and movers. In this way, you will have free quotes from multiple
-                    companies to compare and save money on hiring the best household storage service.</p>
-                  <p class="text-justify">Household storage service is one of the most in-demand services offered by
-                    professional packers and movers in India. People relocating from one city to another often need home
-                    storage service as per their needs and preferences. Warehousing service for household storage is one
-                    of the finest aids from the moving companies to people who need short-term or long-term storage of
-                    their household belongings. People moving to a new place can hire a storage service for their
-                    belongings when they don&rsquo;t have enough space at their new home. </p>
-                  <p class="text-justify">We at National packers and Mover are committed to providing you with the
-                    safest and most reliable household storage facility in almost all the major Indian cities at genuine
-                    rates. It is our endeavour to offer you the safest and most spacious warehouse to accommodate all
-                    types of home belongings such as general household items, appliances, furniture, luggage, boxes,
-                    etc. </p>
-                  <h3 class="font-weight-bold pt-3">Why do you need to hire a household storage service?</h3>
-                  <p class="text-justify">Suppose you found a new home in your budget. The only thing lacking in your
-                    new home is space. How you will deal with the items that are much essential for you if you
-                    don&rsquo;t have enough space to keep them all. In another situation, if your new home is not ready
-                    to move in, then how you will manage the storage of your household iteHL In these scenarios, you
-                    only have the choice of hiring household storage service. There are many professional moving
-                    companies and independent warehousing service providers in India that can cater to your needs for
-                    home storage. </p>
-                  <p class="text-justify">Hiring the professional home storage service is the best choice if you want to
-                    keep your belongings for a period. You can opt for warehousing service for household storage for a
-                    period ranging from 1 month to 2 years. No matter, whether you need home storage for 1 month or 6
-                    months, hiring the best and safest warehousing space is crucial. </p>
-                  <h3 class="font-weight-bold pt-3">National packers and Mover is the Best Choice for Warehousing
-                    Services</h3>
-                  <p class="text-justify">We at National packers and Mover offer the most reliable and safest household
-                    storage space in almost all major Indian cities at an affordable price. We are partnered with
-                    India&rsquo;s best moving companies and independent household storage companies to meet the
-                    requirements of storage facilities. That&rsquo;s not all, we can also provide you with storage
-                    service for commercial and office belongings at an affordable price. </p>
-                  <p class="text-justify">Our partner packers and movers and warehousing service providers are licensed
-                    and registered companies. We have thoroughly verified their background and market reputations. So,
-                    you don&rsquo;t need to take tension if you choose us to hire a warehousing service for household
-                    storage in India. </p>
-                  <p class="text-justify">If you hire a household storage service with us, then you will have several
-                    benefits. Some attributes of warehousing services are as follows.</p>
-                  <p class="text-justify">Safe and spacious warehouse for storage of household belongings. </p>
-                  <ul>
-                    <li>Temperature control storage units.</li>
-                    <li>Monthly pest control facilities at warehousing space. </li>
-                    <li>Daily cleaning and weekly vacuum cleaning. </li>
-                    <li>Fire-fighting equipment. </li>
-                    <li>Inventory management.</li>
-                    <li>24x7 security and CCTV surveillance.</li>
-                    <li>Proper packing and inventory of items that you want to keep in the warehouse.</li>
-                  </ul>
-                  <p class="text-justify">Warehousing service for household storage is the best choice for people who
-                    are shifting to a new city where the residence is not fixed. They can keep their belongings at the
-                    safest warehouse for a period of choice. Before hiring a household storage service, ensure to check
-                    what items are not permissible to keep in the warehouse. If you hire the best warehousing service
-                    for household storage with us, then you will find yourself tension-free. Your goods are safe. </p>
-                  <p class="text-justify">If you truly want to hire the best and most affordable household storage
-                    service in India, then count on Moving Solutions. Fill out the enquiry form on this website to get
-                    free quotes. Compare the household storage charges and get the best service at an affordable price.
+                  <img class="img-fluid float-right pli" src="sitepackage/img/banner/pet-relocation.jpg"
+                    alt="Pet Transport Service" title="Pet Transport Service">
+                  <p class="text-justify">Transporting pets from one city to another is not an easy task at all. There
+                    are certain things you need to take into considerations before planning for pet relocation. One of
+                    the best things you can do for transporting your pets is to choose a reliable pet relocation service
+                    provider. </p>
+                  <p class="text-justify">There are several professional relocation companies that specialize in or
+                    offer services for pet transportation from one place to another. It is recommended to choose the
+                    right and trusted service provider. </p>
+                  <p class="text-justify">We at Moving Solutions provide you the best assistance in choosing the right
+                    and reliable pet relocation service provider. To help you out, we have made a partnership with
+                    top-notch pet transporters from different Indian cities. Here we will provide you free price
+                    quotations from the top 3 verified and qualified pet transporters. The only thing you need to do is
+                    comparing the rates for pet relocation service and hire the best service that matches your needs and
+                    budget. </p>
+                  <p class="text-justify">So, what are you thinking more? If you truly need to hire a pet relocation
+                    service in your city then let us know. Submit your query online to get the free price quotations.
+                    Compare pet transportation charges and hire a reliable service. </p>
+                  <h3 class="pt-3 font-weight-bold">Pet Transportation Guide</h3>
+                  <p class="text-justify">Pets are not just pets. They are family and who would understand this well
+                    other than a pet owner. They live with us, they eat with us, they play with us, and like they are
+                    there in everything that we are doing then how can we leave pets during relocation and move to
+                    another place. Well, this is the statement of most of the pet owners who are much attached to their
+                    furry friends and don’t want to leave them at any cost. Relocation is a tough mental challenge. We
+                    are here referring to relocation as a challenge because it is something that changes the complete
+                    mindset and behavior of the people. Our routine, life, and so many other relevant things change
+                    during the process of relocation; but we are humans and we are supposed to coordinate well with the
+                    requirement. What about the pets who are also supposed to make a move with us?</p>
+                  <p class="text-justify">Well, pet relocation is tougher than human relocation and is complex too. They
+                    are not as easy to relocate as the non-living things because they can react to situations that will
+                    not go as per them. With this, they are also not as difficult to move as humans who take a lot of
+                    time for adjustment. So, in a collective sense, it can be stated well that pet relocation is going
+                    to give you Goosebumps and especially when you are least prepared for it. If you are also planning
+                    to move your pet from a location to another then here are a few of the things that you should keep
+                    in consideration in order to have the safest transition for your furry friends.</p>
+                  <h3 class="pt-4 font-weight-bold">Most Important Pet Moving Tips for Owners</h3>
+                  <p class="text-justify">For those who are planning or are moving their pets to the new place here are
+                    a few of the important things that would help them in undergoing the process in safe order. </p>
+                  <p class="text-justify">Make a Moving Plan Considering Pets: As you are all set to move to a new place
+                    with your pet, so you should make a moving plan accordingly. This is necessary for you to make a
+                    moving scenario keeping into consideration your pets. If you are moving to a long-distance, how the
+                    pet would be transported there, what about food arrangements, and things like these have to be
+                    decided beforehand.</p>
+                  <p class="text-justify"><strong>Prepare Identity Collar with Contact Details:</strong> If you are
+                    hiring a pet relocation company for the process then you would need to do some important favors for
+                    your pet. Prepare a pet identity collar with the updated collar details, this would help you to
+                    identify your pet if it gets lost in similar ones. </p>
+                  <p class="text-justify"><strong>Check about the Guidelines for Pets at New Location:</strong> The new
+                    place where you would be transporting your pet is pet-friendly. Is your pet breed allowed there?
+                    Well, these are a few of the things that you should check beforehand in order to stay on the safer
+                    side.</p>
+                  <p class="text-justify"><strong>Consult Vet for Vaccinations if Required:</strong> Consulting your vet
+                    with regards to your pet move and about the vaccinations that would be required if transporting to a
+                    longer distance, is also one of the important things you should do. If you can manage to have a
+                    reference from your vet of a good vet at the new place then also it would favor you in the long run.
                   </p>
+                  <p class="text-justify"><strong>Make Arrangements for Moving Day:</strong> Moving day is tough and not
+                    only for you but for your pet as well. For the day of the move, you should make a proper arrangement
+                    for your pet. Along with this, you should also arrange for their food, loo, and other related things
+                    so that, the moving day may not bother them.</p>
+                  <p class="text-justify">Pet moving is tough, but good management can help you get the best result out
+                    of it. The tips that are mentioned above would help you to safely take your pet to the new home so
+                    that, you can play with it there.</p>
                 </div>
               </div>
-              <div class="clearfix"></div>
-              <div id="price" class="content plc-5">
-                <div class="col-md-12 text-justify">
-                  <h2 class="pt-3 blue">Estimated Warehouse Charges for Household Storage in India</h2>
-                  <div class="line-bottom-left"></div>
-                  <p class="text-justify">Warehousing for household storage is one of the value-added services provided
-                    by most moving companies in India. If you want to hire this specific value-added service, then we
-                    recommend you check the charges first. Here is a price chat for household storage in India that may
-                    help you know the estimated household storage charges.</p>
-                  <h3 class="pt-3 yellow font-weight-bold">Household storage price chart</h3>
-                  <div style="overflow-x:auto;margin-bottom: 15px;">
-                    <table>
-                      <tr>
-                        <td><strong>Household Storage Type</strong></td>
-                        <td><strong>Estimated Charges</strong></td>
-                        <td><strong>Total Approx. Number of Boxes:</strong></td>
-                      </tr>
-                      <tr>
-                        <td>1 BHK</td>
-                        <td>Rs 3000 – 4000 Per Month</td>
-                        <td>20</td>
-                      </tr>
-                      <tr>
-                        <td>2 BHK</td>
-                        <td>Rs 4000 – 5000 Per Month</td>
-                        <td>30</td>
-                      </tr>
-                      <tr>
-                        <td>Box Storage (Small)</td>
-                        <td>Rs 300 – 400 per month</td>
-                        <td>—NA—</td>
-                      </tr>
-                      <tr>
-                        <td>Box Storage (Medium)</td>
-                        <td>Rs 500 – 600 per month</td>
-                        <td>—NA—</td>
-                      </tr>
-                      <tr>
-                        <td>Box Storage (Large)</td>
-                        <td>Rs 600 – 700 per month</td>
-                        <td>—NA—</td>
-                      </tr>
-                      <tr>
-                        <td>Scooter/Bike Storage</td>
-                        <td>Rs 750 – 1100 per month</td>
-                        <td>—NA—</td>
-                      </tr>
-                      <tr>
-                        <td>Sports Bike Storage</td>
-                        <td>Rs 1000 – 1500 per month</td>
-                        <td>—NA—</td>
-                      </tr>
-                      <tr>
-                        <td>Car Storage (Hatchback)</td>
-                        <td>Rs 2500 – 3200 per month</td>
-                        <td>—NA—</td>
-                      </tr>
-                      <tr>
-                        <td>Car Storage (Sedan)</td>
-                        <td>Rs 3000 – 3800 per month</td>
-                        <td>—NA—</td>
-                      </tr>
-                      <tr>
-                        <td>Car Storage (SUV)</td>
-                        <td>Rs 4000 – 5000 per month</td>
-                        <td>—NA—</td>
-                      </tr>
-                    </table>
-                  </div>
-                </div>
-              </div>
+
               <div class="clearfix"></div>
               <div id="reviews" class="testimonials section-bg float-left pbqn ptqn plc-5 float-left">
 
@@ -534,7 +443,7 @@
                     </p>
                   </div>
                   <div class="text-center mt-4">
-                    <a href="#" class="btn btn-info text-center">View More Reviews</a>
+                    <a href="index.html" class="btn btn-info text-center">View More Reviews</a>
                   </div>
                 </div>
               </div>
@@ -577,58 +486,43 @@
               <div class="clearfix"></div>
               <div id="city" class="content pbqn ptqn plc-5">
                 <div class="section-title">
-                  <h2 class="pt-3">Warehousing Services in India</h2>
+                  <h2 class="pt-3">Pet Transportation in India</h2>
                 </div>
                 <div class="listing-box">
                   <ul>
-                    <li><a href="locations.html">Warehousing in Delhi</a></li>
-                    <li><a href="locations.html">Warehousing in Bangalore</a></li>
-                    <li><a href="locations.html">Warehousing in Gurgaon</a></li>
-                    <li><a href="locations.html">Warehousing in Noida</a></li>
-                    <li><a href="locations.html">Warehousing in Allahabad</a></li>
-                    <li><a href="locations.html">Warehousing in Vijayawada</a></li>
-                    <li><a href="locations.html">Warehousing in Varanasi</a></li>
-                    <li><a href="locations.html">Warehousing in Vadodara</a></li>
-                    <li><a href="locations.html">Warehousing in Thane</a></li>
-                    <li><a href="locations.html">Warehousing in Surat</a></li>
-                    <li><a href="locations.html">Warehousing in Rewari</a></li>
-                    <li><a href="locations.html">Warehousing in Ranchi</a></li>
-                    <li><a href="locations.html">Warehousing in Raipur</a></li>
-                    <li><a href="locations.html">Warehousing in Pimpri Chinchwad</a></li>
-                    <li><a href="locations.html">Warehousing in Trivandrum</a></li>
+                    <li><a href="locations.html"> pet relocation in Delhi</a></li>
+                    <li><a href="locations.html">pet relocation in Bangalore</a></li>
+                    <li><a href="locations.html">pet relocationin Gurgaon</a></li>
+                    <li><a href="locations.html"> pet relocation in Noida</a></li>
+                    <li><a href="locations.html"> pet relocation in Allahabad</a></li>
+                    <li><a href="locations.html">pet relocation in Vijayawada</a></li>
+                    <li><a href="locations.html">pet relocation in Varanasi</a></li>
+                    <li><a href="locations.html">pet relocation in Vadodara</a></li>
+                    <li><a href="locations.html">pet relocation in Thane</a></li>
+                    <li><a href="locations.html"> pet relocation in Surat</a></li>
+                    <li><a href="locations.html">pet relocation in Rewari</a></li>
+                    <li><a href="locations.html">pet relocation in Ranchi</a></li>
+                    <li><a href="locations.html">pet relocation in Raipur</a></li>
+                    <li><a href="locations.html">pet relocation in Pimpri Chinchwad</a>
+                    </li>
+                    <li><a href="locations.html"> pet relocation in Trivandrum</a></li>
                   </ul>
+
                   <ul>
-                    <li><a href="locations.html">Warehousing in Patna</a></li>
-                    <li><a href="locations.html">Warehousing in Panchkula</a></li>
-                    <li><a href="locations.html">Warehousing in Navi Mumbai</a></li>
-                    <li><a href="locations.html">Warehousing in Nashik</a></li>
-                    <li><a href="locations.html">Warehousing in Mohali</a></li>
-                    <li><a href="locations.html">Warehousing in Manesar</a></li>
-                    <li><a href="locations.html">Warehousing in Ludhiana</a></li>
-                    <li><a href="locations.html">Warehousing in Mumbai</a></li>
-                    <li><a href="locations.html">Warehousing in Pune</a></li>
-                    <li><a href="locations.html">Warehousing in Hyderabad</a></li>
-                    <li><a href="locations.html">Warehousing in Kolkata</a></li>
-                    <li><a href="locations.html">Warehousing in Kanpur</a></li>
-                    <li><a href="locations.html">Warehousing in Jaipur</a></li>
-                    <li><a href="locations.html">Warehousing in Indore</a></li>
-                    <li style="visibility:hidden">&nbsp;</li>
-                  </ul>
-                  <ul>
-                    <li><a href="locations.html">Warehousing in Hisar</a></li>
-                    <li><a href="locations.html">Warehousing in Greater Noida</a></li>
-                    <li><a href="locations.html">Warehousing in Gorakhpur</a></li>
-                    <li><a href="locations.html">Warehousing in Ghaziabad</a></li>
-                    <li><a href="locations.html">Warehousing in Faridabad</a></li>
-                    <li><a href="locations.html">Warehousing in Coimbatore</a></li>
-                    <li><a href="locations.html">Warehousing in Chennai</a></li>
-                    <li><a href="locations.html">Warehousing in Chandigarh</a></li>
-                    <li><a href="locations.html">Warehousing in Bilaspur</a></li>
-                    <li><a href="locations.html">Warehousing in Bhubaneswar</a></li>
-                    <li><a href="locations.html">Warehousing in Bhiwadi</a></li>
-                    <li><a href="locations.html">Warehousing in Amritsar</a></li>
-                    <li><a href="locations.html">Warehousing in Ahmedabad</a></li>
-                    <li><a href="locations.html">Warehousing in Nagpur</a></li>
+                    <li><a href="locations.html">pet relocation in Hisar</a></li>
+                    <li><a href="locations.html">pet relocationin Greater Noida</a></li>
+                    <li><a href="locations.htmll">pet relocation in Gorakhpur</a></li>
+                    <li><a href="locations.html">pet relocation in Ghaziabad</a></li>
+                    <li><a href="locations.html">pet relocation in Faridabad</a></li>
+                    <li><a href="locations.html">pet relocation in Coimbatore</a></li>
+                    <li><a href="locations.html">pet relocation in Chennai</a></li>
+                    <li><a href="locations.html">pet relocation in Chandigarh</a></li>
+                    <li><a href="locations.html">pet relocation in Bilaspur</a></li>
+                    <li><a href="locations.html">pet relocation in Bhubaneswar</a></li>
+                    <li><a href="locations.html">pet relocation in Bhiwadi</a></li>
+                    <li><a href="locations.html">pet relocation in Amritsar</a></li>
+                    <li><a href="locations.html">pet relocation in Ahmedabad</a></li>
+                    <li><a href="locations.html">pet relocation in Nagpur</a></li>
                     <li style="visibility:hidden">&nbsp;</li>
                   </ul>
                 </div>
@@ -645,79 +539,77 @@
                     <ul>
                       <li data-aos="fade-up" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" class="collapse"
-                          href="#faq-list-1" itemprop="name"><strong>What is household goods storage service? Is it
-                            safe?</strong> <i class="bx bx-chevron-down icon-show"></i><i
+                          href="#faq-list-1" itemprop="name"><strong>What type of pets do your vendors
+                            relocate?</strong> <i class="bx bx-chevron-down icon-show"></i><i
                             class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-1" class="collapse show" data-parent=".faq-list" itemscope
                           itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <div itemprop="text">
-                            <p>Logistic and transport companies offer household goods storage services for the people
-                              who want a space for storing their goods for a short or long-term period. Whether you are
-                              relocating abroad temporarily or have no stable place to keep your belongings with you,
-                              then you can avail of warehousing and goods storage service. Warehousing units are safe
-                              and insured, but it is always good to ensure it from your end.</p>
+                            <p>Our vendors can transport any type of pets that are not harmful and dangerous as stated
+                              by the government. All breeds of dogs and cats can be transported by pet relocation
+                              companies. But, they do not transport the puppies and kittens that are less than three
+                              months.</p>
                           </div>
                         </div>
                       </li>
                       <li data-aos="fade-up" data-aos-delay="100" itemscope itemprop="mainEntity"
                         itemtype="https://schema.org/Question">
                         <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-2"
-                          class="collapsed" itemprop="name"><strong>How are warehouse and goods storage service rates
-                            determined?</strong> <i class="bx bx-chevron-down icon-show"></i><i
-                            class="bx bx-chevron-up icon-close"></i></a>
+                          class="collapsed" itemprop="name"><strong>Is pet relocation expensive?</strong> <i
+                            class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-2" class="collapse" data-parent=".faq-list" itemscope
                           itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <div itemprop="text">
-                            <p>Warehouse rates are mainly determined by the time duration of the goods stored in the
-                              warehouse. Apart from this, any specific handling and shipping requirement is needed for a
-                              particular item, affect the warehousing cost. Through National packers and Mover, you will
-                              get quotations to know the rates and charges of warehousing and goods storage service.</p>
+                            <p>Pet relocation is not similar to the household move. Here the vendors will be responsible
+                              to transport a living creature. Hence, the resources are required to transport the pets
+                              safely and comfortably contribute to the costs. Since the pets can’t travel for a longer
+                              period, they are transported by air, which expensive than other modes of transportation.
+                            </p>
                           </div>
                         </div>
                       </li>
                       <li data-aos="fade-up" data-aos-delay="100" itemscope itemprop="mainEntity"
                         itemtype="https://schema.org/Question">
                         <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-3"
-                          class="collapsed" itemprop="name"><strong>What type of industry do you specialize in?</strong>
-                          <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                          class="collapsed" itemprop="name"><strong>Is my pet safe in a cargo?</strong> <i
+                            class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-3" class="collapse" data-parent=".faq-list" itemscope
                           itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <div itemprop="text">
-                            <p>The professional logistic companies associated with us have flexible warehouse and
-                              storage services for every type of industry. They don’t limit themselves and provide both
-                              commercial and residential goods storage services.</p>
+                            <p>Yes! Your pet is safe in cargo because the cargos are temperature-controlled and
+                              pressurized like the cabins. They will be provided all the essentials during the
+                              transportation, hence, there’s nothing to worry about. </p>
                           </div>
                         </div>
                       </li>
                       <li data-aos="fade-up" data-aos-delay="100" itemscope itemprop="mainEntity"
                         itemtype="https://schema.org/Question">
                         <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-4"
-                          class="collapsed" itemprop="name"><strong>Do you offer short-term or long-term storage
-                            services?</strong> <i class="bx bx-chevron-down icon-show"></i><i
+                          class="collapsed" itemprop="name"><strong>What preparation do I need to make to transport my
+                            pet?</strong> <i class="bx bx-chevron-down icon-show"></i><i
                             class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-4" class="collapse" data-parent=".faq-list" itemscope
                           itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <div itemprop="text">
-                            <p>You will get both short-term and long-term storage services. The goods or products that
-                              are stored in our warehouse for less than 1 month will be considered as short-term
-                              storage. And, the goods that are stored in our warehouse for more than 1 month and beyond
-                              will be considered as long-term storage service.</p>
+                            <p>Depending on the transport method of your pet by air or road, you will have to get a
+                              health certificate of your pet. Also, you must contact a pet relocation specialist to
+                              verify that you have all the paperwork that is required for pet transportation. </p>
                           </div>
                         </div>
                       </li>
                       <li data-aos="fade-up" data-aos-delay="100" itemscope itemprop="mainEntity"
                         itemtype="https://schema.org/Question">
                         <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-5"
-                          class="collapsed" itemprop="name"><strong>Is it important to pack the goods before sending
-                            them to the warehouse?</strong> <i class="bx bx-chevron-down icon-show"></i><i
+                          class="collapsed" itemprop="name"><strong>What documents are needed for pet
+                            relocation?</strong> <i class="bx bx-chevron-down icon-show"></i><i
                             class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-5" class="collapse" data-parent=".faq-list" itemscope
                           itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <div itemprop="text">
-                            <p>Yes, packing the goods is important before sending them to the warehouse. And it is also
-                              good to get it done by a professional moving company. They offer a packing service as
-                              well. Professional packers can do good packing using high-quality packaging materials,
-                              waterproof and weatherproof packing.</p>
+                            <p>The documents needed for pet transportation vary from country to country. But the most
+                              basic documents that will be required is the vaccination record booklet. Well, your pet
+                              relocation service provider will help you to know about all the documents that you will be
+                              required to transport your pet. </p>
                           </div>
                         </div>
                       </li>
@@ -980,25 +872,11 @@ flex: 1 1 auto;" class="form-control">
             <div class="col-lg-3 col-md-6 footer-contact">
               <img src="sitepackage/img/banner//logo.png" alt="" width="100%">
 
-              <p>Shop no 2, Anthony's school suchitra, sri Durga estates Hyderabad, Telangana 500055</p>
-              <p>Plot no 30A ghandi Rd , kavankrai, puzhal, channai tamilnadu 600066
-              </p>
-              <p>Sai deep apartment balkum naka near fire bridge St thane west mumbai 400608
-              </p>
-              <p>
-                Plot no 17A Jai Mangal murti housing society Sai nagar wadi nagpur - 440023
-              </p>
-              <p>No. 02.k no . 41/6 vittasandra Begur banglore 560100
-              </p>
-              <p>Sector 5 lakshman chowk old railway road gurugram</p>
-              <p>Shop No. 06, Gate No . 65, Near Marere
-                House , Borhadewad Moshi , Pune - 41210</p>
+              <p>Address: Pocket-H, First Floor, 48, 2, Sector Alpha Rd, Greater Noida, Uttar Pradesh 201307</p>
 
-              <strong>Email:</strong> <a href="mailto:">nationalpackersandmoversinfo@gmail.com</a><br>
-              <strong>Mobile:</strong> <a href="tel:+919043798129">+91 9043798129</a>, <a
-                href="tel:+919043798129">9043798129</a><br>
-              <strong> Gst In :</strong> 33IAQPK3437R1ZU
-              </p>
+              <strong>Email:</strong> <a href="mailto:">Oncallpackers@gmail.com</a><br>
+              <strong>Mobile:</strong> <a href="tel:+918448574563">+91 98448574563</a>
+              </p>  
 
 
             </div>
@@ -1011,11 +889,10 @@ flex: 1 1 auto;" class="form-control">
                 <li><i class="bx bx-chevron-right"></i> <a href="car-transportation.html">Car Transportation</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="bike-transportation.html">Bike Transportation</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="warehousing-services.html">Warehousing</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="pet.html">Pet Relocation</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="truck-on-rent-for-shifting.html">Truck/Tempo on
-                    Rent</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="luggage-transport-services-in-india.html">Luggage
-                    Transport</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="local-shifting.html">Local Shifting</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="commercial-shifting.html">Commercial Shifting</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="corporate-moving.html">Corporate Moving</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="international-moving.html">International Moving</a></li>
 
                 <!-- <li><i class="bx bx-chevron-right"></i> <a href="#">Pest Control</a></li> -->
 
@@ -1055,15 +932,13 @@ flex: 1 1 auto;" class="form-control">
               <h4 class="text-left">Help Us Spread the Word</h4>
               <p class="text-left">Like, Follow, Tweet or Share. We Just Love Interacting With You.</p>
               <div class="social-links text-left">
-                <a href="https://x.com/?lang=en" class="twitter"><i class="bx bxl-twitter"></i><span>Twitter</span></a>
-                <a href="https://www.facebook.com/" class="facebook"><i
+                <a href="https://www.youtube.com/@OnCallPackers" class="twitter"><i class="bx bxl-twitter"></i><span>Twitter</span></a>
+                <a href="https://www.facebook.com/profile.php?id=100091494346789" class="facebook"><i
                     class="bx bxl-facebook"></i><span>Facebook</span></a>
                 <a href="https://www.instagram.com/" class="instagram"><i
                     class="bx bxl-instagram"></i><span>instagram</span></a>
-                <a href="https://www.youtube.com/" class="google-plus"><i
+                <a href="https://www.youtube.com/@OnCallPackers" class="google-plus"><i
                     class="bx bxl-youtube"></i><span>Youtube</span></a>
-                <a href="https://www.linkedin.com/" class="linkedin"><i
-                    class="bx bxl-linkedin"></i><span>Linkedin</span></a>
               </div>
 
             </div>
@@ -1075,47 +950,28 @@ flex: 1 1 auto;" class="form-control">
         <div class="container">
           <div class="row">
             <div class="col-lg-3 col-md-6 footer-contact">
-              <h3>National packers and Mover</h3>
+              <h3>On Call Packers and Mover</h3>
 
 
-              <p>Shop no 2, Anthony's school suchitra, sri Durga estates Hyderabad, Telangana 500055</p>
-              <p>Plot no 30A ghandi Rd , kavankrai, puzhal, channai tamilnadu 600066
-              </p>
-              <p>Sai deep apartment balkum naka near fire bridge St thane west mumbai 400608
-              </p>
-              <p>
-                Plot no 17A Jai Mangal murti housing society Sai nagar wadi nagpur - 440023
-              </p>
-              <p>No. 02.k no . 41/6 vittasandra Begur banglore 560100
-              </p>
-              <p>Sector 5 lakshman chowk old railway road gurugram</p>
-              <p>Shop No. 06, Gate No . 65, Near Marere
-                House , Borhadewad Moshi , Pune - 41210</p>
+              <p>Address: Pocket-H, First Floor, 48, 2, Sector Alpha Rd, Greater Noida, Uttar Pradesh 201307</p>
               <strong>Email:</strong> <a
-                href="mailto:nationalpackersandmoversinfo@gmail.com">nationalpackersandmoversinfo@gmail.com</a><br>
-              <strong>Mobile:</strong> <a href="tel:+919043798129">+91-9043798129</a>, <a
-                href="tel:+919043798129">9043798129</a><br>
-              <strong> Gst In :</strong> 33IAQPK3437R1ZU
-
-
+                href="mailto:Oncallpackers@gmail.com">Oncallpackers@gmail.com</a><br>
+              <strong>Mobile:</strong> <a href="tel:+9198448574563">+91-98448574563</a>
               <br>
               </p>
-
 
             </div>
             <div class="col-lg-3 col-md-6 text-center">
               <h4 class="text-left">Help Us Spread the Word</h4>
               <p class="text-left">Like, Follow, Tweet or Share. We Just Love Interacting With You.</p>
               <div class="social-links text-left">
-                <a href="https://x.com/?lang=en" class="twitter"><i class="bx bxl-twitter"></i><span>Twitter</span></a>
-                <a href="https://www.facebook.com/" class="facebook"><i
+                <a href="https://www.youtube.com/@OnCallPackers" class="twitter"><i class="bx bxl-twitter"></i><span>Twitter</span></a>
+                <a href="https://www.facebook.com/profile.php?id=100091494346789" class="facebook"><i
                     class="bx bxl-facebook"></i><span>Facebook</span></a>
                 <a href="https://www.instagram.com/" class="instagram"><i
                     class="bx bxl-instagram"></i><span>instagram</span></a>
-                <a href="https://www.youtube.com/" class="google-plus"><i
+                <a href="https://www.youtube.com/@OnCallPackers" class="google-plus"><i
                     class="bx bxl-youtube"></i><span>Youtube</span></a>
-                <a href="https://www.linkedin.com/" class="linkedin"><i
-                    class="bx bxl-linkedin"></i><span>Linkedin</span></a>
               </div>
 
             </div>
@@ -1129,18 +985,14 @@ flex: 1 1 auto;" class="form-control">
                   <div id="content-list-7" class="collapse" data-parent=".content-list">
                     <div class="footer-links">
                       <ul>
-                        <li><i class="bx bx-chevron-right"></i> <a href="residential-relocation.html">Relocation
-                            Services</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="car-transportation.html">Car Transportation</a>
-                        </li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="bike-transportation.html">Bike
-                            Transportation</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="residential-relocation.html">Relocation Services</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="car-transportation.html">Car Transportation</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="bike-transportation.html">Bike Transportation</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="warehousing-services.html">Warehousing</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="pet.html">Pet Relocation</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="truck-on-rent-for-shifting.html">Truck/Tempo on
-                            Rent</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a
-                            href="luggage-transport-services-in-india.html">Luggage Transport</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="local-shifting.html">Local Shifting</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="commercial-shifting.html">Commercial Shifting</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="corporate-moving.html">Corporate Moving</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="international-moving.html">International Moving</a></li>
                         <!-- <li><i class="bx bx-chevron-right"></i> <a href="pe">Pest Control</a></li> -->
 
 
@@ -1203,38 +1055,20 @@ flex: 1 1 auto;" class="form-control">
 
         <div class="mr-md-auto text-center text-md-left">
           <div class="copyright">
-            &copy; All rights reserved 2022 <a href="index.html">National packers and Mover</a>
+            &copy; All rights reserved 2025 <a href="rnpitsolution.com">RNP IT SOLUTION</a>
           </div>
-          <!-- <div class="credits">
-          <p class="text-justify"> <strong>Disclaimer:</strong> We only provide references for professional packers and  movers in India. Before finalizing any packers and movers or any related  vendor, you are advised to verify their credentials on your own. Get everything  (quotations) in writing. Don&rsquo;t forget to get the final bill receipt before  allowing the movers to handle your move. We won&rsquo;t be responsible for any kind  of loss, damage, or mishap.<br><br></p>
-
-        </div> -->
         </div>
       </div>
     </footer>
+
+
+
     <div class="fixedbar">
       <div class="boxfloat">
         <ul id="tips">
-          <li class="pl-0 float-right"><span id="whatsapp"><a href="https://wa.me/919043798129?text=Hi"></a></span></li>
+          <li class="pl-0 float-right"><span id="whatsapp"><a href="https://wa.me/918448574563?text=Hi"></a></span></li>
           <li><a href="contact-us.html" class="btn btn-info quotes">Get Quotes</a></li>
-          <li><select id="mySelect1" onchange="myFunction(this.value)" name="city-search"
-              class="form-control mobile-search-city">
-              <option value="#" selected disabled>Change City...</option>
-              <option value='agra'>Agra</option>
-
-
-              <option value='pilkhuwa'>Pilkhuwa</option>
-
-              <option value='sonbhadra'>Sonbhadra</option>
-              <option value='sonipat'>Sonipat</option>
-              <option value='surat'>Surat</option>
-              <option value='thane'>Thane</option>
-              <option value='udaipur'>Udaipur</option>
-              <option value='vadodara'>Vadodara</option>
-              <option value='varanasi'>Varanasi</option>
-              <option value='zirakpur'>Zirakpur</option>
-            </select>
-          </li>
+          
         </ul>
 
       </div>
@@ -1303,13 +1137,28 @@ flex: 1 1 auto;" class="form-control">
     <script src="sitepackage/js/bootstrap-datepicker.min.js"></script>
     <script src="sitepackage/js/main.js"></script>
     <script>
+      function myRead() {
+        var moreText = document.getElementById("more");
+        var btnText = document.getElementById("myBtn");
+
+        if (more.style.display === "none") {
+          btnText.innerHTML = "Read more";
+          moreText.style.display = "none";
+        } else {
+          more.style.display = "none";
+          btnText.innerHTML = "Read less";
+          moreText.style.display = "inline";
+        }
+      }
+    </script>
+    <script>
       function myFunction(x) {
         if (x == 'mumbai') {
-          window.location = "https://www.National packers and mover/packers-and-movers-" + x + ".html";
+          window.location = "#" + x + ".html";
         } else if (x == 'bangalore') {
-          window.location = "https://www.National packers and mover/packers-and-movers-" + x + ".html";
+          window.location = "#" + x + ".html";
         } else {
-          window.location = "https://www.National packers and mover/packers-and-movers-in-" + x + ".html";
+          window.location = "#" + x + ".html";
         }
       }
     </script>
@@ -1331,21 +1180,15 @@ flex: 1 1 auto;" class="form-control">
         });
       });
     </script>
-    <script>
-      $(function () {
-        $("#datepicker2").datepicker({
-          startDate: new Date(),
-          endDate: '+45d',
-          autoclose: true
-        });
-      });
-    </script>
+
+
+
     <script type="application/ld+json">
  { "@context": "https://schema.org",
  "@type": "Organization",
  "name": "National packers and Mover",
- "url": "https://www.National packers and mover",
- "logo": "https://www.National packers and mover/https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/ca0878f5-1bbc-4f38-371a-37783c4de600/logo",
+ "url": "https://www.nationalpackersandmover & Moves",
+ "logo": "https://www.nationalpackersandmover & Moves/https://imagedelivery.net/0DagWCtQ6_9fVNiz6OzCnw/ca0878f5-1bbc-4f38-371a-37783c4de600/logo",
  "foundingDate": "2014",
  "founders": [
  {
@@ -1363,20 +1206,40 @@ flex: 1 1 auto;" class="form-control">
  "@type": "ContactPoint",
  "contactType": "customer support",
  "telephone": "[+91-9911-91-5845]",
- "email": "enquiry@National packers and mover"
+ "email": "enquiry@nationalpackersandmover & Moves"
  },
  "sameAs": [ 
  "https://www.facebook.com/movingsolutionss/",
  "https://twitter.com/movingsolution6/",
- "https://www.instagram.com/National packers and mover/",
+ "https://www.instagram.com/nationalpackersandmover & Moves/",
  "https://www.youtube.com/movingsolutions/",
  "https://www.linkedin.com/company/movingsolutions"
  ]}
 </script>
+    <script>
+      $('.owl-carousel').owlCarousel({
+        loop: true,
+        margin: 10,
+        dots: false,
+        nav: true,
+        autoplay: true,
+        smartSpeed: 3000,
+        autoplayTimeout: 7000,
+        responsive: {
+          0: {
+            items: 1
+          },
+          600: {
+            items: 2
+          },
+          1000: {
+            items: 3
+          }
+        }
+      })
+    </script>
 
   </body>
 
-
-  <!-- Mirrored from www.National packers and mover/warehousing-services.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 19 Nov 2022 09:52:04 GMT -->
 
 </html>
