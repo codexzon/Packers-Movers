@@ -7,9 +7,9 @@
   <link rel="stylesheet" href="css/style.css" />
   
   <script src="https://cdn.tailwindcss.com"></script>
-
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
   <script src="js/main.js"></script>
-  
+  <script src="https://cdn.jsdelivr.net/npm/lucide@latest"></script>
   <script src="https://unpkg.com/lucide@latest"></script>
 
 </head>
@@ -34,15 +34,15 @@
 <!-- about section ended from here  -->
 
 <!-- service section starts from here  -->
-<? php  include 'include/service-section.php'; ?>
+<?php  include 'include/service-section.php'; ?>
 <!-- service section ended from here  -->
 
 <!-- location section starts from here  -->
-<? php  include 'include/location-section.php'; ?>
+<?php  include 'include/location-section.php'; ?>
 <!-- location section ended from here  -->
 
 <!-- free quote section starts here  -->
-<? php  include 'include/free-quote-section.php'; ?>
+<?php  include 'include/free-quote-section.php'; ?>
 <!-- free quote section ended from here  -->
 
 <!-- review section starts from here  -->
@@ -50,13 +50,14 @@
 <!-- review section ended from here  -->
 
 <!-- main content page starts from here -->
-<? php  include 'include/main-content-page.php'; ?>
+<?php include 'include/main-content.php'; ?>
 <!-- main content ended from here  -->
 
 
 <!-- This is the footer section starts from here  -->
-<? php  include 'util/footer.php'; ?>
+<?php  include 'util/footer.php'; ?>
 <!-- footer section ended from here  -->
+
 
 </body>
 </html>
