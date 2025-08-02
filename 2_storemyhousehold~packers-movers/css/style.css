@@ -777,6 +777,66 @@ button:hover {
     }
 /* service section ended from here  */
 
+
+/* free quote section started from here  */
+.quote-section {
+    background: linear-gradient(135deg, #ff6b00, #f97e29);
+    padding: 60px 20px;
+    text-align: center;
+    color: #fff;
+    position: relative;
+    z-index: 1;
+  }
+
+  .quote-container {
+    max-width: 800px;
+    margin: auto;
+  }
+
+  .quote-title {
+    font-size: 2.5em;
+    margin-bottom: 15px;
+    font-weight: bold;
+  }
+
+  .quote-description {
+    font-size: 1.1em;
+    margin-bottom: 30px;
+  }
+
+  .quote-button {
+    display: inline-block;
+    padding: 14px 28px;
+    background-color: #fff;
+    color: #ff6b00;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 1em;
+    transition: all 0.3s ease;
+  }
+
+  .quote-button:hover {
+    background-color: #f3f3f3;
+    color: #e05e00;
+  }
+
+  @media (max-width: 600px) {
+    .quote-title {
+      font-size: 1.8em;
+    }
+
+    .quote-description {
+      font-size: 1em;
+    }
+
+    .quote-button {
+      padding: 12px 24px;
+      font-size: 0.95em;
+    }
+  }
+/* free quote section ended from here  */
+
 /* location section starts from here  */
 
     .locations-section {
@@ -1090,6 +1150,9 @@ button:hover {
       }
     }
 /* free quote section ended from here  */
+
+
+
 
 /* footer sectioin start from here  */
 .footer {
