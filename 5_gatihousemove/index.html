@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gati House Move</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script href="js/main.js"></script>
+</head>
+<body>
+
+  
+  <!-- HEADER -->
+<header>
+  <div class="navbar">
+    <h1>My Website</h1>
+    <nav class="nav-links">
+      <a href="#">Home</a>
+      <a href="#">Services</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+    </nav>
+    <div class="hamburger">☰</div>
+  </div>
+</header>
+
+<!-- Quote form section -->
+<section class="quote-section">
+  <h2>Get a Free Quote</h2>
+  <p>Fill in your details and we’ll get back to you shortly.</p>
+
+  <form class="quote-form">
+    <input type="text" placeholder="Your Name" required>
+    <input type="email" placeholder="Email Address" required>
+    <input type="tel" placeholder="Phone Number" required>
+    <select required>
+      <option value="">Select Service</option>
+      <option>Household Shifting</option>
+      <option>Office Relocation</option>
+      <option>Car Transportation</option>
+    </select>
+    <textarea placeholder="Your Requirements" rows="3" required></textarea>
+    <button type="submit">Request Quote</button>
+  </form>
+</section>
+
+<!-- SERVICES -->
+<section class="services">
+  <div class="service-card">
+    <img src="images/image.png" alt="">
+    <h3>Service 1</h3>
+    <p>Description...</p>
+  </div>
+  <div class="service-card">
+    <img src="images/image.png" alt="">
+    <h3>Service 2</h3>
+    <p>Description...</p>
+  </div>
+  <div class="service-card">
+    <img src="images/image.png" alt="">
+    <h3>Service 3</h3>
+    <p>Description...</p>
+  </div>
+</section>
+
+<!-- ABOUT -->
+<section class="about">
+  <img src="images/image.png" alt="">
+  <div class="about-text">
+    <h2>About Us</h2>
+    <p>About section text...</p>
+  </div>
+</section>
+
+<!-- DETAILED SERVICES -->
+<section class="detailed-services">
+  <div class="detailed-service">
+    <h3>Detailed Service 1</h3>
+    <p>Details...</p>
+  </div>
+  <div class="detailed-service">
+    <h3>Detailed Service 2</h3>
+    <p>Details...</p>
+  </div>
+  <div class="detailed-service">
+    <h3>Detailed Service 3</h3>
+    <p>Details...</p>
+  </div>
+</section>
+
+<!-- WORKFLOW -->
+<section class="workflow">
+  <div class="workflow-step">Step 1</div>
+  <div class="workflow-step">Step 2</div>
+  <div class="workflow-step">Step 3</div>
+</section>
+
+<!-- TESTIMONIALS -->
+<section class="testimonials">
+  <div class="testimonial active">"Great service!" - John</div>
+  <div class="testimonial">"Loved it!" - Mary</div>
+  <div class="testimonial">"Highly recommend!" - Alex</div>
+</section>
+
+<!-- FAQ -->
+<section class="faq">
+  <div class="faq-item">
+    <div class="faq-question">What is your service?</div>
+    <div class="faq-answer">We provide ...</div>
+  </div>
+  <div class="faq-item">
+    <div class="faq-question">How much does it cost?</div>
+    <div class="faq-answer">It depends ...</div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <p>© 2025 My Website | Contact: info@example.com</p>
+</footer>
+
+<script>
+// HAMBURGER MENU
+document.querySelector('.hamburger').addEventListener('click', () => {
+  document.querySelector('.nav-links').classList.toggle('show');
+});
+
+// TESTIMONIAL SLIDER
+let tIndex = 0;
+const testimonials = document.querySelectorAll('.testimonial');
+setInterval(() => {
+  testimonials[tIndex].classList.remove('active');
+  tIndex = (tIndex + 1) % testimonials.length;
+  testimonials[tIndex].classList.add('active');
+}, 3000);
+
+// FAQ
+document.querySelectorAll('.faq-question').forEach(q => {
+  q.addEventListener('click', () => {
+    q.nextElementSibling.style.display =
+      q.nextElementSibling.style.display === 'block' ? 'none' : 'block';
+  });
+});
+</script>
+
+</body>
+</html>
